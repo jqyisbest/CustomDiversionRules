@@ -18,16 +18,25 @@ jobs:
       - name: Update Rules
         continue-on-error: false
         run: |
-          ls .
           cd upstream
           wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
           wget https://anti-ad.net/anti-ad-for-smartdns.conf
           wget https://adrules.top/smart-dns.conf
-          ls .
-          cd ../
-          ls .
-          cat upstream/*.conf | sed -e '/^#/d' | sort | uniq > rules/smartdns.conf
-          ls ./rules
+          cd ../rules
+
+          mkdir temp
+          update_time="$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')(GMT+8)"
+          cat upstream/*.conf | sed -e '/^#/d' | sort | uniq > temp/smartdns.conf
+          
+          cat title/title.txt > smartdns.conf 
+          echo "#" >> smartdns.conf
+          echo "# Total count: $(wc -l < temp/smartdns.conf)" > >> smartdns.conf
+          echo "#" >> smartdns.conf
+          echo "# Update: $update_time" >> smartdns.conf
+          echo "#" >> smartdns.conf
+          echo "#==========================================================================" >> smartdns.conf
+
+          cat temp/smartdns.conf >> smartdns.conf 
           
       - name: Git push assets to Github
         run: |
