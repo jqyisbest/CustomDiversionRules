@@ -23,7 +23,7 @@ jobs:
         continue-on-error: false
         run: |
           cd upstream
-          rm -rf .
+          rm -rf ./
           # wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
           wget https://anti-ad.net/anti-ad-for-smartdns.conf
           wget https://adrules.top/smart-dns.conf
