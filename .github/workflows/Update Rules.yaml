@@ -24,21 +24,33 @@ jobs:
           wget https://adrules.top/smart-dns.conf
           cd ../rules
 
-          mkdir temp
           update_time="$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')(GMT+8)"
+          
+          mkdir temp
           cat ../upstream/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
+
+          total_count="$(wc -l < temp/smartdns.conf)"
 
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > ad_domain_list.txt
           
-          cat ../title/title.txt > smartdns.conf 
+          cat ../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
-          echo "# Total count: $(wc -l < temp/smartdns.conf)" >> smartdns.conf
+          echo "# Total count: $total_count" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "# Update: $update_time" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "#==========================================================================" >> smartdns.conf
-
           cat temp/smartdns.conf >> smartdns.conf 
+
+          cat ../title/clash_title.txt > clash.yaml
+          echo "#" >> clash.yaml
+          echo "# Total count: $total_count" >> clash.yaml
+          echo "#" >> clash.yaml
+          echo "# Update: $update_time" >> clash.yaml
+          echo "#" >> clash.yaml
+          echo "#==========================================================================" >> clash.yaml
+          echo "payload:" >> clash.yaml
+          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/- '\1'/g" >> clash.yaml
 
           rm -rf temp
           
