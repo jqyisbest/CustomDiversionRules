@@ -1,4 +1,4 @@
-# AdBlockConfigForSmartDNS
+# AdBlockConfig
 
 ### 综合以下源并去重
 1. [neodevhost/master/smartdns.conf](https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf)
