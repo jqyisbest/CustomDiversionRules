@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '30 9 * * *'
 
+  push:
+    paths:
+      - '.github/workflows/Update Rules.yaml'
+
   workflow_dispatch:
 
   repository_dispatch:
