@@ -50,7 +50,7 @@ jobs:
           echo "#" >> clash.yaml
           echo "#==========================================================================" >> clash.yaml
           echo "payload:" >> clash.yaml
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/- '\1'/g" >> clash.yaml
+          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/ - '\1'/g" >> clash.yaml
 
           rm -rf temp
           
