@@ -37,6 +37,8 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
 
           cat temp/smartdns.conf >> smartdns.conf 
+
+          rm -rf temp
           
       - name: Git push assets to Github
         run: |
