@@ -18,6 +18,7 @@ jobs:
       - name: Update Rules
         continue-on-error: false
         run: |
+          ls .
           mkdir upstream
           mkdir rules
           ls .
