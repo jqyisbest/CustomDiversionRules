@@ -27,6 +27,8 @@ jobs:
           mkdir temp
           update_time="$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')(GMT+8)"
           cat ../upstream/*.conf | sed -e '/^#/d' | sort | uniq > temp/smartdns.conf
+
+          sed -er "s/address \/(.*)\/#/\1/g" temp/smartdns.conf > ad_domain_list.txt
           
           cat ../title/title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
