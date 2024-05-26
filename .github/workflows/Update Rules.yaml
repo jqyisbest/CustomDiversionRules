@@ -26,9 +26,9 @@ jobs:
 
           mkdir temp
           update_time="$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')(GMT+8)"
-          cat upstream/*.conf | sed -e '/^#/d' | sort | uniq > temp/smartdns.conf
+          cat ../upstream/*.conf | sed -e '/^#/d' | sort | uniq > temp/smartdns.conf
           
-          cat title/title.txt > smartdns.conf 
+          cat ../title/title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
           echo "# Total count: $(wc -l < temp/smartdns.conf)" > >> smartdns.conf
           echo "#" >> smartdns.conf
