@@ -18,14 +18,18 @@ jobs:
       - name: Update Rules
         continue-on-error: false
         run: |
+          mkdir upstream
+          mkdir rules
+          ls .
           cd upstream
-          rm *
           wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
           wget https://anti-ad.net/anti-ad-for-smartdns.conf
           wget https://adrules.top/smart-dns.conf
           ls .
           cd ../
+          ls .
           cat upstream/*.conf | sed -e '/^#/d' | sort | uniq > rules/smartdns.conf
+          ls ./rules
           
       - name: Git push assets to Github
         run: |
@@ -35,8 +39,9 @@ jobs:
           git checkout --orphan main
           git rm -rf .github
           git rm -rf script
-          git rm -rf *.md         
-          git add *.{conf,txt,list,html,json,srs} rules/*
+          git rm -rf *.md      
+          git add upstream/*.{conf,txt,list,html,json,srs} upstream/*
+          git add rules/*.{conf,txt,list,html,json,srs} rules/*
           git commit -m "Update at $(TZ=UTC-8 date +"%Y-%m-%d %H:%M")"
           git push -f -u origin main
       # - name: Git push assets to other repos
