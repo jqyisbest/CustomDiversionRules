@@ -30,7 +30,7 @@ jobs:
           
           cat ../title/title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
-          echo "# Total count: $(wc -l < temp/smartdns.conf)" > >> smartdns.conf
+          echo "# Total count: $(wc -l < temp/smartdns.conf)" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "# Update: $update_time" >> smartdns.conf
           echo "#" >> smartdns.conf
