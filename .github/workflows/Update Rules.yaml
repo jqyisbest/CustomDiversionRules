@@ -1,7 +1,7 @@
 name: Update Rules
 on: 
   schedule:
-    - cron: '30 9 * * *'
+    - cron: '30 18 * * *' # UTC+8，实际是北京时间凌晨02:30
 
   push:
     paths:
