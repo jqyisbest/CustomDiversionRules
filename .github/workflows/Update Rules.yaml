@@ -24,7 +24,7 @@ jobs:
         run: |
           cd upstream
           rm -rf *.conf
-          # wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
+          wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
           wget https://anti-ad.net/anti-ad-for-smartdns.conf
           wget https://adrules.top/smart-dns.conf
           cd ../rules
