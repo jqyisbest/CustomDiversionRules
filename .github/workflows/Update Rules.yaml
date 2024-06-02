@@ -59,7 +59,7 @@ jobs:
           echo "payload:" > temp/clash.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash.yaml
           cat temp/clash1.yaml >> temp/clash.yaml
-          cat temp/clash.yaml | uniq > advertising_classical.yaml
+          cat temp/clash.yaml | uniq >> advertising_classical.yaml
 
           rm -rf temp
           
