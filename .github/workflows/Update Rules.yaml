@@ -25,6 +25,7 @@ jobs:
           cd upstream
           rm -rf *.conf
           wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
+          wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Classical.yaml
           wget https://anti-ad.net/anti-ad-for-smartdns.conf
           wget https://adrules.top/smart-dns.conf
           cd ../rules
@@ -33,6 +34,7 @@ jobs:
           
           mkdir temp
           cat ../upstream/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
+          cat ../upstream/Advertising_Classical.yaml | sed '/^#/d' | sort | uniq > temp/clash1.yaml
 
           total_count="$(wc -l < temp/smartdns.conf)"
 
@@ -47,15 +49,16 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
           cat temp/smartdns.conf >> smartdns.conf 
 
-          cat ../title/clash_title.txt > clash.yaml
-          echo "#" >> clash.yaml
-          echo "# Total count: $total_count" >> clash.yaml
-          echo "#" >> clash.yaml
-          echo "# Update: $update_time" >> clash.yaml
-          echo "#" >> clash.yaml
-          echo "#==========================================================================" >> clash.yaml
-          echo "payload:" >> clash.yaml
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/ - DOMAIN-SUFFIX,\1/g" >> clash.yaml
+          cat ../title/clash_title.txt > temp/clash2.yaml
+          echo "#" >> temp/clash2.yaml
+          echo "# Total count: $[ $total_count+$(wc -l < temp/another_clash.yaml)-1 ]" >> temp/clash2.yaml
+          echo "#" >> temp/clash2.yaml
+          echo "# Update: $update_time" >> temp/clash2.yaml
+          echo "#" >> temp/clash2.yaml
+          echo "#==========================================================================" >> temp/clash2.yaml
+          echo "payload:" >> temp/clash2.yaml
+          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash2.yaml
+          cat temp/clash*.yaml | sort | uniq > clash.yaml
 
           rm -rf temp
           
