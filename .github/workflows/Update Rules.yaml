@@ -58,7 +58,7 @@ jobs:
           echo "#==========================================================================" >> temp/clash2.yaml
           echo "payload:" >> temp/clash2.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash2.yaml
-          cat temp/clash*.yaml | sort | uniq > clash.yaml
+          cat temp/clash*.yaml | uniq > advertising_classical.yaml
 
           rm -rf temp
           
