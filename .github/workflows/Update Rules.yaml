@@ -51,15 +51,15 @@ jobs:
 
           cat ../title/clash_title.txt > advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
-          echo "# Total count: $[ $total_count+$(wc -l < temp/clash.yaml)-1 ]" >> advertising_classical.yaml
+          echo "# Total count: $[ $total_count+$(wc -l < temp/clash1.yaml)-1 ]" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "# Update: $update_time" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "#==========================================================================" >> advertising_classical.yaml
           echo "payload:" > temp/clash.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash.yaml
-          cat temp/clash1.yaml >> temp/clash.yaml
-          cat temp/clash.yaml | uniq >> advertising_classical.yaml
+          cat temp/clash1.yaml | sed '/^payload/d' >> temp/clash.yaml
+          cat temp/clash.yaml >> advertising_classical.yaml
 
           rm -rf temp
           
