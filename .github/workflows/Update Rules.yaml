@@ -54,7 +54,7 @@ jobs:
           cat temp/clash1.yaml | sed '/^payload/d' | sort | uniq >> temp/clash.yaml
           cat ../title/clash_title.txt > advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
-          echo "# Total count: $[ $(wc -l < temp/clash.yaml)-1 ]" >> advertising_classical.yaml
+          echo "# Total count: $(wc -l < temp/clash.yaml)" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "# Update: $update_time" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
