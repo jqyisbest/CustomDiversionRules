@@ -49,16 +49,17 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
           cat temp/smartdns.conf >> smartdns.conf 
 
-          cat ../title/clash_title.txt > temp/clash2.yaml
-          echo "#" >> temp/clash2.yaml
-          echo "# Total count: $[ $total_count+$(wc -l < temp/another_clash.yaml)-1 ]" >> temp/clash2.yaml
-          echo "#" >> temp/clash2.yaml
-          echo "# Update: $update_time" >> temp/clash2.yaml
-          echo "#" >> temp/clash2.yaml
-          echo "#==========================================================================" >> temp/clash2.yaml
-          echo "payload:" >> temp/clash2.yaml
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash2.yaml
-          cat temp/clash*.yaml | uniq > advertising_classical.yaml
+          cat ../title/clash_title.txt > advertising_classical.yaml
+          echo "#" >> advertising_classical.yaml
+          echo "# Total count: $[ $total_count+$(wc -l < temp/clash.yaml)-1 ]" >> advertising_classical.yaml
+          echo "#" >> advertising_classical.yaml
+          echo "# Update: $update_time" >> advertising_classical.yaml
+          echo "#" >> advertising_classical.yaml
+          echo "#==========================================================================" >> advertising_classical.yaml
+          echo "payload:" > temp/clash.yaml
+          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash.yaml
+          cat temp/clash1.yaml >> temp/clash.yaml
+          cat temp/clash.yaml | uniq > advertising_classical.yaml
 
           rm -rf temp
           
