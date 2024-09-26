@@ -42,7 +42,7 @@ jobs:
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
-          comm -2 -3 temp/ad_domain_list.txt temp/WhiteList.txt > ad_domain_list.txt
+          comm -2 -3 temp/ad_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > ad_domain_list.txt
 
           cat ../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
