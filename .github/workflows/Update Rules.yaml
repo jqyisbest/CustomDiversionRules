@@ -33,34 +33,36 @@ jobs:
           update_time="$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')(GMT+8)"
           
           mkdir temp
+          cat ../WhiteList.txt | sort | uniq > temp/WhiteList.txt
+          cat ../BlackList.txt | sort | uniq > temp/BlackList.txt
           cat ../upstream/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
-          cat ../upstream/Advertising_Classical.yaml | sed '/^#/d' | sort | uniq > temp/clash1.yaml
+          cat ../upstream/Advertising_Classical.yaml | sed '/^#/d' | sort | uniq > temp/clash.yaml
+          cat temp/clash.yaml | sed "/  - DOMAIN.*,(.*)/d" > temp/clash_without_domain.yaml
+          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
+          cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
+          cat temp/BlackList.txt >> temp/temp.txt
+          cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
+          comm -2 -3 temp/ad_domain_list.txt temp/WhiteList.txt > ad_domain_list.txt
 
-          total_count="$(wc -l < temp/smartdns.conf)"
-
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > ad_domain_list.txt
-          
           cat ../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
-          echo "# Total count: $total_count" >> smartdns.conf
+          echo "# Total count: $(wc -l < ad_domain_list.txt)" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "# Update: $update_time" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "#==========================================================================" >> smartdns.conf
-          cat temp/smartdns.conf >> smartdns.conf 
-
+          cat ad_domain_list.txt | awk '{print "address /%s/#",$0}' >> smartdns.conf
           
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/  - DOMAIN-SUFFIX,\1/g" >> temp/clash1.yaml
-          cat temp/clash1.yaml | sed '/^payload/d' | sort | uniq >> temp/clash.yaml
           cat ../title/clash_title.txt > advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
-          echo "# Total count: $(wc -l < temp/clash.yaml)" >> advertising_classical.yaml
+          echo "# Total count: $(expr $(wc -l < ad_domain_list)+$(wc -l < temp/clash_without_domain.yaml))" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "# Update: $update_time" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "#==========================================================================" >> advertising_classical.yaml
           echo "payload:" >> advertising_classical.yaml
-          cat temp/clash.yaml >> advertising_classical.yaml
+          cat ad_domain_list.txt | awk '{print "  - DOMAIN-SUFFIX,%s",$0}' >> advertising_classical.yaml
+          cat temp/clash_without_domain.yaml >> advertising_classical.yaml
 
           cat ../title/loon_title.txt > loon.list
           echo "#" >> loon.list
@@ -69,8 +71,8 @@ jobs:
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
-          cat temp/clash.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
-
+          cat ad_domain_list.txt | awk '{print "DOMAIN-SUFFIX,%s",$0}' >> loon.list
+          
           rm -rf temp
           
       - name: Git push assets to Github
