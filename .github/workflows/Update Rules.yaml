@@ -55,7 +55,7 @@ jobs:
           
           cat ../title/clash_title.txt > advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
-          echo "# Total count: $(expr $(wc -l < ad_domain_list)+$(wc -l < temp/clash_without_domain.yaml))" >> advertising_classical.yaml
+          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt)+$(wc -l < temp/clash_without_domain.yaml))" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "# Update: $update_time" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
@@ -66,12 +66,13 @@ jobs:
 
           cat ../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(wc -l < temp/clash.yaml)" >> loon.list
+          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt)+$(wc -l < temp/clash_without_domain.yaml))" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat ad_domain_list.txt | awk '{print "DOMAIN-SUFFIX,%s",$0}' >> loon.list
+          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> advertising_classical.yaml
           
           rm -rf temp
           
