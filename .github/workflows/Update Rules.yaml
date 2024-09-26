@@ -36,7 +36,7 @@ jobs:
           cat ../WhiteList.txt | sort | uniq > temp/WhiteList.txt
           cat ../BlackList.txt | sort | uniq > temp/BlackList.txt
           cat ../upstream/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
-          cat ../upstream/Advertising_Classical.yaml | sed '/^#/d' | sort | uniq > temp/clash.yaml
+          cat ../upstream/Advertising_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
@@ -72,7 +72,7 @@ jobs:
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat ad_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
-          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> advertising_classical.yaml
+          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           
           rm -rf temp
           
