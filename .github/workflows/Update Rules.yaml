@@ -37,7 +37,7 @@ jobs:
           cat ../BlackList.txt | sort | uniq > temp/BlackList.txt
           cat ../upstream/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
           cat ../upstream/Advertising_Classical.yaml | sed '/^#/d' | sort | uniq > temp/clash.yaml
-          cat temp/clash.yaml | sed "/  - DOMAIN.*,(.*)/d" > temp/clash_without_domain.yaml
+          cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
@@ -51,27 +51,27 @@ jobs:
           echo "# Update: $update_time" >> smartdns.conf
           echo "#" >> smartdns.conf
           echo "#==========================================================================" >> smartdns.conf
-          cat ad_domain_list.txt | awk '{print "address /%s/#",$0}' >> smartdns.conf
+          cat ad_domain_list.txt | awk '{printf "address /%s/#\n",$0}' >> smartdns.conf
           
           cat ../title/clash_title.txt > advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
-          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt)+$(wc -l < temp/clash_without_domain.yaml))" >> advertising_classical.yaml
+          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "# Update: $update_time" >> advertising_classical.yaml
           echo "#" >> advertising_classical.yaml
           echo "#==========================================================================" >> advertising_classical.yaml
           echo "payload:" >> advertising_classical.yaml
-          cat ad_domain_list.txt | awk '{print "  - DOMAIN-SUFFIX,%s",$0}' >> advertising_classical.yaml
+          cat ad_domain_list.txt | awk '{printf "  - DOMAIN-SUFFIX,%s\n",$0}' >> advertising_classical.yaml
           cat temp/clash_without_domain.yaml >> advertising_classical.yaml
 
           cat ../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt)+$(wc -l < temp/clash_without_domain.yaml))" >> loon.list
+          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
-          cat ad_domain_list.txt | awk '{print "DOMAIN-SUFFIX,%s",$0}' >> loon.list
+          cat ad_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
           cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> advertising_classical.yaml
           
           rm -rf temp
