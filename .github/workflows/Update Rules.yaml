@@ -6,6 +6,8 @@ on:
   push:
     paths:
       - '.github/workflows/Update Rules.yaml'
+      - 'BlackList.txt'
+      - 'WhiteList.txt'
 
   workflow_dispatch:
 
