@@ -218,7 +218,7 @@ jobs:
                   else
                       url="https://purge.jsdelivr.net/gh/jqyisbest/CustomDiversionRules@refs/heads/main/"${object}
                       code=`curl -s -o /dev/null --retry 5 -w %{http_code} $url`
-                      echo "Force cache "$url" [ "$code" ]"
+                      echo "Refresh jsdelivr cache file https://github.com/jqyisbest/CustomDiversionRules/blob/main/"${object}" [ "$code" ]"
                       if [ $code != "200" ]
                       then
                           url="https://purge.jsdelivr.net/gh/jqyisbest/CustomDiversionRules@refs/heads/main/"${object}
