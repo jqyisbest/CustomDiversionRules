@@ -1,5 +1,6 @@
-# AdBlockConfig
+# DomainRules
 
+## 广告域名 ad/
 ### 合并以下源及自定义黑名单后剔除白名单中域名
 目前黑白名单仅支持域名
 1. [neodevhost/master/smartdns.conf](https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf)
