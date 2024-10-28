@@ -205,6 +205,31 @@ jobs:
           git add .
           git commit -m "Update at $(TZ=UTC-8 date +"%Y-%m-%d %H:%M")"
           git push -f -u origin main
+
+      - name: Force refresh cdn cache
+        run: |
+          function scan() {
+              for e in `ls $1`
+              do
+                  object=$1"/"$e
+                  if [ -d $object ]
+                  then
+                      scan $object
+                  else
+                      url="https://purge.jsdelivr.net/gh/jqyisbest/CustomDiversionRules@refs/heads/main/"${object:1}
+                      code=`curl -s -o /dev/null --retry 5 -w %{http_code} $url`
+                      echo "Force cache "$url" [ "$code" ]"
+                      if [ $code != "200" ]
+                      then
+                          url="https://purge.jsdelivr.net/gh/jqyisbest/CustomDiversionRules@refs/heads/main/"${object:1}
+                          echo " - Retry "$url" [ `curl -s -o /dev/null --retry 5 -w %{http_code} $url` ]"
+                      fi
+                      url="https://purge.jsdelivr.net/gh/jqyisbest/CustomDiversionRules@refs/heads/main/"${object:1}
+                      echo " -> "$url" [ `curl -s -o /dev/null --retry 5 -w %{http_code} $url` ]"
+                  fi
+              done
+          }
+          scan .
       # - name: Git push assets to other repos
       #   continue-on-error: true
       #   run: |
