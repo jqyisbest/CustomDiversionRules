@@ -6,8 +6,8 @@ on:
   push:
     paths:
       - '.github/workflows/Update Rules.yaml'
-      # - 'rules/*/BlackList.txt'
-      # - 'rules/*/WhiteList.txt'
+      - 'rules/*/BlackList.txt'
+      - 'rules/*/WhiteList.txt'
 
   workflow_dispatch:
 
@@ -101,6 +101,7 @@ jobs:
   
 
 
+
           cd rules/cn
           
           mkdir temp
@@ -143,9 +144,12 @@ jobs:
           echo "#==========================================================================" >> loon.list
           cat cn_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
           cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+          # Loon中国分流以GEOIP,CN收尾
+          echo -n "GEOIP,CN" >> loon.list 
           
           rm -rf temp
           cd ../../
+
 
 
 
