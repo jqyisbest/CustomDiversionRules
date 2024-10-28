@@ -137,7 +137,7 @@ jobs:
 
           cat ../../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
+          echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml) + 1)" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
