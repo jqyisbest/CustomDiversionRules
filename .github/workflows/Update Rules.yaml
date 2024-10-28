@@ -24,21 +24,21 @@ jobs:
       - name: Update Rules
         continue-on-error: false
         run: |
-          cd /upstream
+          cd /CustomDiversionRules/upstream
           rm -rf *
           mkdir ad
           mkdir cn
           mkdir gfw
-          cd /upstream/ad
+          cd /CustomDiversionRules/upstream/ad
           wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Classical.yaml
           wget https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-smartdns.conf
           wget https://raw.githubusercontent.com/Cats-Team/AdRules/main/smart-dns.conf
-          cd /upstream/cn
+          cd /CustomDiversionRules/upstream/cn
           wget https://raw.githubusercontent.com/pmkol/easymosdns/refs/heads/rules/china_domain_list.txt
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Domain.txt
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-          cd /upstream/gfw
+          cd /CustomDiversionRules/upstream/gfw
           wget https://raw.githubusercontent.com/pmkol/easymosdns/refs/heads/rules/gfw_domain_list.txt
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global_Domain.txt
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global_Classical.yaml
@@ -48,13 +48,13 @@ jobs:
 
 
 
-          cd /rules/ad
+          cdrules/ad
           
           mkdir temp
           cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
           cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
-          cat /upstream/ad/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
-          cat /upstream/ad/Advertising_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
+          cat /CustomDiversionRules/upstream/ad/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
+          cat /CustomDiversionRules/upstream/ad/Advertising_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
@@ -62,7 +62,7 @@ jobs:
           cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
           comm -2 -3 temp/ad_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > ad_domain_list.txt
 
-          cat /title/smartdns_title.txt > smartdns.conf 
+          cat /CustomDiversionRules/title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
           echo "# Total count: $(wc -l < ad_domain_list.txt)" >> smartdns.conf
           echo "#" >> smartdns.conf
@@ -71,7 +71,7 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
           cat ad_domain_list.txt | awk '{printf "address /%s/#\n",$0}' >> smartdns.conf
           
-          cat /title/clash_title.txt > clash.yaml
+          cat /CustomDiversionRules/title/clash_title.txt > clash.yaml
           echo "#" >> clash.yaml
           echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> clash.yaml
           echo "#" >> clash.yaml
@@ -82,7 +82,7 @@ jobs:
           cat ad_domain_list.txt | awk '{printf "  - DOMAIN-SUFFIX,%s\n",$0}' >> clash.yaml
           cat temp/clash_without_domain.yaml >> clash.yaml
 
-          cat /title/loon_title.txt > loon.list
+          cat /CustomDiversionRules/title/loon_title.txt > loon.list
           echo "#" >> loon.list
           echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
           echo "#" >> loon.list
@@ -97,20 +97,20 @@ jobs:
   
 
 
-          cd /rules/cn
+          cd /CustomDiversionRules/rules/cn
           
           mkdir temp
           cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
           cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
-          cat /upstream/cn/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
-          cat /upstream/cn/ChinaMax_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
+          cat /CustomDiversionRules/upstream/cn/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
+          cat /CustomDiversionRules/upstream/cn/ChinaMax_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/cn_domain_list.txt
           comm -2 -3 temp/cn_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > cn_domain_list.txt
 
-          cat /title/smartdns_title.txt > smartdns.conf 
+          cat /CustomDiversionRules/title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
           echo "# Total count: $(wc -l < cn_domain_list.txt)" >> smartdns.conf
           echo "#" >> smartdns.conf
@@ -119,7 +119,7 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
           cat cn_domain_list.txt | awk '{printf "address /%s/#\n",$0}' >> smartdns.conf
           
-          cat /title/clash_title.txt > clash.yaml
+          cat /CustomDiversionRules/title/clash_title.txt > clash.yaml
           echo "#" >> clash.yaml
           echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> clash.yaml
           echo "#" >> clash.yaml
@@ -130,7 +130,7 @@ jobs:
           cat cn_domain_list.txt | awk '{printf "  - DOMAIN-SUFFIX,%s\n",$0}' >> clash.yaml
           cat temp/clash_without_domain.yaml >> clash.yaml
 
-          cat /title/loon_title.txt > loon.list
+          cat /CustomDiversionRules/title/loon_title.txt > loon.list
           echo "#" >> loon.list
           echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
           echo "#" >> loon.list
@@ -145,20 +145,20 @@ jobs:
 
 
 
-          cd /rules/gfw
+          cd /CustomDiversionRules/rules/gfw
           
           mkdir temp
           cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
           cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
-          cat /upstream/gfw/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
-          cat /upstream/gfw/Global_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
+          cat /CustomDiversionRules/upstream/gfw/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
+          cat /CustomDiversionRules/upstream/gfw/Global_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/gfw_domain_list.txt
           comm -2 -3 temp/gfw_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > gfw_domain_list.txt
 
-          cat /title/smartdns_title.txt > smartdns.conf 
+          cat /CustomDiversionRules/title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
           echo "# Total count: $(wc -l < gfw_domain_list.txt)" >> smartdns.conf
           echo "#" >> smartdns.conf
@@ -167,7 +167,7 @@ jobs:
           echo "#==========================================================================" >> smartdns.conf
           cat gfw_domain_list.txt | awk '{printf "address /%s/#\n",$0}' >> smartdns.conf
           
-          cat /title/clash_title.txt > clash.yaml
+          cat /CustomDiversionRules/title/clash_title.txt > clash.yaml
           echo "#" >> clash.yaml
           echo "# Total count: $(expr $(wc -l < gfw_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> clash.yaml
           echo "#" >> clash.yaml
@@ -178,7 +178,7 @@ jobs:
           cat gfw_domain_list.txt | awk '{printf "  - DOMAIN-SUFFIX,%s\n",$0}' >> clash.yaml
           cat temp/clash_without_domain.yaml >> clash.yaml
 
-          cat /title/loon_title.txt > loon.list
+          cat /CustomDiversionRules/title/loon_title.txt > loon.list
           echo "#" >> loon.list
           echo "# Total count: $(expr $(wc -l < gfw_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
           echo "#" >> loon.list
