@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 115249
+# Total count: 115235
 #
-# Update: 2024-10-30 02:42:08(GMT+8)
+# Update: 2024-10-30 12:42:48(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -115245,18 +115245,4 @@ IP-CIDR6,::ffff:58.58.0.90/128
 IP-CIDR6,::ffff:60.171.183.161/128
 IP-CIDR6,::ffff:60.171.183.186/128
 IP-CIDR6,::ffff:60.171.183.98/128
-PROCESS-NAME,Thunder
-PROCESS-NAME,Thunder.exe
-PROCESS-NAME,com.bilibili.app.blue
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,com.bilibili.comic
-PROCESS-NAME,com.bilibili.comic.intl
-PROCESS-NAME,com.jjwxc.reader
-PROCESS-NAME,com.qiyi.video
-PROCESS-NAME,com.taobao.taobao
-PROCESS-NAME,com.xiaomi.mibrain.speech
-PROCESS-NAME,com.zhiliaoapp.musically
-PROCESS-NAME,tv.danmaku.bili
-PROCESS-NAME,tv.danmaku.bilibilihd
-PROCESS-NAME,小米云服务.exe
 GEOIP,CN
