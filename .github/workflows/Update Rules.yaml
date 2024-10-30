@@ -60,6 +60,7 @@ jobs:
           cat ../../upstream/ad/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
           cat ../../upstream/ad/Advertising_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
@@ -88,13 +89,13 @@ jobs:
 
           cat ../../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
+          echo "# Total count: $(expr $(wc -l < ad_domain_list.txt) + $(wc -l < temp/clash_without_domain_processs.yaml))" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat ad_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
-          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+          cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           
           rm -rf temp
           cd ../../
@@ -110,6 +111,7 @@ jobs:
           cat ../../upstream/cn/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
           cat ../../upstream/cn/ChinaMax_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/cn_domain_list.txt
@@ -137,13 +139,13 @@ jobs:
 
           cat ../../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml) + 1)" >> loon.list
+          echo "# Total count: $(expr $(wc -l < cn_domain_list.txt) + $(wc -l < temp/clash_without_domain_processs.yaml) + 1)" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat cn_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
-          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+          cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           # Loon中国分流以GEOIP,CN收尾
           echo -n "GEOIP,CN" >> loon.list 
           
@@ -161,6 +163,7 @@ jobs:
           cat ../../upstream/gfw/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
           cat ../../upstream/gfw/Global_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/BlackList.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/gfw_domain_list.txt
@@ -188,13 +191,13 @@ jobs:
 
           cat ../../title/loon_title.txt > loon.list
           echo "#" >> loon.list
-          echo "# Total count: $(expr $(wc -l < gfw_domain_list.txt) + $(wc -l < temp/clash_without_domain.yaml))" >> loon.list
+          echo "# Total count: $(expr $(wc -l < gfw_domain_list.txt) + $(wc -l < temp/clash_without_domain_processs.yaml))" >> loon.list
           echo "#" >> loon.list
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat gfw_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
-          cat temp/clash_without_domain.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+          cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           
           rm -rf temp
       - name: Git push assets to Github
