@@ -101,7 +101,7 @@ jobs:
           echo "!" >> adguard_dns.txt
           echo "! Total count: $(wc -l < ad_domain_list.txt)" >> adguard_dns.txt
           echo "!" >> adguard_dns.txt
-          echo "! Version: : $update_time" >> adguard_dns.txt
+          echo "! Version: $update_time" >> adguard_dns.txt
           echo "!" >> adguard_dns.txt
           cat ad_domain_list.txt | awk '{printf "||%s^$important\n",$0}' >> adguard_dns.txt
           
