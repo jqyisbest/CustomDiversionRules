@@ -96,6 +96,15 @@ jobs:
           echo "#==========================================================================" >> loon.list
           cat ad_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
           cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+
+          cat ../../title/adguard_title.txt > adguard_dns.txt
+          echo "#" >> adguard_dns.txt
+          echo "# Total count: $(wc -l < ad_domain_list.txt)" >> adguard_dns.txt
+          echo "#" >> adguard_dns.txt
+          echo "# Update: $update_time" >> adguard_dns.txt
+          echo "#" >> adguard_dns.txt
+          echo "#==========================================================================" >> adguard_dns.txt
+          cat ad_domain_list.txt | awk '{printf "||%s^$important\n",$0}' >> adguard_dns.txt
           
           rm -rf temp
           cd ../../
