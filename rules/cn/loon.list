@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 114968
+# Total count: 114980
 #
-# Update: 2024-11-11 02:38:00(GMT+8)
+# Update: 2024-11-12 02:40:05(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -5524,6 +5524,7 @@ DOMAIN-SUFFIX,587343.com
 DOMAIN-SUFFIX,587tuchuang.com
 DOMAIN-SUFFIX,5884.com
 DOMAIN-SUFFIX,5888.tv
+DOMAIN-SUFFIX,588988.net
 DOMAIN-SUFFIX,588991.com
 DOMAIN-SUFFIX,588art.com
 DOMAIN-SUFFIX,588ku.com
@@ -36617,6 +36618,7 @@ DOMAIN-SUFFIX,haixianlai.net
 DOMAIN-SUFFIX,haixin5.com
 DOMAIN-SUFFIX,haixindichan.com
 DOMAIN-SUFFIX,haixinews.com
+DOMAIN-SUFFIX,haixing6.com
 DOMAIN-SUFFIX,haixingbangfu.com
 DOMAIN-SUFFIX,haixingcloud.com
 DOMAIN-SUFFIX,haixinhui.com
@@ -39108,6 +39110,7 @@ DOMAIN-SUFFIX,hnmfbw.com
 DOMAIN-SUFFIX,hnmgjr.com
 DOMAIN-SUFFIX,hnming.com
 DOMAIN-SUFFIX,hnmjjt.net
+DOMAIN-SUFFIX,hnmks.com
 DOMAIN-SUFFIX,hnmlqianpan.com
 DOMAIN-SUFFIX,hnmrffm888.com
 DOMAIN-SUFFIX,hnmsg.com
@@ -41722,6 +41725,7 @@ DOMAIN-SUFFIX,iamjzs.com
 DOMAIN-SUFFIX,iamle.com
 DOMAIN-SUFFIX,iamlintao.com
 DOMAIN-SUFFIX,iamshuaidi.com
+DOMAIN-SUFFIX,iamsjy.com
 DOMAIN-SUFFIX,iamsujie.com
 DOMAIN-SUFFIX,iamtxt.com
 DOMAIN-SUFFIX,iamwr.com
@@ -41859,6 +41863,7 @@ DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,ic-king.com
 DOMAIN-SUFFIX,ic-ldo.com
 DOMAIN-SUFFIX,ic-valley.com
+DOMAIN-SUFFIX,ic.work
 DOMAIN-SUFFIX,ic2china.com
 DOMAIN-SUFFIX,ic37.com
 DOMAIN-SUFFIX,ic72.com
@@ -42245,6 +42250,7 @@ DOMAIN-SUFFIX,iden123.com
 DOMAIN-SUFFIX,ideng.com
 DOMAIN-SUFFIX,idesktopcal.com
 DOMAIN-SUFFIX,idevbase.com
+DOMAIN-SUFFIX,idevkit.com
 DOMAIN-SUFFIX,idevz.org
 DOMAIN-SUFFIX,idgvc.com
 DOMAIN-SUFFIX,idianchou.com
@@ -53307,6 +53313,7 @@ DOMAIN-SUFFIX,luteng888.com
 DOMAIN-SUFFIX,lutongda.com
 DOMAIN-SUFFIX,luv66.com
 DOMAIN-SUFFIX,luwei.me
+DOMAIN-SUFFIX,luweiteng.xyz
 DOMAIN-SUFFIX,luweiwater.com
 DOMAIN-SUFFIX,lux315.com
 DOMAIN-SUFFIX,luxe.cc
@@ -55923,6 +55930,7 @@ DOMAIN-SUFFIX,miusi.co
 DOMAIN-SUFFIX,miuss.icu
 DOMAIN-SUFFIX,miutour.com
 DOMAIN-SUFFIX,miutrip.com
+DOMAIN-SUFFIX,miwap.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mix-planet.com
 DOMAIN-SUFFIX,mix.moe
@@ -58272,6 +58280,7 @@ DOMAIN-SUFFIX,nhzs.com
 DOMAIN-SUFFIX,ni8.com
 DOMAIN-SUFFIX,ni93.com
 DOMAIN-SUFFIX,nianbin.com
+DOMAIN-SUFFIX,nianchu.net
 DOMAIN-SUFFIX,nianhua.plus
 DOMAIN-SUFFIX,niankawang.com
 DOMAIN-SUFFIX,nianlia.com
@@ -73636,6 +73645,7 @@ DOMAIN-SUFFIX,tbsite.net
 DOMAIN-SUFFIX,tbt-tuning.com
 DOMAIN-SUFFIX,tbt.cc
 DOMAIN-SUFFIX,tbt168.com
+DOMAIN-SUFFIX,tbtopc.com
 DOMAIN-SUFFIX,tburl.in
 DOMAIN-SUFFIX,tburl.net
 DOMAIN-SUFFIX,tbuser.com
@@ -98024,7 +98034,6 @@ IP-CIDR,156.236.119.0/24
 IP-CIDR,156.236.96.0/23
 IP-CIDR,156.237.104.0/23
 IP-CIDR,156.239.0.0/20
-IP-CIDR,156.239.224.0/19
 IP-CIDR,156.239.64.0/18
 IP-CIDR,156.242.5.0/24
 IP-CIDR,156.242.6.0/24
@@ -114748,6 +114757,7 @@ IP-CIDR6,2a0e:aa06:525::/48
 IP-CIDR6,2a0e:aa06:541::/48
 IP-CIDR6,2a0e:aa06::/40
 IP-CIDR6,2a0e:aa07:e01b::/48
+IP-CIDR6,2a0e:aa07:e021::/48
 IP-CIDR6,2a0e:aa07:e024::/47
 IP-CIDR6,2a0e:aa07:e030::/48
 IP-CIDR6,2a0e:aa07:e035::/48
@@ -114904,6 +114914,8 @@ IP-CIDR6,2a13:a5c7:12ff::/48
 IP-CIDR6,2a13:a5c7:1604::/48
 IP-CIDR6,2a13:a5c7:1801::/48
 IP-CIDR6,2a13:a5c7:1803::/48
+IP-CIDR6,2a13:a5c7:1804::/47
+IP-CIDR6,2a13:a5c7:1888::/48
 IP-CIDR6,2a13:a5c7:2100::/48
 IP-CIDR6,2a13:a5c7:2102::/47
 IP-CIDR6,2a13:a5c7:2109::/48
