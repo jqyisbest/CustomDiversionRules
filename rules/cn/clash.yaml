@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 115051
+# Total count: 115053
 #
-# Update: 2024-11-17 02:39:37(GMT+8)
+# Update: 2024-11-18 02:40:24(GMT+8)
 #
 #==========================================================================
 payload:
@@ -98006,6 +98006,7 @@ payload:
   - IP-CIDR,154.223.168.0/24
   - IP-CIDR,154.223.178.0/24
   - IP-CIDR,154.223.188.0/23
+  - IP-CIDR,154.223.96.0/19
   - IP-CIDR,154.23.188.0/22
   - IP-CIDR,154.36.92.0/23
   - IP-CIDR,154.38.104.0/22
@@ -112581,7 +112582,7 @@ payload:
   - IP-CIDR6,2406:840:e340::/42
   - IP-CIDR6,2406:840:e380::/41
   - IP-CIDR6,2406:840:e400::/40
-  - IP-CIDR6,2406:840:e501::/48
+  - IP-CIDR6,2406:840:e500::/47
   - IP-CIDR6,2406:840:e510::/44
   - IP-CIDR6,2406:840:e520::/43
   - IP-CIDR6,2406:840:e540::/42
@@ -114733,6 +114734,7 @@ payload:
   - IP-CIDR6,2a0b:b581::/48
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
+  - IP-CIDR6,2a0b:b87:ffb5::/48
   - IP-CIDR6,2a0c:3b80:434e::/48
   - IP-CIDR6,2a0c:3b80:636e::/48
   - IP-CIDR6,2a0c:9a40:95bf:7000::/54
