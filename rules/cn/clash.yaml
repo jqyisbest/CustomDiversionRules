@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 120327
+# Total count: 120326
 #
-# Update: 2024-12-09 02:41:08(GMT+8)
+# Update: 2024-12-09 15:55:42(GMT+8)
 #
 #==========================================================================
 payload:
@@ -11430,7 +11430,6 @@ payload:
   - DOMAIN-SUFFIX,api-m.com
   - DOMAIN-SUFFIX,api.anythinktech.com
   - DOMAIN-SUFFIX,api.crisp.chat
-  - DOMAIN-SUFFIX,api.day.app
   - DOMAIN-SUFFIX,apiadmin.org
   - DOMAIN-SUFFIX,apiairasia.com
   - DOMAIN-SUFFIX,apiandroid.com
