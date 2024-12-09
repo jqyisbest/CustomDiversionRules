@@ -3,11 +3,11 @@ on:
   schedule:
     - cron: '30 18 * * *' # UTC+8，实际是北京时间凌晨02:30
 
-  push:
-    paths:
-      - '.github/workflows/Update Rules.yaml'
-      - 'rules/*/BlackList.txt'
-      - 'rules/*/WhiteList.txt'
+  # push:
+  #   paths:
+  #     - '.github/workflows/Update Rules.yaml'
+  #     - 'rules/*/IncludeDomain.txt'
+  #     - 'rules/*/ExcludeDomain.txt'
 
   workflow_dispatch:
 
@@ -55,17 +55,17 @@ jobs:
           cd rules/ad
           
           mkdir temp
-          cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
-          cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
+          cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
+          cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/ad/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
           cat ../../upstream/ad/Advertising_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
-          cat temp/BlackList.txt >> temp/temp.txt
+          cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
-          comm -2 -3 temp/ad_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > ad_domain_list.txt
+          comm -2 -3 temp/ad_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > ad_domain_list.txt
 
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
@@ -114,16 +114,16 @@ jobs:
           cd rules/cn
           
           mkdir temp
-          cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
-          cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
+          cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
+          cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/cn/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
           cat ../../upstream/cn/ChinaMax_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
-          cat temp/BlackList.txt >> temp/temp.txt
+          cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/cn_domain_list.txt
-          comm -2 -3 temp/cn_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > cn_domain_list.txt
+          comm -2 -3 temp/cn_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > cn_domain_list.txt
 
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
@@ -166,16 +166,16 @@ jobs:
           cd rules/gfw
           
           mkdir temp
-          cat ./WhiteList.txt | sort | uniq > temp/WhiteList.txt
-          cat ./BlackList.txt | sort | uniq > temp/BlackList.txt
+          cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
+          cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/gfw/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
           cat ../../upstream/gfw/Global_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
           cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
           cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
-          cat temp/BlackList.txt >> temp/temp.txt
+          cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/gfw_domain_list.txt
-          comm -2 -3 temp/gfw_domain_list.txt temp/WhiteList.txt | sed '/^$/d' > gfw_domain_list.txt
+          comm -2 -3 temp/gfw_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > gfw_domain_list.txt
 
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
