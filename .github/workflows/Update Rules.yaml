@@ -3,11 +3,11 @@ on:
   schedule:
     - cron: '30 18 * * *' # UTC+8，实际是北京时间凌晨02:30
 
-  # push:
-  #   paths:
-  #     - '.github/workflows/Update Rules.yaml'
-  #     - 'rules/*/IncludeDomain.txt'
-  #     - 'rules/*/ExcludeDomain.txt'
+  push:
+    paths:
+      - '.github/workflows/Update Rules.yaml'
+      - 'rules/*/IncludeDomain.txt'
+      - 'rules/*/ExcludeDomain.txt'
 
   workflow_dispatch:
 
