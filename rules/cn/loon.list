@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 120313
+# Total count: 120309
 #
-# Update: 2024-12-09 15:55:42(GMT+8)
+# Update: 2024-12-09 16:05:05(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -11429,6 +11429,7 @@ DOMAIN-SUFFIX,api-forwards.com
 DOMAIN-SUFFIX,api-m.com
 DOMAIN-SUFFIX,api.anythinktech.com
 DOMAIN-SUFFIX,api.crisp.chat
+DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,apiadmin.org
 DOMAIN-SUFFIX,apiairasia.com
 DOMAIN-SUFFIX,apiandroid.com
@@ -83756,8 +83757,6 @@ DOMAIN-SUFFIX,wecasting.com
 DOMAIN-SUFFIX,wecatch.me
 DOMAIN-SUFFIX,wecenter.com
 DOMAIN-SUFFIX,weceshi.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechat.org
 DOMAIN-SUFFIX,wechat4itk.com
 DOMAIN-SUFFIX,wechat77.com
 DOMAIN-SUFFIX,wechatapp.com
@@ -83765,9 +83764,6 @@ DOMAIN-SUFFIX,wechatify.net
 DOMAIN-SUFFIX,wechatlegal.net
 DOMAIN-SUFFIX,wechatos.net
 DOMAIN-SUFFIX,wechatpay-global.com
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,wechatpay.com.hk
-DOMAIN-SUFFIX,wechatpay.com.my
 DOMAIN-SUFFIX,weclassroom.com
 DOMAIN-SUFFIX,wecloudx.com
 DOMAIN-SUFFIX,wecom.work
