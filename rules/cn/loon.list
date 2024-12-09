@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 120309
+# Total count: 120308
 #
-# Update: 2024-12-09 16:05:05(GMT+8)
+# Update: 2024-12-09 17:10:54(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -99361,7 +99361,6 @@ DOMAIN-SUFFIX,zzzymjg.com
 DOMAIN-SUFFIX,zzzyy.com
 DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzzz.me
-IP-ASN,132203
 IP-CIDR,0.0.0.0/32
 IP-CIDR,1.0.1.0/24
 IP-CIDR,1.0.2.0/23
