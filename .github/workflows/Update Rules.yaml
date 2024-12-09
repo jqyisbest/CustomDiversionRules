@@ -37,12 +37,10 @@ jobs:
           cd ../
           cd cn
           wget https://raw.githubusercontent.com/pmkol/easymosdns/refs/heads/rules/china_domain_list.txt
-          # wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-          wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
+          wget https://raw.githubusercontent.com/jqyisbest/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
           cd ../
           cd gfw
           wget https://raw.githubusercontent.com/pmkol/easymosdns/refs/heads/rules/gfw_domain_list.txt
-          # wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global_Domain.txt
           wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global_Classical.yaml
           cd ../
           cd ../
