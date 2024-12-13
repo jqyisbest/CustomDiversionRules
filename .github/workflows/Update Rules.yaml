@@ -63,8 +63,13 @@ jobs:
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
-          comm -2 -3 temp/ad_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > ad_domain_list.txt
-
+          # comm -2 -3 temp/ad_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > ad_domain_list.txt
+          cat temp/ExcludeDomain.txt |while read domain
+          do 
+            sed -i -r "/$domain\$/d" temp/ad_domain_list.txt
+          done
+          cat temp/ad_domain_list.txt | sed '/^$/d' > ad_domain_list.txt
+          
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
           echo "# Total count: $(wc -l < ad_domain_list.txt)" >> smartdns.conf
@@ -121,7 +126,12 @@ jobs:
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/cn_domain_list.txt
-          comm -2 -3 temp/cn_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > cn_domain_list.txt
+          # comm -2 -3 temp/cn_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > cn_domain_list.txt
+          cat temp/ExcludeDomain.txt |while read domain
+          do 
+            sed -i -r "/$domain\$/d" temp/cn_domain_list.txt
+          done
+          cat temp/cn_domain_list.txt | sed '/^$/d' > cn_domain_list.txt
 
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
@@ -151,7 +161,7 @@ jobs:
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
           cat cn_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
-          cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
+          # cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           # Loon中国分流以GEOIP,CN收尾
           echo -n "GEOIP,CN" >> loon.list 
           
@@ -173,7 +183,12 @@ jobs:
           cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/gfw_domain_list.txt
-          comm -2 -3 temp/gfw_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > gfw_domain_list.txt
+          # comm -2 -3 temp/gfw_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > gfw_domain_list.txt
+          cat temp/ExcludeDomain.txt |while read domain
+          do 
+            sed -i -r "/$domain\$/d" temp/gfw_domain_list.txt
+          done
+          cat temp/gfw_domain_list.txt | sed '/^$/d' > gfw_domain_list.txt
 
           cat ../../title/smartdns_title.txt > smartdns.conf 
           echo "#" >> smartdns.conf
