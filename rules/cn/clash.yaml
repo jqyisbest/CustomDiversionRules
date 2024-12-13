@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 120194
+# Total count: 120192
 #
-# Update: 2024-12-13 19:57:41(GMT+8)
+# Update: 2024-12-13 20:48:25(GMT+8)
 #
 #==========================================================================
 payload:
@@ -34754,7 +34754,6 @@ payload:
   - DOMAIN-SUFFIX,gtgres.com
   - DOMAIN-SUFFIX,gti56.com
   - DOMAIN-SUFFIX,gtibee.com
-  - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,gtja-allianz.com
   - DOMAIN-SUFFIX,gtja.com
   - DOMAIN-SUFFIX,gtjadev.com
@@ -67334,7 +67333,6 @@ payload:
   - DOMAIN-SUFFIX,qq-xmail.com
   - DOMAIN-SUFFIX,qq.cc
   - DOMAIN-SUFFIX,qq.cn.com
-  - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,qq.design
   - DOMAIN-SUFFIX,qq.do
   - DOMAIN-SUFFIX,qq.md
