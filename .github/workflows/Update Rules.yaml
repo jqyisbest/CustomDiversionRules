@@ -31,7 +31,7 @@ jobs:
           mkdir gfw
           cd ad
           wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
-          # wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Classical.yaml
+          wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Classical.yaml
           wget https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-smartdns.conf
           wget https://raw.githubusercontent.com/Cats-Team/AdRules/main/smart-dns.conf
           cd ../
@@ -56,11 +56,11 @@ jobs:
           cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
           cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/ad/*.conf | sed '/^#/d' | sort | uniq > temp/smartdns.conf
-          cat ../../upstream/ad/*.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
-          cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
-          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
-          cat temp/smartdns.conf | sed -r "s/address \/(.*)\/#/\1/g" > temp/temp.txt
-          cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
+          cat ../../upstream/ad/*.yaml | grep -E '\s*-.*,.*' | sort | uniq > temp/clash.yaml
+          cat temp/clash.yaml | sed '/\s*-\s*DOMAIN.*/d' > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed '/\s*-\s*PROCESS-NAME.*/d' > temp/clash_without_domain_processs.yaml
+          cat temp/smartdns.conf | sed -r 's/address\s*\/(.*)\/#/\1/g' > temp/temp.txt
+          cat temp/clash.yaml | grep -E '\s*-\s*DOMAIN.*,.*' | sed -r 's/\s*-\s*DOMAIN.*,(.*)/\1/g' >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/ad_domain_list.txt
           # comm -2 -3 temp/ad_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > ad_domain_list.txt
@@ -122,10 +122,10 @@ jobs:
           cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
           cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/cn/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
-          cat ../../upstream/cn/ChinaMax_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
-          cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
-          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
-          cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
+          cat ../../upstream/cn/ChinaMax_Classical.yaml | grep -E '\s*-.*,.*' | sort | uniq > temp/clash.yaml
+          cat temp/clash.yaml | sed '/\s*-\s*DOMAIN.*/d' > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed '/\s*-\s*PROCESS-NAME.*/d' > temp/clash_without_domain_processs.yaml
+          cat temp/clash.yaml | grep -E '\s*-\s*DOMAIN.*,.*' | sed -r 's/\s*-\s*DOMAIN.*,(.*)/\1/g' >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/cn_domain_list.txt
           # comm -2 -3 temp/cn_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > cn_domain_list.txt
@@ -181,10 +181,10 @@ jobs:
           cat ./ExcludeDomain.txt | sort | uniq > temp/ExcludeDomain.txt
           cat ./IncludeDomain.txt | sort | uniq > temp/IncludeDomain.txt
           cat ../../upstream/gfw/*.txt | sed '/^#/d' | sort | uniq > temp/temp.txt
-          cat ../../upstream/gfw/Global_Classical.yaml | grep -E "  - .*,.*" | sort | uniq > temp/clash.yaml
-          cat temp/clash.yaml | sed "/  - DOMAIN.*/d" > temp/clash_without_domain.yaml
-          cat temp/clash_without_domain.yaml | sed "/  - PROCESS-NAME.*/d" > temp/clash_without_domain_processs.yaml
-          cat temp/clash.yaml | grep -E "  - DOMAIN.*,.*" | sed -r "s/  - DOMAIN.*,(.*)/\1/g" >> temp/temp.txt
+          cat ../../upstream/gfw/Global_Classical.yaml | grep -E '\s*-.*,.*' | sort | uniq > temp/clash.yaml
+          cat temp/clash.yaml | sed '/\s*-\s*DOMAIN.*/d' > temp/clash_without_domain.yaml
+          cat temp/clash_without_domain.yaml | sed '/\s*-\s*PROCESS-NAME.*/d' > temp/clash_without_domain_processs.yaml
+          cat temp/clash.yaml | grep -E '\s*-\s*DOMAIN.*,.*' | sed -r 's/\s*-\s*DOMAIN.*,(.*)/\1/g' >> temp/temp.txt
           cat temp/IncludeDomain.txt >> temp/temp.txt
           cat temp/temp.txt | sort | uniq > temp/gfw_domain_list.txt
           # comm -2 -3 temp/gfw_domain_list.txt temp/ExcludeDomain.txt | sed '/^$/d' > gfw_domain_list.txt
