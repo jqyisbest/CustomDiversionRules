@@ -164,7 +164,8 @@ jobs:
           echo "# Update: $update_time" >> loon.list
           echo "#" >> loon.list
           echo "#==========================================================================" >> loon.list
-          cat cn_domain_list.txt | awk '{printf "DOMAIN-SUFFIX,%s\n",$0}' >> loon.list
+          # 鉴于Loon中sni辅助规则匹配功能实为将所有请求优先按来自host/sni的域名进行策略匹配，在此处加入GEOIP,CN防止直连境外IP
+          cat cn_domain_list.txt | awk '{printf "AND,((GEOIP,CN),(DOMAIN-SUFFIX,%s))\n",$0}' >> loon.list
           # cat temp/clash_without_domain_processs.yaml | sed -r "s/  - (.*)/\1/g" >> loon.list
           # Loon中国分流以GEOIP,CN收尾
           echo -n "GEOIP,CN" >> loon.list 
