@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 119040
+# Total count: 119058
 #
-# Update: 2024-12-24 02:40:17(GMT+8)
+# Update: 2024-12-25 02:39:57(GMT+8)
 #
 #==========================================================================
 payload:
@@ -6142,7 +6142,6 @@ payload:
   - DOMAIN-SUFFIX,6006.xin
   - DOMAIN-SUFFIX,600895.com
   - DOMAIN-SUFFIX,600yj.com
-  - DOMAIN-SUFFIX,600zi.com
   - DOMAIN-SUFFIX,601601.com
   - DOMAIN-SUFFIX,601book.com
   - DOMAIN-SUFFIX,602.com
@@ -6973,6 +6972,7 @@ payload:
   - DOMAIN-SUFFIX,77zhangh.com
   - DOMAIN-SUFFIX,77zhanghao.com
   - DOMAIN-SUFFIX,77zn.com
+  - DOMAIN-SUFFIX,78.link
   - DOMAIN-SUFFIX,782653.biz
   - DOMAIN-SUFFIX,782e2u6m99.com
   - DOMAIN-SUFFIX,782yx.com
@@ -26005,6 +26005,7 @@ payload:
   - DOMAIN-SUFFIX,dolike.com
   - DOMAIN-SUFFIX,doll-leaves.com
   - DOMAIN-SUFFIX,doll-zone.com
+  - DOMAIN-SUFFIX,dollphoin.site
   - DOMAIN-SUFFIX,dollun.com
   - DOMAIN-SUFFIX,dolphin-browser.com
   - DOMAIN-SUFFIX,dolphin.com
@@ -30249,6 +30250,7 @@ payload:
   - DOMAIN-SUFFIX,fgowiki.com
   - DOMAIN-SUFFIX,fgtart.com
   - DOMAIN-SUFFIX,fgtxnews.com
+  - DOMAIN-SUFFIX,fgvisa.net
   - DOMAIN-SUFFIX,fgzohu.com
   - DOMAIN-SUFFIX,fh1551.com
   - DOMAIN-SUFFIX,fh21.com
@@ -30455,6 +30457,7 @@ payload:
   - DOMAIN-SUFFIX,fjadba.com
   - DOMAIN-SUFFIX,fjber.com
   - DOMAIN-SUFFIX,fjbgwl.com
+  - DOMAIN-SUFFIX,fjbk.org
   - DOMAIN-SUFFIX,fjblq.com
   - DOMAIN-SUFFIX,fjc001.com
   - DOMAIN-SUFFIX,fjcee.com
@@ -40165,6 +40168,7 @@ payload:
   - DOMAIN-SUFFIX,higeshi.com
   - DOMAIN-SUFFIX,higgmm.net
   - DOMAIN-SUFFIX,high-defense-163.com
+  - DOMAIN-SUFFIX,high22-playback.com
   - DOMAIN-SUFFIX,highdigitizing.com
   - DOMAIN-SUFFIX,highenergyaerospace.com
   - DOMAIN-SUFFIX,highfel.com
@@ -45104,6 +45108,7 @@ payload:
   - DOMAIN-SUFFIX,inliuzhou.com
   - DOMAIN-SUFFIX,inluckcalendar.com
   - DOMAIN-SUFFIX,inmeng.net
+  - DOMAIN-SUFFIX,inmense.site
   - DOMAIN-SUFFIX,inmuu.com
   - DOMAIN-SUFFIX,inmyshow.com
   - DOMAIN-SUFFIX,inneed.club
@@ -48023,7 +48028,6 @@ payload:
   - DOMAIN-SUFFIX,jisuapi.com
   - DOMAIN-SUFFIX,jisuchou.com
   - DOMAIN-SUFFIX,jisuclouds.com
-  - DOMAIN-SUFFIX,jisucn.com
   - DOMAIN-SUFFIX,jisuim.com
   - DOMAIN-SUFFIX,jisuimg.com
   - DOMAIN-SUFFIX,jisujie.com
@@ -50909,6 +50913,7 @@ payload:
   - DOMAIN-SUFFIX,ki-pa.com
   - DOMAIN-SUFFIX,kiaic.com
   - DOMAIN-SUFFIX,kibinggroup.com
+  - DOMAIN-SUFFIX,kickoffo.site
   - DOMAIN-SUFFIX,kicontech.com
   - DOMAIN-SUFFIX,kid17.com
   - DOMAIN-SUFFIX,kiddopal.com
@@ -59023,6 +59028,7 @@ payload:
   - DOMAIN-SUFFIX,molihe.cc
   - DOMAIN-SUFFIX,molihua.net
   - DOMAIN-SUFFIX,molihuadami.com
+  - DOMAIN-SUFFIX,molilian.com
   - DOMAIN-SUFFIX,molimoli.tech
   - DOMAIN-SUFFIX,molinsoft.com
   - DOMAIN-SUFFIX,moliplayer.com
@@ -60836,6 +60842,7 @@ payload:
   - DOMAIN-SUFFIX,neworldedu.org
   - DOMAIN-SUFFIX,newposture.vip
   - DOMAIN-SUFFIX,newqjsteel.com
+  - DOMAIN-SUFFIX,news-cdn.site
   - DOMAIN-SUFFIX,news18a.com
   - DOMAIN-SUFFIX,news606.com
   - DOMAIN-SUFFIX,newsapp01.com
@@ -68704,6 +68711,7 @@ payload:
   - DOMAIN-SUFFIX,return.net
   - DOMAIN-SUFFIX,returnc.com
   - DOMAIN-SUFFIX,reveetech.com
+  - DOMAIN-SUFFIX,revenuads.com
   - DOMAIN-SUFFIX,reverselove.com
   - DOMAIN-SUFFIX,reviosky.com
   - DOMAIN-SUFFIX,revolut.ltd
@@ -75508,6 +75516,7 @@ payload:
   - DOMAIN-SUFFIX,superlifetechnology.com
   - DOMAIN-SUFFIX,superlink.mobi
   - DOMAIN-SUFFIX,superlitetech.com
+  - DOMAIN-SUFFIX,superljq01.com
   - DOMAIN-SUFFIX,supermap.com
   - DOMAIN-SUFFIX,supermap.io
   - DOMAIN-SUFFIX,supermapcloud.com
@@ -77773,6 +77782,7 @@ payload:
   - DOMAIN-SUFFIX,thaiyellowpagesusa.com
   - DOMAIN-SUFFIX,thakjsbyy.com
   - DOMAIN-SUFFIX,thamco.com
+  - DOMAIN-SUFFIX,thanju.com
   - DOMAIN-SUFFIX,thankbabe.com
   - DOMAIN-SUFFIX,thankyoumaris.com
   - DOMAIN-SUFFIX,thape.com
@@ -80016,6 +80026,7 @@ payload:
   - DOMAIN-SUFFIX,tvmao.com
   - DOMAIN-SUFFIX,tvmcloud.com
   - DOMAIN-SUFFIX,tvmining.com
+  - DOMAIN-SUFFIX,tvnwang.cc
   - DOMAIN-SUFFIX,tvoao.com
   - DOMAIN-SUFFIX,tvos.com
   - DOMAIN-SUFFIX,tvt.im
@@ -83096,6 +83107,7 @@ payload:
   - DOMAIN-SUFFIX,wcloud.com
   - DOMAIN-SUFFIX,wcnc-lh.akamaihd.net
   - DOMAIN-SUFFIX,wcode.net
+  - DOMAIN-SUFFIX,wcp.hk
   - DOMAIN-SUFFIX,wcqjyw.com
   - DOMAIN-SUFFIX,wcsapi.com
   - DOMAIN-SUFFIX,wcsapi.net
@@ -92584,6 +92596,7 @@ payload:
   - DOMAIN-SUFFIX,yondocredit.com
   - DOMAIN-SUFFIX,yong-gang.com
   - DOMAIN-SUFFIX,yong-ming.com
+  - DOMAIN-SUFFIX,yong9ai.com
   - DOMAIN-SUFFIX,yongaomy.com
   - DOMAIN-SUFFIX,yongbangks.com
   - DOMAIN-SUFFIX,yongchaohuagong.com
@@ -101150,7 +101163,6 @@ payload:
   - IP-CIDR,104.233.144.0/21
   - IP-CIDR,104.233.157.0/24
   - IP-CIDR,104.233.159.0/24
-  - IP-CIDR,104.233.222.0/23
   - IP-CIDR,104.233.240.0/22
   - IP-CIDR,104.237.80.0/21
   - IP-CIDR,104.245.96.0/21
@@ -101497,6 +101509,7 @@ payload:
   - IP-CIDR,109.134.14.71/32
   - IP-CIDR,109.134.18.213/32
   - IP-CIDR,109.172.100.0/24
+  - IP-CIDR,109.176.254.0/23
   - IP-CIDR,109.206.244.0/22
   - IP-CIDR,109.244.0.0/16
   - IP-CIDR,109.71.162.112/32
@@ -102370,6 +102383,7 @@ payload:
   - IP-CIDR,140.250.0.0/16
   - IP-CIDR,140.255.0.0/16
   - IP-CIDR,140.75.0.0/16
+  - IP-CIDR,141.11.50.0/23
   - IP-CIDR,142.70.0.0/16
   - IP-CIDR,142.86.0.0/16
   - IP-CIDR,143.191.188.0/22
@@ -102575,6 +102589,7 @@ payload:
   - IP-CIDR,154.223.168.0/24
   - IP-CIDR,154.223.178.0/24
   - IP-CIDR,154.223.188.0/23
+  - IP-CIDR,154.223.96.0/19
   - IP-CIDR,154.23.188.0/22
   - IP-CIDR,154.36.92.0/23
   - IP-CIDR,154.38.104.0/22
@@ -102623,14 +102638,14 @@ payload:
   - IP-CIDR,156.227.48.0/20
   - IP-CIDR,156.230.11.0/24
   - IP-CIDR,156.230.12.0/23
-  - IP-CIDR,156.232.11.0/24
+  - IP-CIDR,156.232.10.0/23
   - IP-CIDR,156.232.9.0/24
   - IP-CIDR,156.236.110.0/24
   - IP-CIDR,156.236.116.0/24
   - IP-CIDR,156.236.96.0/23
   - IP-CIDR,156.237.104.0/23
   - IP-CIDR,156.239.0.0/20
-  - IP-CIDR,156.239.64.0/18
+  - IP-CIDR,156.239.96.0/19
   - IP-CIDR,156.242.5.0/24
   - IP-CIDR,156.242.6.0/24
   - IP-CIDR,156.245.128.0/21
@@ -105214,7 +105229,10 @@ payload:
   - IP-CIDR,23.229.47.208/28
   - IP-CIDR,23.229.47.48/28
   - IP-CIDR,23.236.210.48/28
+  - IP-CIDR,23.247.128.0/24
+  - IP-CIDR,23.247.130.0/24
   - IP-CIDR,23.254.87.144/28
+  - IP-CIDR,23.26.132.0/24
   - IP-CIDR,23.3.99.0/24
   - IP-CIDR,23.40.241.251/32
   - IP-CIDR,23.40.242.10/32
