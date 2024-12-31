@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 31906
+# Total count: 31908
 #
-# Update: 2024-12-31 02:40:49(GMT+8)
+# Update: 2025-01-01 02:39:46(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7626,6 +7626,7 @@ payload:
   - DOMAIN-SUFFIX,decrypt.day
   - DOMAIN-SUFFIX,decymru.ac.uk
   - DOMAIN-SUFFIX,deed.ac.uk
+  - DOMAIN-SUFFIX,deepai.org
   - DOMAIN-SUFFIX,deepdiscount.com
   - DOMAIN-SUFFIX,deeper.com
   - DOMAIN-SUFFIX,deepfake-porn.com
@@ -29403,6 +29404,7 @@ payload:
   - DOMAIN-SUFFIX,vraiesagesse.net
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
+  - DOMAIN-SUFFIX,vrchat.com
   - DOMAIN-SUFFIX,vred-essentials.com
   - DOMAIN-SUFFIX,vredessentials.com
   - DOMAIN-SUFFIX,vredprofessional.com
