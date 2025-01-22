@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 118716
+# Total count: 118731
 #
-# Update: 2025-01-22 02:41:08(GMT+8)
+# Update: 2025-01-23 02:41:34(GMT+8)
 #
 #==========================================================================
 payload:
@@ -4457,6 +4457,7 @@ payload:
   - DOMAIN-SUFFIX,50vm.com
   - DOMAIN-SUFFIX,50yc.com
   - DOMAIN-SUFFIX,50yin.com
+  - DOMAIN-SUFFIX,50yu.com
   - DOMAIN-SUFFIX,50zera.com
   - DOMAIN-SUFFIX,50zw.co
   - DOMAIN-SUFFIX,50zw.com
@@ -10189,6 +10190,7 @@ payload:
   - DOMAIN-SUFFIX,akhy.com
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-SUFFIX,aki-game.net
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aki-game2.net
   - DOMAIN-SUFFIX,akile.net
   - DOMAIN-SUFFIX,akjianding.com
@@ -16327,6 +16329,7 @@ payload:
   - DOMAIN-SUFFIX,bytefcdnrd.com
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,bytegeckoext.com
+  - DOMAIN-SUFFIX,bytegle.site
   - DOMAIN-SUFFIX,bytegle.tech
   - DOMAIN-SUFFIX,bytegoofy.com
   - DOMAIN-SUFFIX,bytegqpo.net
@@ -20401,6 +20404,7 @@ payload:
   - DOMAIN-SUFFIX,claritywallpaper.com
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
+  - DOMAIN-SUFFIX,classa-z.com
   - DOMAIN-SUFFIX,classcms.com
   - DOMAIN-SUFFIX,classinpaas.com
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
@@ -24194,6 +24198,7 @@ payload:
   - DOMAIN-SUFFIX,dcarvod.com
   - DOMAIN-SUFFIX,dcatgame.com
   - DOMAIN-SUFFIX,dcb123.com
+  - DOMAIN-SUFFIX,dcccji.com
   - DOMAIN-SUFFIX,dcdapp.com
   - DOMAIN-SUFFIX,dcdkjx.com
   - DOMAIN-SUFFIX,dcdnx.com
@@ -30697,6 +30702,7 @@ payload:
   - DOMAIN-SUFFIX,fogcloud.io
   - DOMAIN-SUFFIX,foguanghui.org
   - DOMAIN-SUFFIX,foioo.com
+  - DOMAIN-SUFFIX,foisonad.com
   - DOMAIN-SUFFIX,fojiaonet.com
   - DOMAIN-SUFFIX,fojiaoyongpin.com
   - DOMAIN-SUFFIX,foldur.com
@@ -34114,6 +34120,7 @@ payload:
   - DOMAIN-SUFFIX,gouwule.com
   - DOMAIN-SUFFIX,gouwuyu.com
   - DOMAIN-SUFFIX,gouyoukeji.com
+  - DOMAIN-SUFFIX,gov-static.tech
   - DOMAIN-SUFFIX,govfz.com
   - DOMAIN-SUFFIX,govisionox.net
   - DOMAIN-SUFFIX,govmade.com
@@ -42320,6 +42327,7 @@ payload:
   - DOMAIN-SUFFIX,huinongtx.com
   - DOMAIN-SUFFIX,huion.com
   - DOMAIN-SUFFIX,huiqia.net
+  - DOMAIN-SUFFIX,huiqianfan.com
   - DOMAIN-SUFFIX,huiqiyu.com
   - DOMAIN-SUFFIX,huiqk.com
   - DOMAIN-SUFFIX,huiqudsp.com
@@ -43196,6 +43204,7 @@ payload:
   - DOMAIN-SUFFIX,hznetwk.com
   - DOMAIN-SUFFIX,hznews.com
   - DOMAIN-SUFFIX,hznk91.com
+  - DOMAIN-SUFFIX,hznkg.com
   - DOMAIN-SUFFIX,hznlxs.com
   - DOMAIN-SUFFIX,hznsh.com
   - DOMAIN-SUFFIX,hzntjt.com
@@ -43818,6 +43827,7 @@ payload:
   - DOMAIN-SUFFIX,ict361.com
   - DOMAIN-SUFFIX,ict88.com
   - DOMAIN-SUFFIX,ictcsr.org
+  - DOMAIN-SUFFIX,ictdns.cloud
   - DOMAIN-SUFFIX,ictdns.fun
   - DOMAIN-SUFFIX,ictdns.store
   - DOMAIN-SUFFIX,ictdns.tech
@@ -64403,6 +64413,7 @@ payload:
   - DOMAIN-SUFFIX,pksfc.com
   - DOMAIN-SUFFIX,pksky.com
   - DOMAIN-SUFFIX,pkslow.com
+  - DOMAIN-SUFFIX,pku-cele.com
   - DOMAIN-SUFFIX,pku-hit.com
   - DOMAIN-SUFFIX,pku-lvxin.com
   - DOMAIN-SUFFIX,pku.tech
@@ -65721,6 +65732,7 @@ payload:
   - DOMAIN-SUFFIX,qh24.com
   - DOMAIN-SUFFIX,qh4321.com
   - DOMAIN-SUFFIX,qh6bc.com
+  - DOMAIN-SUFFIX,qh9y.com
   - DOMAIN-SUFFIX,qhangyun.com
   - DOMAIN-SUFFIX,qhass.org
   - DOMAIN-SUFFIX,qhbtv.com
@@ -71657,6 +71669,7 @@ payload:
   - DOMAIN-SUFFIX,shewang.net
   - DOMAIN-SUFFIX,shewantea.com
   - DOMAIN-SUFFIX,sheweikeji.com
+  - DOMAIN-SUFFIX,shexcloud.com
   - DOMAIN-SUFFIX,shexiannet.com
   - DOMAIN-SUFFIX,sheying001.net
   - DOMAIN-SUFFIX,sheyingtg.com
@@ -73263,6 +73276,7 @@ payload:
   - DOMAIN-SUFFIX,skinme.cc
   - DOMAIN-SUFFIX,skip-links.com
   - DOMAIN-SUFFIX,skjcsc.com
+  - DOMAIN-SUFFIX,skland.com
   - DOMAIN-SUFFIX,skldoor.com
   - DOMAIN-SUFFIX,sklinux.com
   - DOMAIN-SUFFIX,skomart.com
@@ -84255,6 +84269,7 @@ payload:
   - DOMAIN-SUFFIX,witspring.com
   - DOMAIN-SUFFIX,wityx.com
   - DOMAIN-SUFFIX,wiwide.com
+  - DOMAIN-SUFFIX,wiwide.net
   - DOMAIN-SUFFIX,wiz03.com
   - DOMAIN-SUFFIX,wj-chem.com
   - DOMAIN-SUFFIX,wj-hospital.com
@@ -92436,6 +92451,7 @@ payload:
   - DOMAIN-SUFFIX,youngem.com
   - DOMAIN-SUFFIX,youngerfeel.com
   - DOMAIN-SUFFIX,youngjoygame.com
+  - DOMAIN-SUFFIX,youngle.tech
   - DOMAIN-SUFFIX,youngor.com
   - DOMAIN-SUFFIX,youni.im
   - DOMAIN-SUFFIX,younuokeji.cloud
@@ -106634,7 +106650,6 @@ payload:
   - IP-CIDR,93.177.76.0/23
   - IP-CIDR,93.183.14.0/24
   - IP-CIDR,93.183.18.0/24
-  - IP-CIDR,93.187.128.0/22
   - IP-CIDR,94.191.0.0/17
   - IP-CIDR,96.45.38.79/32
   - IP-CIDR,96.7.136.0/23
@@ -117215,8 +117230,7 @@ payload:
   - IP-CIDR6,2a09:54c6:2000::/35
   - IP-CIDR6,2a09:54c6:4000::/34
   - IP-CIDR6,2a09:54c6:b000::/36
-  - IP-CIDR6,2a09:54c6:c000::/40
-  - IP-CIDR6,2a09:54c6:c200::/39
+  - IP-CIDR6,2a09:54c6:c000::/38
   - IP-CIDR6,2a09:54c6:c400::/39
   - IP-CIDR6,2a09:7c45:0:1000::/52
   - IP-CIDR6,2a09:7c45:0:100::/56
@@ -118349,7 +118363,7 @@ payload:
   - IP-CIDR6,2a0c:9a40:95bf:7b60::/60
   - IP-CIDR6,2a0c:9a40:95bf:7b80::/57
   - IP-CIDR6,2a0c:9a40:95bf:7c00::/54
-  - IP-CIDR6,2a0c:9a46:800::/44
+  - IP-CIDR6,2a0c:9a46:800::/43
   - IP-CIDR6,2a0c:9e06:133::/48
   - IP-CIDR6,2a0c:9e06:153::/48
   - IP-CIDR6,2a0c:9e06:62::/48
@@ -118656,6 +118670,7 @@ payload:
   - IP-CIDR6,2a14:67c1:804::/48
   - IP-CIDR6,2a14:67c1:806::/48
   - IP-CIDR6,2a14:67c1:808::/48
+  - IP-CIDR6,2a14:67c1:80a::/48
   - IP-CIDR6,2a14:67c1:a010::/44
   - IP-CIDR6,2a14:67c1:a024::/48
   - IP-CIDR6,2a14:67c1:a02f::/48
