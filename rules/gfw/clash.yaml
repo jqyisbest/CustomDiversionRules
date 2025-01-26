@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32002
+# Total count: 32009
 #
-# Update: 2025-01-26 02:37:18(GMT+8)
+# Update: 2025-01-27 02:38:47(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5165,6 +5165,7 @@ payload:
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,btdigg.org
   - DOMAIN-SUFFIX,btec.co.uk
+  - DOMAIN-SUFFIX,btguard.com
   - DOMAIN-SUFFIX,btku.me
   - DOMAIN-SUFFIX,btku.org
   - DOMAIN-SUFFIX,btlibrary.me
@@ -8182,6 +8183,7 @@ payload:
   - DOMAIN-SUFFIX,dlyoutube.com
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dm530.net
+  - DOMAIN-SUFFIX,dma.mil
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmed.technology
@@ -12352,7 +12354,7 @@ payload:
   - DOMAIN-SUFFIX,googleplay.com
   - DOMAIN-SUFFIX,googleplex.com
   - DOMAIN-SUFFIX,googleplus.com
-  - DOMAIN-SUFFIX,googlescholar.comUSA
+  - DOMAIN-SUFFIX,googlescholar.com
   - DOMAIN-SUFFIX,googlescholar.comusa
   - DOMAIN-SUFFIX,googlesile.com
   - DOMAIN-SUFFIX,googlesource.com
@@ -15427,7 +15429,6 @@ payload:
   - DOMAIN-SUFFIX,izmirautodeskegitimleri.com
   - DOMAIN-SUFFIX,j.mp
   - DOMAIN-SUFFIX,j2objc.org
-  - DOMAIN-SUFFIX,ja.wikipedia.org
   - DOMAIN-SUFFIX,jabcomix.com
   - DOMAIN-SUFFIX,jable.one
   - DOMAIN-SUFFIX,jable.org
@@ -21858,7 +21859,6 @@ payload:
   - DOMAIN-SUFFIX,phimsexnhanh.club
   - DOMAIN-SUFFIX,phmsociety.org
   - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phobos.apple.com
   - DOMAIN-SUFFIX,phoenix.ac.uk
   - DOMAIN-SUFFIX,phonegap.com
   - DOMAIN-SUFFIX,phosphation13.rssing.com
@@ -28026,6 +28026,7 @@ payload:
   - DOMAIN-SUFFIX,u9a9.cc
   - DOMAIN-SUFFIX,u9a9.com
   - DOMAIN-SUFFIX,u9un.com
+  - DOMAIN-SUFFIX,ua5v.com
   - DOMAIN-SUFFIX,ua92.ac.uk
   - DOMAIN-SUFFIX,uaa.com
   - DOMAIN-SUFFIX,uab.com.mm
@@ -28249,6 +28250,8 @@ payload:
   - DOMAIN-SUFFIX,ultimaonline.com
   - DOMAIN-SUFFIX,ultradonkey.com
   - DOMAIN-SUFFIX,ultralab.ac.uk
+  - DOMAIN-SUFFIX,ultrasurf.us
+  - DOMAIN-SUFFIX,ultravpn.com
   - DOMAIN-SUFFIX,ultravpn.fr
   - DOMAIN-SUFFIX,ultraxs.com
   - DOMAIN-SUFFIX,ultrayoungsex.com
@@ -28442,6 +28445,7 @@ payload:
   - DOMAIN-SUFFIX,usatodaynetworkservice.com
   - DOMAIN-SUFFIX,usc.edu
   - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,uscg.mil
   - DOMAIN-SUFFIX,uscnpm.org
   - DOMAIN-SUFFIX,use-of-mans.ac.uk
   - DOMAIN-SUFFIX,uselessjunk.com
@@ -29474,6 +29478,7 @@ payload:
   - DOMAIN-SUFFIX,vpnpick.com
   - DOMAIN-SUFFIX,vpnpop.com
   - DOMAIN-SUFFIX,vpnpronet.com
+  - DOMAIN-SUFFIX,vpnproxymaster.com
   - DOMAIN-SUFFIX,vpnreactor.com
   - DOMAIN-SUFFIX,vpnreviewz.com
   - DOMAIN-SUFFIX,vpnsecure.me
@@ -31209,6 +31214,7 @@ payload:
   - DOMAIN-SUFFIX,yasarang.net
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yasukuni.or.jp
   - DOMAIN-SUFFIX,yatong.info
   - DOMAIN-SUFFIX,yavtube.com
   - DOMAIN-SUFFIX,yaya.cyou
@@ -31643,6 +31649,7 @@ payload:
   - DOMAIN-SUFFIX,yunlaopo.cc
   - DOMAIN-SUFFIX,yunlaopo.com
   - DOMAIN-SUFFIX,yunlaopo.net
+  - DOMAIN-SUFFIX,yunomi.tokyo
   - DOMAIN-SUFFIX,yuntipub.com
   - DOMAIN-SUFFIX,yusercontent.com
   - DOMAIN-SUFFIX,yusjb.com
