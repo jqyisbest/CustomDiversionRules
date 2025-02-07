@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32009
+# Total count: 32027
 #
-# Update: 2025-02-07 02:40:49(GMT+8)
+# Update: 2025-02-08 02:40:49(GMT+8)
 #
 #==========================================================================
 payload:
@@ -3137,6 +3137,7 @@ payload:
   - DOMAIN-SUFFIX,bangkokstreetwhores.com
   - DOMAIN-SUFFIX,bangor-university-london.ac.uk
   - DOMAIN-SUFFIX,bangor.ac.uk
+  - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,bangyoulater.com
   - DOMAIN-SUFFIX,bangyourwife.com
   - DOMAIN-SUFFIX,bankmobilevibe.com
@@ -3800,6 +3801,7 @@ payload:
   - DOMAIN-SUFFIX,bfsh.hk
   - DOMAIN-SUFFIX,bftv.ac.uk
   - DOMAIN-SUFFIX,bgc.ac.uk
+  - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bgov.com
   - DOMAIN-SUFFIX,bgr.in
   - DOMAIN-SUFFIX,bgs.ac.uk
@@ -6200,6 +6202,7 @@ payload:
   - DOMAIN-SUFFIX,chid.com.mm
   - DOMAIN-SUFFIX,chigroup.ac.uk
   - DOMAIN-SUFFIX,chihair-straightener.com
+  - DOMAIN-SUFFIX,chii.in
   - DOMAIN-SUFFIX,chikiporn.com
   - DOMAIN-SUFFIX,chilbolton.ac.uk
   - DOMAIN-SUFFIX,childrenofthe90s.ac.uk
@@ -12535,6 +12538,7 @@ payload:
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
   - DOMAIN-SUFFIX,grindr.com
   - DOMAIN-SUFFIX,grooby.com
+  - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,grotty-monday.com
   - DOMAIN-SUFFIX,ground.news
   - DOMAIN-SUFFIX,groupfun.com
@@ -27259,6 +27263,8 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,tiktokd.org
+  - DOMAIN-SUFFIX,tiktokeu-cdn.com
+  - DOMAIN-SUFFIX,tiktokrow-cdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
@@ -27696,6 +27702,7 @@ payload:
   - DOMAIN-SUFFIX,tteshop.com
   - DOMAIN-SUFFIX,ttetraining.ac.uk
   - DOMAIN-SUFFIX,ttlivecdn.com
+  - DOMAIN-SUFFIX,ttoverseaus.net
   - DOMAIN-SUFFIX,ttrb.ac.uk
   - DOMAIN-SUFFIX,tttan.com
   - DOMAIN-SUFFIX,ttv.com.tw
@@ -29149,25 +29156,36 @@ payload:
   - DOMAIN-SUFFIX,vizvaz.com
   - DOMAIN-SUFFIX,vjav.com
   - DOMAIN-SUFFIX,vjmedia.com.hk
+  - DOMAIN-SUFFIX,vk-apps.com
+  - DOMAIN-SUFFIX,vk-apps.ru
   - DOMAIN-SUFFIX,vk-cdn.me
   - DOMAIN-SUFFIX,vk-cdn.net
   - DOMAIN-SUFFIX,vk-portal.net
   - DOMAIN-SUFFIX,vk.cc
   - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,vk.company
   - DOMAIN-SUFFIX,vk.design
   - DOMAIN-SUFFIX,vk.link
   - DOMAIN-SUFFIX,vk.me
   - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vk.team
   - DOMAIN-SUFFIX,vkcache.com
   - DOMAIN-SUFFIX,vkgo.app
   - DOMAIN-SUFFIX,vklive.app
   - DOMAIN-SUFFIX,vkmessenger.app
   - DOMAIN-SUFFIX,vkmessenger.com
   - DOMAIN-SUFFIX,vkontakte.ru
+  - DOMAIN-SUFFIX,vkuser.net
   - DOMAIN-SUFFIX,vkuseraudio.com
+  - DOMAIN-SUFFIX,vkuseraudio.net
+  - DOMAIN-SUFFIX,vkuseraudio.ru
+  - DOMAIN-SUFFIX,vkusercdn.ru
   - DOMAIN-SUFFIX,vkuserlive.net
+  - DOMAIN-SUFFIX,vkuserphoto.ru
   - DOMAIN-SUFFIX,vkuservideo.com
   - DOMAIN-SUFFIX,vkuservideo.net
+  - DOMAIN-SUFFIX,vkuservideo.ru
+  - DOMAIN-SUFFIX,vkvideo.ru
   - DOMAIN-SUFFIX,vl4x.net
   - DOMAIN-SUFFIX,vllcs.org
   - DOMAIN-SUFFIX,vlog.xuite.net
