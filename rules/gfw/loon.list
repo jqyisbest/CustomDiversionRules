@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32026
+# Total count: 32029
 #
-# Update: 2025-02-08 02:40:49(GMT+8)
+# Update: 2025-02-09 02:37:33(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -5814,6 +5814,7 @@ DOMAIN-SUFFIX,cccu.ac.uk
 DOMAIN-SUFFIX,ccdc.ac.uk
 DOMAIN-SUFFIX,ccdtr.org
 DOMAIN-SUFFIX,ccesd.ac.uk
+DOMAIN-SUFFIX,ccfd.org.tw
 DOMAIN-SUFFIX,ccfe.ac.uk
 DOMAIN-SUFFIX,cch.ac.uk
 DOMAIN-SUFFIX,cchere.com
@@ -12487,6 +12488,7 @@ DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grcb.ac.uk
 DOMAIN-SUFFIX,gre.ac.uk
 DOMAIN-SUFFIX,greasespot.net
+DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatapedictionary.ac.uk
@@ -15104,6 +15106,7 @@ DOMAIN-SUFFIX,ipadmini.lk
 DOMAIN-SUFFIX,ipadpro.buzz
 DOMAIN-SUFFIX,ipalter.com
 DOMAIN-SUFFIX,ipcc-wg3.ac.uk
+DOMAIN-SUFFIX,ipdefenseforum.com
 DOMAIN-SUFFIX,ipem.ac.uk
 DOMAIN-SUFFIX,ipfire.org
 DOMAIN-SUFFIX,ipforesightforum.ac.uk
@@ -20318,6 +20321,7 @@ DOMAIN-SUFFIX,nocn.ac.uk
 DOMAIN-SUFFIX,nocs.ac.uk
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodes.ac.uk
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,nodesnoop.com
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,nofile.io
@@ -21347,6 +21351,7 @@ DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,packetix.net
 DOMAIN-SUFFIX,pacloudflare.com
+DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,pact.ac.uk
 DOMAIN-SUFFIX,paddle.com
@@ -28469,7 +28474,6 @@ DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,ushare.ac.uk
 DOMAIN-SUFFIX,ushaw.ac.uk
 DOMAIN-SUFFIX,ushuarencity.echainhost.com
-DOMAIN-SUFFIX,usinfo.state.gov
 DOMAIN-SUFFIX,usma.edu
 DOMAIN-SUFFIX,usmc.mil
 DOMAIN-SUFFIX,usmgtcg.ning.com
@@ -30361,7 +30365,6 @@ DOMAIN-SUFFIX,www-paypal.us
 DOMAIN-SUFFIX,www-sms-apple.com
 DOMAIN-SUFFIX,www.abclite.net
 DOMAIN-SUFFIX,www.ajsands.com
-DOMAIN-SUFFIX,www.americorps.gov
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
 DOMAIN-SUFFIX,www.businessinsider.com.au
