@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32036
+# Total count: 32041
 #
-# Update: 2025-02-17 02:38:16(GMT+8)
+# Update: 2025-02-18 02:40:12(GMT+8)
 #
 #==========================================================================
 payload:
@@ -19131,7 +19131,12 @@ payload:
   - DOMAIN-SUFFIX,mwrc.ac.uk
   - DOMAIN-SUFFIX,mx.hao123.com
   - DOMAIN-SUFFIX,mx981.com
+  - DOMAIN-SUFFIX,mxlogin.com
   - DOMAIN-SUFFIX,mxmcdn.net
+  - DOMAIN-SUFFIX,mxroute.com
+  - DOMAIN-SUFFIX,mxroutedocs.com
+  - DOMAIN-SUFFIX,mxroutehelp.com
+  - DOMAIN-SUFFIX,mxrouting.net
   - DOMAIN-SUFFIX,mxshm.site
   - DOMAIN-SUFFIX,my-enema.com
   - DOMAIN-SUFFIX,my-formosa.com
