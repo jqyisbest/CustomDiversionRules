@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32041
+# Total count: 32044
 #
-# Update: 2025-02-19 02:41:51(GMT+8)
+# Update: 2025-02-20 02:41:16(GMT+8)
 #
 #==========================================================================
 payload:
@@ -457,6 +457,7 @@ payload:
   - DOMAIN-SUFFIX,5xsq.com
   - DOMAIN-SUFFIX,6-ar.com
   - DOMAIN-SUFFIX,60plusmilfs.com
+  - DOMAIN-SUFFIX,611study.icu
   - DOMAIN-SUFFIX,61jxbs42.xyz
   - DOMAIN-SUFFIX,62fh1bnj.me
   - DOMAIN-SUFFIX,634.tv
@@ -19876,6 +19877,7 @@ payload:
   - DOMAIN-SUFFIX,news.tvbs.com.tw
   - DOMAIN-SUFFIX,news.yahoo.com
   - DOMAIN-SUFFIX,news.ycombinator.com
+  - DOMAIN-SUFFIX,news1.kr
   - DOMAIN-SUFFIX,news100.com.tw
   - DOMAIN-SUFFIX,newsadds.com.au
   - DOMAIN-SUFFIX,newsamerica.com
@@ -21929,6 +21931,7 @@ payload:
   - DOMAIN-SUFFIX,picturedip.com
   - DOMAIN-SUFFIX,pictures.playboy.com
   - DOMAIN-SUFFIX,picturesocial.com
+  - DOMAIN-SUFFIX,picuki.com
   - DOMAIN-SUFFIX,pieceofplastic.com
   - DOMAIN-SUFFIX,pier18.ac.uk
   - DOMAIN-SUFFIX,pifpafarabia.com
