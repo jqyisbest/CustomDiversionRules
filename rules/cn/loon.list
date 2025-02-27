@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 98344
+# Total count: 98360
 #
-# Update: 2025-02-27 11:44:02(GMT+8)
+# Update: 2025-02-28 02:42:19(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -7574,7 +7574,6 @@ DOMAIN-SUFFIX,88la.la
 DOMAIN-SUFFIX,88lan.com
 DOMAIN-SUFFIX,88laser.com
 DOMAIN-SUFFIX,88lianmengtu.com
-DOMAIN-SUFFIX,88lm05.com
 DOMAIN-SUFFIX,88lm06.com
 DOMAIN-SUFFIX,88lm12.com
 DOMAIN-SUFFIX,88lm15.com
@@ -12286,10 +12285,23 @@ DOMAIN-SUFFIX,azbingxin.com
 DOMAIN-SUFFIX,azbq.org
 DOMAIN-SUFFIX,azchcdna.com
 DOMAIN-SUFFIX,azchcdnb.com
+DOMAIN-SUFFIX,azchcdnc.com
+DOMAIN-SUFFIX,azchcdnd.com
+DOMAIN-SUFFIX,azchcdne.com
+DOMAIN-SUFFIX,azchcdnf.com
 DOMAIN-SUFFIX,azchcdng.com
 DOMAIN-SUFFIX,azchcdnh.com
+DOMAIN-SUFFIX,azchcdni.com
 DOMAIN-SUFFIX,azchcdnj.com
+DOMAIN-SUFFIX,azchcdnk.com
+DOMAIN-SUFFIX,azchcdnl.com
 DOMAIN-SUFFIX,azchcdnm.com
+DOMAIN-SUFFIX,azchcdnn.com
+DOMAIN-SUFFIX,azchcdno.com
+DOMAIN-SUFFIX,azchcdnp.com
+DOMAIN-SUFFIX,azchcdnq.com
+DOMAIN-SUFFIX,azchcdnr.com
+DOMAIN-SUFFIX,azchcdns.com
 DOMAIN-SUFFIX,azdnszx.icu
 DOMAIN-SUFFIX,azetac.com
 DOMAIN-SUFFIX,azf010.com
@@ -28422,7 +28434,6 @@ DOMAIN-SUFFIX,epweike.com
 DOMAIN-SUFFIX,epwitkey.com
 DOMAIN-SUFFIX,epwk.com
 DOMAIN-SUFFIX,epzcw.com
-DOMAIN-SUFFIX,eqbyc.com
 DOMAIN-SUFFIX,eqding.com
 DOMAIN-SUFFIX,eqh5.com
 DOMAIN-SUFFIX,eqidi.com
@@ -30029,7 +30040,6 @@ DOMAIN-SUFFIX,fenleihu.com
 DOMAIN-SUFFIX,fenliu.net
 DOMAIN-SUFFIX,fenmach.com
 DOMAIN-SUFFIX,fennessy.hk
-DOMAIN-SUFFIX,fenqihome.com
 DOMAIN-SUFFIX,fenqile.com
 DOMAIN-SUFFIX,fenqix.com
 DOMAIN-SUFFIX,fenqubiao.com
@@ -39869,6 +39879,7 @@ DOMAIN-SUFFIX,hhrdc.com
 DOMAIN-SUFFIX,hhsilk.com
 DOMAIN-SUFFIX,hhsj31.com
 DOMAIN-SUFFIX,hhsw6688hxcdn.com
+DOMAIN-SUFFIX,hhtmm.com
 DOMAIN-SUFFIX,hhtravel.com
 DOMAIN-SUFFIX,hhtravel.com.tw
 DOMAIN-SUFFIX,hhup.com
@@ -65748,7 +65759,6 @@ DOMAIN-SUFFIX,qhm123.com
 DOMAIN-SUFFIX,qhmed.com
 DOMAIN-SUFFIX,qhmsg.com
 DOMAIN-SUFFIX,qhnews.com
-DOMAIN-SUFFIX,qhocciks.com
 DOMAIN-SUFFIX,qhong.net
 DOMAIN-SUFFIX,qhpcc.com
 DOMAIN-SUFFIX,qhpk.net
@@ -72138,7 +72148,6 @@ DOMAIN-SUFFIX,shouyoucdn.com
 DOMAIN-SUFFIX,shouyoujz.com
 DOMAIN-SUFFIX,shouyouqianxian.com
 DOMAIN-SUFFIX,shouyoushenqi.com
-DOMAIN-SUFFIX,shouyoutan.com
 DOMAIN-SUFFIX,shouyoutv.com
 DOMAIN-SUFFIX,shouyouzhijia.net
 DOMAIN-SUFFIX,shouzan365.com
@@ -76955,16 +76964,23 @@ DOMAIN-SUFFIX,tdjxhb.com
 DOMAIN-SUFFIX,tdmall.cc
 DOMAIN-SUFFIX,tdmoli2.com
 DOMAIN-SUFFIX,tdnsv1.com
+DOMAIN-SUFFIX,tdnsv1.net
 DOMAIN-SUFFIX,tdnsv10.com
 DOMAIN-SUFFIX,tdnsv10.net
+DOMAIN-SUFFIX,tdnsv11.com
+DOMAIN-SUFFIX,tdnsv11.net
 DOMAIN-SUFFIX,tdnsv12.com
+DOMAIN-SUFFIX,tdnsv12.net
 DOMAIN-SUFFIX,tdnsv13.com
 DOMAIN-SUFFIX,tdnsv13.net
 DOMAIN-SUFFIX,tdnsv14.com
 DOMAIN-SUFFIX,tdnsv14.net
+DOMAIN-SUFFIX,tdnsv15.com
 DOMAIN-SUFFIX,tdnsv15.net
 DOMAIN-SUFFIX,tdnsv2.com
+DOMAIN-SUFFIX,tdnsv2.net
 DOMAIN-SUFFIX,tdnsv3.com
+DOMAIN-SUFFIX,tdnsv3.net
 DOMAIN-SUFFIX,tdnsv4.com
 DOMAIN-SUFFIX,tdnsv4.net
 DOMAIN-SUFFIX,tdnsv5.com
@@ -76974,6 +76990,7 @@ DOMAIN-SUFFIX,tdnsv6.net
 DOMAIN-SUFFIX,tdnsv7.com
 DOMAIN-SUFFIX,tdnsv7.net
 DOMAIN-SUFFIX,tdnsv8.com
+DOMAIN-SUFFIX,tdnsv8.net
 DOMAIN-SUFFIX,tdnsv9.com
 DOMAIN-SUFFIX,tdnsv9.net
 DOMAIN-SUFFIX,tdnsx1.com
@@ -84823,7 +84840,6 @@ DOMAIN-SUFFIX,wpan123.com
 DOMAIN-SUFFIX,wpc.124ce.sigmacdn.net
 DOMAIN-SUFFIX,wpceo.com
 DOMAIN-SUFFIX,wpcio.com
-DOMAIN-SUFFIX,wpcnzz.com
 DOMAIN-SUFFIX,wpdaxue.com
 DOMAIN-SUFFIX,wpdian.com
 DOMAIN-SUFFIX,wpengapp.com
