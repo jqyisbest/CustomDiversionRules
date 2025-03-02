@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 118422
+# Total count: 118423
 #
-# Update: 2025-03-03 02:41:16(GMT+8)
+# Update: 2025-03-03 04:50:56(GMT+8)
 #
 #==========================================================================
 payload:
@@ -105135,6 +105135,7 @@ payload:
   - IP-CIDR,38.111.220.0/23
   - IP-CIDR,38.12.39.0/24
   - IP-CIDR,38.134.56.0/23
+  - IP-CIDR,38.134.59.0/24
   - IP-CIDR,38.147.168.0/23
   - IP-CIDR,38.147.174.0/23
   - IP-CIDR,38.181.0.0/19
