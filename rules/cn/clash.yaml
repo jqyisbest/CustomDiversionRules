@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 118312
+# Total count: 118329
 #
-# Update: 2025-03-09 02:32:57(GMT+8)
+# Update: 2025-03-10 02:33:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7692,6 +7692,7 @@ payload:
   - DOMAIN-SUFFIX,9090cdndns.com
   - DOMAIN-SUFFIX,90ao.com
   - DOMAIN-SUFFIX,90c6.com
+  - DOMAIN-SUFFIX,90dao.com
   - DOMAIN-SUFFIX,90ers.com
   - DOMAIN-SUFFIX,90ko.net
   - DOMAIN-SUFFIX,90kuai.net
@@ -8148,6 +8149,7 @@ payload:
   - DOMAIN-SUFFIX,955yes.com
   - DOMAIN-SUFFIX,955yx.com
   - DOMAIN-SUFFIX,9560.cc
+  - DOMAIN-SUFFIX,95600.vip
   - DOMAIN-SUFFIX,9564.com
   - DOMAIN-SUFFIX,9565.com
   - DOMAIN-SUFFIX,9567.com
@@ -15222,6 +15224,7 @@ payload:
   - DOMAIN-SUFFIX,bnocode.com
   - DOMAIN-SUFFIX,bntyh.com
   - DOMAIN-SUFFIX,bnupg.com
+  - DOMAIN-SUFFIX,bnvskhf.com
   - DOMAIN-SUFFIX,bnwin.com
   - DOMAIN-SUFFIX,bnxf.online
   - DOMAIN-SUFFIX,bnysq.com
@@ -16332,6 +16335,7 @@ payload:
   - DOMAIN-SUFFIX,bzyxch.com
   - DOMAIN-SUFFIX,c-119.com
   - DOMAIN-SUFFIX,c-3.moe
+  - DOMAIN-SUFFIX,c-abc.site
   - DOMAIN-SUFFIX,c-ame.com
   - DOMAIN-SUFFIX,c-c.com
   - DOMAIN-SUFFIX,c-canyin.com
@@ -25603,6 +25607,7 @@ payload:
   - DOMAIN-SUFFIX,dnsppdd.com
   - DOMAIN-SUFFIX,dnsrw.com
   - DOMAIN-SUFFIX,dnss.vip
+  - DOMAIN-SUFFIX,dnssec-poison.xyz
   - DOMAIN-SUFFIX,dnsserverhe.com
   - DOMAIN-SUFFIX,dnssina.com
   - DOMAIN-SUFFIX,dnstx88.cc
@@ -50630,6 +50635,7 @@ payload:
   - DOMAIN-SUFFIX,kkeji.com
   - DOMAIN-SUFFIX,kkeye.com
   - DOMAIN-SUFFIX,kkfesw.com
+  - DOMAIN-SUFFIX,kkffdns.com
   - DOMAIN-SUFFIX,kkgithub.com
   - DOMAIN-SUFFIX,kkguan.com
   - DOMAIN-SUFFIX,kkh-global.com
@@ -54339,6 +54345,7 @@ payload:
   - DOMAIN-SUFFIX,lmbang.com
   - DOMAIN-SUFFIX,lmbct.com
   - DOMAIN-SUFFIX,lmbest.com
+  - DOMAIN-SUFFIX,lmbhfsgfjs.com
   - DOMAIN-SUFFIX,lmbus.com
   - DOMAIN-SUFFIX,lmdk01.com
   - DOMAIN-SUFFIX,lmdouble.com
@@ -61763,6 +61770,7 @@ payload:
   - DOMAIN-SUFFIX,o.pki.goog
   - DOMAIN-SUFFIX,o014148q7p.com
   - DOMAIN-SUFFIX,o03011aokk.com
+  - DOMAIN-SUFFIX,o03080aokk.com
   - DOMAIN-SUFFIX,o0310o.com
   - DOMAIN-SUFFIX,o0o0o0o0o.one
   - DOMAIN-SUFFIX,o0o0w.com
@@ -61866,6 +61874,7 @@ payload:
   - DOMAIN-SUFFIX,oct-cts.com
   - DOMAIN-SUFFIX,oct-sh.com
   - DOMAIN-SUFFIX,octbay.com
+  - DOMAIN-SUFFIX,octcommercial.com
   - DOMAIN-SUFFIX,octeshow.com
   - DOMAIN-SUFFIX,octholding.com
   - DOMAIN-SUFFIX,octhotels.com
@@ -67504,6 +67513,7 @@ payload:
   - DOMAIN-SUFFIX,raingray.com
   - DOMAIN-SUFFIX,rainhj.com
   - DOMAIN-SUFFIX,rainhz.com
+  - DOMAIN-SUFFIX,raining.top
   - DOMAIN-SUFFIX,rainlain.com
   - DOMAIN-SUFFIX,rainwe.com
   - DOMAIN-SUFFIX,rainyun.com
@@ -75911,6 +75921,7 @@ payload:
   - DOMAIN-SUFFIX,taidic.net
   - DOMAIN-SUFFIX,taidichina.com
   - DOMAIN-SUFFIX,taidu.com
+  - DOMAIN-SUFFIX,taiduhome.com
   - DOMAIN-SUFFIX,taierrobot.com
   - DOMAIN-SUFFIX,taifua.com
   - DOMAIN-SUFFIX,taig.com
@@ -81697,6 +81708,7 @@ payload:
   - DOMAIN-SUFFIX,wamila.com
   - DOMAIN-SUFFIX,wan.cc
   - DOMAIN-SUFFIX,wan.com
+  - DOMAIN-SUFFIX,wan.wang
   - DOMAIN-SUFFIX,wan1234.com
   - DOMAIN-SUFFIX,wan123x.com
   - DOMAIN-SUFFIX,wan160.com
@@ -86167,6 +86179,7 @@ payload:
   - DOMAIN-SUFFIX,xianyongyong.com
   - DOMAIN-SUFFIX,xianyu.mobi
   - DOMAIN-SUFFIX,xianyuange.com
+  - DOMAIN-SUFFIX,xianyudanji.net
   - DOMAIN-SUFFIX,xianyugame.com
   - DOMAIN-SUFFIX,xianyugouwu.com
   - DOMAIN-SUFFIX,xianyuso.com
@@ -87331,6 +87344,7 @@ payload:
   - DOMAIN-SUFFIX,xiongmao789.com
   - DOMAIN-SUFFIX,xiongmaodangao.com
   - DOMAIN-SUFFIX,xiongmaojinku.com
+  - DOMAIN-SUFFIX,xionguamaqui.com
   - DOMAIN-SUFFIX,xiongyin.com
   - DOMAIN-SUFFIX,xiongying.com
   - DOMAIN-SUFFIX,xiongzhangad.com
@@ -88690,12 +88704,15 @@ payload:
   - DOMAIN-SUFFIX,xuexi616.com
   - DOMAIN-SUFFIX,xuexi637.com
   - DOMAIN-SUFFIX,xuexi665.com
+  - DOMAIN-SUFFIX,xuexi683.com
   - DOMAIN-SUFFIX,xuexi684.com
   - DOMAIN-SUFFIX,xuexi719.com
+  - DOMAIN-SUFFIX,xuexi725.com
   - DOMAIN-SUFFIX,xuexi727.com
   - DOMAIN-SUFFIX,xuexi733.com
   - DOMAIN-SUFFIX,xuexi734.com
   - DOMAIN-SUFFIX,xuexi782.com
+  - DOMAIN-SUFFIX,xuexi784.com
   - DOMAIN-SUFFIX,xuexi786.com
   - DOMAIN-SUFFIX,xuexi806.com
   - DOMAIN-SUFFIX,xuexi807.com
@@ -90943,6 +90960,7 @@ payload:
   - DOMAIN-SUFFIX,yisa.com
   - DOMAIN-SUFFIX,yisanban.com
   - DOMAIN-SUFFIX,yisanwu.com
+  - DOMAIN-SUFFIX,yisbei.com
   - DOMAIN-SUFFIX,yisell.com
   - DOMAIN-SUFFIX,yishalai.com
   - DOMAIN-SUFFIX,yishan168.com
@@ -101585,7 +101603,7 @@ payload:
   - IP-CIDR,156.224.232.0/24
   - IP-CIDR,156.230.11.0/24
   - IP-CIDR,156.230.12.0/23
-  - IP-CIDR,156.232.10.0/24
+  - IP-CIDR,156.232.10.0/23
   - IP-CIDR,156.232.9.0/24
   - IP-CIDR,156.236.96.0/23
   - IP-CIDR,156.237.104.0/23
@@ -103942,7 +103960,6 @@ payload:
   - IP-CIDR,216.246.39.189/32
   - IP-CIDR,217.146.9.192/28
   - IP-CIDR,217.194.133.0/24
-  - IP-CIDR,217.194.135.0/24
   - IP-CIDR,217.20.164.181/32
   - IP-CIDR,217.7.142.0/32
   - IP-CIDR,218.0.0.0/11

@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32362
+# Total count: 32363
 #
-# Update: 2025-03-09 02:32:57(GMT+8)
+# Update: 2025-03-10 02:33:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -28280,6 +28280,7 @@ payload:
   - DOMAIN-SUFFIX,twitvid.com
   - DOMAIN-SUFFIX,twitzap.com
   - DOMAIN-SUFFIX,twiyia.com
+  - DOMAIN-SUFFIX,twkan.com
   - DOMAIN-SUFFIX,twlegs.com
   - DOMAIN-SUFFIX,twline5.com
   - DOMAIN-SUFFIX,twnextdigital.com
