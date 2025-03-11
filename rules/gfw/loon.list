@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32362
+# Total count: 32361
 #
-# Update: 2025-03-11 02:41:38(GMT+8)
+# Update: 2025-03-12 02:43:34(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -6130,6 +6130,7 @@ DOMAIN-SUFFIX,chase.ac.uk
 DOMAIN-SUFFIX,chasestudy.ac.uk
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chat.lmsys.org
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -10871,9 +10872,7 @@ DOMAIN-SUFFIX,fonolia.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fontbook.com
 DOMAIN-SUFFIX,fontexplorerx.com
-DOMAIN-SUFFIX,fontfiles.googleadapis.com
 DOMAIN-SUFFIX,fonts.com
-DOMAIN-SUFFIX,fonts.googleadapis.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,fontshop.com
 DOMAIN-SUFFIX,fontsinuse.com
@@ -21297,6 +21296,7 @@ DOMAIN-SUFFIX,opdems.ac.uk
 DOMAIN-SUFFIX,open.ac.uk
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
+DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
@@ -30695,7 +30695,6 @@ DOMAIN-SUFFIX,www.dwheeler.com
 DOMAIN-SUFFIX,www.eastturkistan.net
 DOMAIN-SUFFIX,www.gmiddle.com
 DOMAIN-SUFFIX,www.gmiddle.net
-DOMAIN-SUFFIX,www.googleadapis.com
 DOMAIN-SUFFIX,www.hustlercash.com
 DOMAIN-SUFFIX,www.idlcoyote.com
 DOMAIN-SUFFIX,www.imdb.com
