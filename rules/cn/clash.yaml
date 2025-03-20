@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 121031
+# Total count: 121037
 #
-# Update: 2025-03-20 02:43:35(GMT+8)
+# Update: 2025-03-21 02:42:15(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1576,6 +1576,7 @@ payload:
   - DOMAIN-SUFFIX,15kuaixiu.com
   - DOMAIN-SUFFIX,15lu.com
   - DOMAIN-SUFFIX,15ms.com
+  - DOMAIN-SUFFIX,15re.com
   - DOMAIN-SUFFIX,15scsc.com
   - DOMAIN-SUFFIX,15tianqi.com
   - DOMAIN-SUFFIX,15xdd.com
@@ -9296,6 +9297,7 @@ payload:
   - DOMAIN-SUFFIX,ace-info.com
   - DOMAIN-SUFFIX,ace-pow.com
   - DOMAIN-SUFFIX,ace-rubber.com
+  - DOMAIN-SUFFIX,ace113.com
   - DOMAIN-SUFFIX,acejoy.com
   - DOMAIN-SUFFIX,acelamicro.com
   - DOMAIN-SUFFIX,aceoo.com
@@ -12776,7 +12778,6 @@ payload:
   - DOMAIN-SUFFIX,b4882.com
   - DOMAIN-SUFFIX,b4iwf5.com
   - DOMAIN-SUFFIX,b4this.com
-  - DOMAIN-SUFFIX,b53.xyz
   - DOMAIN-SUFFIX,b555b.com
   - DOMAIN-SUFFIX,b55weik1d4.com
   - DOMAIN-SUFFIX,b5b6.com
@@ -25143,6 +25144,7 @@ payload:
   - DOMAIN-SUFFIX,delilegal.com
   - DOMAIN-SUFFIX,delin-sh.com
   - DOMAIN-SUFFIX,delinklab.com
+  - DOMAIN-SUFFIX,delipu.cc
   - DOMAIN-SUFFIX,delishi.com
   - DOMAIN-SUFFIX,deliworld.com
   - DOMAIN-SUFFIX,delixi-electric.com
@@ -42205,6 +42207,7 @@ payload:
   - DOMAIN-SUFFIX,hpcssc.com
   - DOMAIN-SUFFIX,hpearx.com
   - DOMAIN-SUFFIX,hpeft.com
+  - DOMAIN-SUFFIX,hpgamestream.com
   - DOMAIN-SUFFIX,hpglw.com
   - DOMAIN-SUFFIX,hph123.com
   - DOMAIN-SUFFIX,hphuishou.com
@@ -45935,6 +45938,7 @@ payload:
   - DOMAIN-SUFFIX,inicoapp.com
   - DOMAIN-SUFFIX,inidc.net
   - DOMAIN-SUFFIX,ininin.com
+  - DOMAIN-SUFFIX,initff.com
   - DOMAIN-SUFFIX,initialview.com
   - DOMAIN-SUFFIX,initpp.com
   - DOMAIN-SUFFIX,initroot.com
@@ -63954,6 +63958,7 @@ payload:
   - DOMAIN-SUFFIX,omeet.cc
   - DOMAIN-SUFFIX,omegatravel.net
   - DOMAIN-SUFFIX,omegaxyz.com
+  - DOMAIN-SUFFIX,omen.com
   - DOMAIN-SUFFIX,omgaixm.com
   - DOMAIN-SUFFIX,omgxy.com
   - DOMAIN-SUFFIX,omheth.com
@@ -74912,7 +74917,6 @@ payload:
   - DOMAIN-SUFFIX,skrshop.tech
   - DOMAIN-SUFFIX,skrskrskrskr.com
   - DOMAIN-SUFFIX,sksdwl.com
-  - DOMAIN-SUFFIX,skskssso.com
   - DOMAIN-SUFFIX,skslfd.com
   - DOMAIN-SUFFIX,skswz.com
   - DOMAIN-SUFFIX,sktcdn.com
@@ -85018,6 +85022,7 @@ payload:
   - DOMAIN-SUFFIX,weisyun.com
   - DOMAIN-SUFFIX,weitehui.com
   - DOMAIN-SUFFIX,weitiaozhuan.com
+  - DOMAIN-SUFFIX,weitietl.com
   - DOMAIN-SUFFIX,weitiewang.com
   - DOMAIN-SUFFIX,weitip.com
   - DOMAIN-SUFFIX,weitoupiao.com
@@ -88297,7 +88302,6 @@ payload:
   - DOMAIN-SUFFIX,xhclub.net
   - DOMAIN-SUFFIX,xhcpa.net
   - DOMAIN-SUFFIX,xhcpas.com
-  - DOMAIN-SUFFIX,xhct66.com
   - DOMAIN-SUFFIX,xhd.org
   - DOMAIN-SUFFIX,xhdnwct.com
   - DOMAIN-SUFFIX,xhdollar.com
@@ -96567,6 +96571,7 @@ payload:
   - DOMAIN-SUFFIX,zbgscm.com
   - DOMAIN-SUFFIX,zbhot.com
   - DOMAIN-SUFFIX,zbhouse.com
+  - DOMAIN-SUFFIX,zbhuafx.com
   - DOMAIN-SUFFIX,zbicg.com
   - DOMAIN-SUFFIX,zbieo.com
   - DOMAIN-SUFFIX,zbii.com
@@ -103270,7 +103275,6 @@ payload:
   - IP-CIDR,112.192.0.0/14
   - IP-CIDR,112.196.208.0/24
   - IP-CIDR,112.213.101.0/24
-  - IP-CIDR,112.213.116.0/24
   - IP-CIDR,112.224.0.0/11
   - IP-CIDR,112.64.0.0/14
   - IP-CIDR,112.73.0.0/16
@@ -108520,7 +108524,6 @@ payload:
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.87.54.0/24
   - IP-CIDR,45.9.11.0/24
-  - IP-CIDR,45.91.83.0/24
   - IP-CIDR,45.92.158.0/23
   - IP-CIDR,46.102.251.0/25
   - IP-CIDR,46.151.180.0/23
@@ -108573,6 +108576,7 @@ payload:
   - IP-CIDR,5.154.156.54/31
   - IP-CIDR,5.175.237.0/24
   - IP-CIDR,5.175.239.0/24
+  - IP-CIDR,5.180.98.0/23
   - IP-CIDR,5.181.219.0/24
   - IP-CIDR,5.231.96.0/24
   - IP-CIDR,5.42.192.0/24
@@ -117676,6 +117680,7 @@ payload:
   - IP-CIDR6,2404:2280:130::/48
   - IP-CIDR6,2404:2280:134::/48
   - IP-CIDR6,2404:2280:136::/47
+  - IP-CIDR6,2404:2280:138::/48
   - IP-CIDR6,2404:2280:13b::/48
   - IP-CIDR6,2404:2280:13c::/47
   - IP-CIDR6,2404:2280:142::/48
@@ -120974,6 +120979,7 @@ payload:
   - IP-CIDR6,2a14:7580:9608::/46
   - IP-CIDR6,2a14:7580:d000::/37
   - IP-CIDR6,2a14:7580:d800::/39
+  - IP-CIDR6,2a14:7580:da00::/40
   - IP-CIDR6,2a14:7580:e200::/40
   - IP-CIDR6,2a14:7580:e484::/48
   - IP-CIDR6,2a14:7580:fa00::/40
