@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32365
+# Total count: 32366
 #
-# Update: 2025-03-24 02:40:22(GMT+8)
+# Update: 2025-03-25 02:44:02(GMT+8)
 #
 #==========================================================================
 payload:
@@ -990,6 +990,7 @@ payload:
   - DOMAIN-SUFFIX,adult-list.com
   - DOMAIN-SUFFIX,adult-sex-games.com
   - DOMAIN-SUFFIX,adult-web-site.net
+  - DOMAIN-SUFFIX,adult.contents.fc2.com
   - DOMAIN-SUFFIX,adult.friendfinder.com
   - DOMAIN-SUFFIX,adult.toonsearch.net
   - DOMAIN-SUFFIX,adult3dcomics.com
@@ -6849,6 +6850,7 @@ payload:
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
+  - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coincheck.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,coinegg.com
@@ -9418,7 +9420,6 @@ payload:
   - DOMAIN-SUFFIX,emuparadise.me
   - DOMAIN-SUFFIX,emwprep.ac.uk
   - DOMAIN-SUFFIX,en-compass.ac.uk
-  - DOMAIN-SUFFIX,en.favotter.net
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,enablementadobe.com
   - DOMAIN-SUFFIX,enanyang.my
@@ -10405,7 +10406,6 @@ payload:
   - DOMAIN-SUFFIX,fashionretailacademy.ac.uk
   - DOMAIN-SUFFIX,fashiontechnologyacademy.ac.uk
   - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,fast.wistia.com
   - DOMAIN-SUFFIX,fastech.ac.uk
   - DOMAIN-SUFFIX,fastestvpn.com
   - DOMAIN-SUFFIX,fastindianporn.com
@@ -21200,6 +21200,7 @@ payload:
   - DOMAIN-SUFFIX,onbeatsbydresale.com
   - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,one.one.one
+  - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
   - DOMAIN-SUFFIX,onedinesfree.com
@@ -29193,7 +29194,7 @@ payload:
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
   - DOMAIN-SUFFIX,video.ap.org
-  - DOMAIN-SUFFIX,video.fdbox.com
+  - DOMAIN-SUFFIX,video.fc2.com
   - DOMAIN-SUFFIX,video.foxbusiness.com
   - DOMAIN-SUFFIX,video01.org
   - DOMAIN-SUFFIX,videoactive.ac.uk
