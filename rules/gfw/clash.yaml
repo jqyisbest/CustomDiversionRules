@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32366
+# Total count: 32367
 #
-# Update: 2025-03-26 02:43:49(GMT+8)
+# Update: 2025-03-27 02:43:52(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1981,6 +1981,7 @@ payload:
   - DOMAIN-SUFFIX,apornotube.net
   - DOMAIN-SUFFIX,aporntv.com
   - DOMAIN-SUFFIX,apornvideo.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-dynamics.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app-measurement.com
