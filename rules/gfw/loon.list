@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32414
+# Total count: 32416
 #
-# Update: 2025-04-05 02:42:51(GMT+8)
+# Update: 2025-04-06 02:39:48(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -2707,6 +2707,7 @@ DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
 DOMAIN-SUFFIX,auricularesbeatsmarkt.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
+DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
@@ -21337,6 +21338,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net
+DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
