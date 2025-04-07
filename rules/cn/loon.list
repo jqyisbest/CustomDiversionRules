@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 109603
+# Total count: 109604
 #
-# Update: 2025-04-07 02:40:28(GMT+8)
+# Update: 2025-04-08 02:42:08(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -10904,6 +10904,7 @@ DOMAIN-SUFFIX,aliappcdn.com
 DOMAIN-SUFFIX,aliasnb.xyz
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba.net
 DOMAIN-SUFFIX,alibabacapital.com

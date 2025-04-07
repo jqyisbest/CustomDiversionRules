@@ -8,7 +8,7 @@
 #
 # Total count: 130261
 #
-# Update: 2025-04-07 02:40:28(GMT+8)
+# Update: 2025-04-08 02:42:08(GMT+8)
 #
 #==========================================================================
 payload:
@@ -10905,6 +10905,7 @@ payload:
   - DOMAIN-SUFFIX,aliasnb.xyz
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,alibaba-inc.com
+  - DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibaba.net
   - DOMAIN-SUFFIX,alibabacapital.com
@@ -110150,8 +110151,7 @@ payload:
   - IP-CIDR,103.143.132.0/22
   - IP-CIDR,103.143.16.0/22
   - IP-CIDR,103.143.174.0/23
-  - IP-CIDR,103.143.228.0/23
-  - IP-CIDR,103.143.231.0/24
+  - IP-CIDR,103.143.228.0/22
   - IP-CIDR,103.143.31.0/24
   - IP-CIDR,103.143.74.0/23
   - IP-CIDR,103.143.92.0/23
@@ -110160,7 +110160,6 @@ payload:
   - IP-CIDR,103.144.148.0/23
   - IP-CIDR,103.144.158.0/23
   - IP-CIDR,103.144.240.0/23
-  - IP-CIDR,103.144.245.0/24
   - IP-CIDR,103.144.40.0/23
   - IP-CIDR,103.144.52.0/23
   - IP-CIDR,103.144.66.0/23
@@ -113640,7 +113639,7 @@ payload:
   - IP-CIDR,163.179.0.0/16
   - IP-CIDR,163.181.0.0/16
   - IP-CIDR,163.204.0.0/16
-  - IP-CIDR,163.223.178.0/24
+  - IP-CIDR,163.223.178.0/23
   - IP-CIDR,163.228.0.0/16
   - IP-CIDR,163.244.246.0/24
   - IP-CIDR,163.47.4.0/22
@@ -130018,6 +130017,7 @@ payload:
   - IP-CIDR6,2a0e:aa07:e220::/44
   - IP-CIDR6,2a0e:aa07:ec10::/44
   - IP-CIDR6,2a0e:aa07:f012::/48
+  - IP-CIDR6,2a0e:aa07:f0d1::/48
   - IP-CIDR6,2a0e:aa07:f0d2::/48
   - IP-CIDR6,2a0e:aa07:f0d5::/48
   - IP-CIDR6,2a0e:aa07:f0d8::/48
