@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32417
+# Total count: 32421
 #
-# Update: 2025-04-08 02:42:08(GMT+8)
+# Update: 2025-04-09 02:44:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -25277,7 +25277,11 @@ payload:
   - DOMAIN-SUFFIX,sign.ac.uk
   - DOMAIN-SUFFIX,sign.new
   - DOMAIN-SUFFIX,signal.art
+  - DOMAIN-SUFFIX,signal.group
+  - DOMAIN-SUFFIX,signal.link
+  - DOMAIN-SUFFIX,signal.me
   - DOMAIN-SUFFIX,signal.org
+  - DOMAIN-SUFFIX,signal.tube
   - DOMAIN-SUFFIX,signalbar.com
   - DOMAIN-SUFFIX,signalprocessingsociety.org
   - DOMAIN-SUFFIX,signalr.net
