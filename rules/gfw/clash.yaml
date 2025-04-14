@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32543
+# Total count: 32553
 #
-# Update: 2025-04-14 02:40:58(GMT+8)
+# Update: 2025-04-15 02:44:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -543,6 +543,7 @@ payload:
   - DOMAIN-SUFFIX,8664av.com
   - DOMAIN-SUFFIX,881903.com
   - DOMAIN-SUFFIX,888.com
+  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,888poker.com
   - DOMAIN-SUFFIX,88av.one
   - DOMAIN-SUFFIX,88gals.com
@@ -10355,6 +10356,7 @@ payload:
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,fanhaolou.com
   - DOMAIN-SUFFIX,fanhowab.buzz
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fank.ru
   - DOMAIN-SUFFIX,fanleakstoday.com
   - DOMAIN-SUFFIX,fanqiang.network
@@ -10471,6 +10473,7 @@ payload:
   - DOMAIN-SUFFIX,fatstube.com
   - DOMAIN-SUFFIX,fau11.com
   - DOMAIN-SUFFIX,fault-analysis-group.ac.uk
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favebook.com
   - DOMAIN-SUFFIX,favelaporno.com
   - DOMAIN-SUFFIX,favepornmovs.com
@@ -12823,6 +12826,7 @@ payload:
   - DOMAIN-SUFFIX,gzm.tv
   - DOMAIN-SUFFIX,gzone-anime.info
   - DOMAIN-SUFFIX,h-china.org
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-doujinshi.xyz
   - DOMAIN-SUFFIX,h-flash.com
   - DOMAIN-SUFFIX,h-moe.com
@@ -17787,6 +17791,7 @@ payload:
   - DOMAIN-SUFFIX,mantochichi.com
   - DOMAIN-SUFFIX,manufacturingedc.ac.uk
   - DOMAIN-SUFFIX,manurefetish.com
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,manytoon.com
   - DOMAIN-SUFFIX,manyvids.com
   - DOMAIN-SUFFIX,manyvoices.news
@@ -25409,6 +25414,7 @@ payload:
   - DOMAIN-SUFFIX,sinchew.com.my
   - DOMAIN-SUFFIX,sinchew.my
   - DOMAIN-SUFFIX,sinet.ac.uk
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
   - DOMAIN-SUFFIX,sing4.lat
   - DOMAIN-SUFFIX,sing68.com
   - DOMAIN-SUFFIX,singaporepools.com.sg
@@ -25904,6 +25910,7 @@ payload:
   - DOMAIN-SUFFIX,sothebys-institute.ac.uk
   - DOMAIN-SUFFIX,soton.ac.uk
   - DOMAIN-SUFFIX,sots.ac.uk
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,sou-tong.org
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,souka.xyz
@@ -26168,6 +26175,7 @@ payload:
   - DOMAIN-SUFFIX,ssl.webpack.de
   - DOMAIN-SUFFIX,ssl443.org
   - DOMAIN-SUFFIX,sslpaypal.org
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,ssmh.ac.uk
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,sspanel.org
@@ -27568,6 +27576,7 @@ payload:
   - DOMAIN-SUFFIX,thotbook.tv
   - DOMAIN-SUFFIX,thothub.ru
   - DOMAIN-SUFFIX,thothub.to
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
   - DOMAIN-SUFFIX,threadreaderapp.com
@@ -29039,6 +29048,7 @@ payload:
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,v.roucdn
   - DOMAIN-SUFFIX,v2.help
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org
