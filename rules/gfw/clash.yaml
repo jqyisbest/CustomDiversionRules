@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32553
+# Total count: 32569
 #
-# Update: 2025-04-15 02:44:27(GMT+8)
+# Update: 2025-04-16 02:43:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -336,6 +336,7 @@ payload:
   - DOMAIN-SUFFIX,3dtin.net
   - DOMAIN-SUFFIX,3go.fun
   - DOMAIN-SUFFIX,3hentai.net
+  - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,3lib.net
   - DOMAIN-SUFFIX,3movs.com
   - DOMAIN-SUFFIX,3movs.xyz
@@ -898,6 +899,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.info
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguard.org
+  - DOMAIN-SUFFIX,adguardaccount.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
   - DOMAIN-SUFFIX,adidas.at
@@ -2987,6 +2989,7 @@ payload:
   - DOMAIN-SUFFIX,awjq.cc
   - DOMAIN-SUFFIX,awlc.ac.uk
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
+  - DOMAIN-SUFFIX,aws.com
   - DOMAIN-SUFFIX,awsautopilot.com
   - DOMAIN-SUFFIX,awsautoscaling.com
   - DOMAIN-SUFFIX,awsbraket.com
@@ -5717,6 +5720,7 @@ payload:
   - DOMAIN-SUFFIX,capitaliq.com
   - DOMAIN-SUFFIX,capitalisingoncreativity.ac.uk
   - DOMAIN-SUFFIX,capsule.ac.uk
+  - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,carabinasypistolas.com
   - DOMAIN-SUFFIX,carbo-biocrop.ac.uk
   - DOMAIN-SUFFIX,carbobiocrop.ac.uk
@@ -6453,6 +6457,7 @@ payload:
   - DOMAIN-SUFFIX,churchill.ac.uk
   - DOMAIN-SUFFIX,churchinhongkong.org
   - DOMAIN-SUFFIX,chushigangdrug.ch
+  - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,chutuno.fun
   - DOMAIN-SUFFIX,chuzs2.xyz
   - DOMAIN-SUFFIX,chwr7s8u.com
@@ -7381,6 +7386,7 @@ payload:
   - DOMAIN-SUFFIX,ctv.com.tw
   - DOMAIN-SUFFIX,ctwant.com
   - DOMAIN-SUFFIX,ctyun.online
+  - DOMAIN-SUFFIX,cubicmotion.com
   - DOMAIN-SUFFIX,cubo.ac.uk
   - DOMAIN-SUFFIX,cuc.ac.uk
   - DOMAIN-SUFFIX,cuckfilmswifefuck.com
@@ -9994,6 +10000,7 @@ payload:
   - DOMAIN-SUFFIX,faam.ac.uk
   - DOMAIN-SUFFIX,faapy.com
   - DOMAIN-SUFFIX,faasbook.com
+  - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabhairypussy.com
   - DOMAIN-SUFFIX,fablabplymouth.ac.uk
   - DOMAIN-SUFFIX,fabric.io
@@ -14263,6 +14270,7 @@ payload:
   - DOMAIN-SUFFIX,hypodermic-injection.com
   - DOMAIN-SUFFIX,hypodermicinjectiononline.com
   - DOMAIN-SUFFIX,hypothes.is
+  - DOMAIN-SUFFIX,hyprsense.com
   - DOMAIN-SUFFIX,hyread.com.tw
   - DOMAIN-SUFFIX,hysbys.ac.uk
   - DOMAIN-SUFFIX,hyu2.com
@@ -18879,6 +18887,7 @@ payload:
   - DOMAIN-SUFFIX,misskeyusercontent.jp
   - DOMAIN-SUFFIX,mist.ac.uk
   - DOMAIN-SUFFIX,mist.vip
+  - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mistresskym.com
   - DOMAIN-SUFFIX,mit.edu
   - DOMAIN-SUFFIX,mit.net
@@ -23495,6 +23504,8 @@ payload:
   - DOMAIN-SUFFIX,quipelements.com
   - DOMAIN-SUFFIX,quitccp.net
   - DOMAIN-SUFFIX,quitccp.org
+  - DOMAIN-SUFFIX,quixel.com
+  - DOMAIN-SUFFIX,quixel.se
   - DOMAIN-SUFFIX,quiz.directory
   - DOMAIN-SUFFIX,qumingwz.com
   - DOMAIN-SUFFIX,qumrancavesdispersed.ac.uk
@@ -23543,6 +23554,7 @@ payload:
   - DOMAIN-SUFFIX,rad-sat.ac.uk
   - DOMAIN-SUFFIX,rada.ac.uk
   - DOMAIN-SUFFIX,radeon.com
+  - DOMAIN-SUFFIX,radgametools.com
   - DOMAIN-SUFFIX,radian6.com
   - DOMAIN-SUFFIX,radicalparty.org
   - DOMAIN-SUFFIX,radiko.jp
@@ -23780,6 +23792,7 @@ payload:
   - DOMAIN-SUFFIX,realisingopportunities.ac.uk
   - DOMAIN-SUFFIX,reality-computing.com
   - DOMAIN-SUFFIX,realitykings.com
+  - DOMAIN-SUFFIX,realityscan.com
   - DOMAIN-SUFFIX,reallesbianexposed.com
   - DOMAIN-SUFFIX,reallifemethods.ac.uk
   - DOMAIN-SUFFIX,realmaturesfuck.com
@@ -25505,6 +25518,7 @@ payload:
   - DOMAIN-SUFFIX,sketchbookmobile.com
   - DOMAIN-SUFFIX,sketchbooknews.com
   - DOMAIN-SUFFIX,sketchbookpro.com
+  - DOMAIN-SUFFIX,sketchfab.com
   - DOMAIN-SUFFIX,skillsbridge.ac.uk
   - DOMAIN-SUFFIX,skillscompetitionwales.ac.uk
   - DOMAIN-SUFFIX,skillsgroupuk.ac.uk
@@ -28398,6 +28412,7 @@ payload:
   - DOMAIN-SUFFIX,twinkboyfriends.tv
   - DOMAIN-SUFFIX,twinkspornos.com
   - DOMAIN-SUFFIX,twinkybf.com
+  - DOMAIN-SUFFIX,twinmotion.com
   - DOMAIN-SUFFIX,twinprime.com
   - DOMAIN-SUFFIX,twinsuk.ac.uk
   - DOMAIN-SUFFIX,twip.me
@@ -31942,6 +31957,7 @@ payload:
   - DOMAIN-SUFFIX,youthforfreechina.org
   - DOMAIN-SUFFIX,youthnetradio.org
   - DOMAIN-SUFFIX,youthwant.com.tw
+  - DOMAIN-SUFFIX,youtrack.cloud
   - DOMAIN-SUFFIX,youtrannytube.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube
