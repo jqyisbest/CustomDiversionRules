@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32569
+# Total count: 32570
 #
-# Update: 2025-04-16 02:43:27(GMT+8)
+# Update: 2025-04-17 02:44:50(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13389,6 +13389,7 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.company
   - DOMAIN-SUFFIX,hetzner.de
+  - DOMAIN-SUFFIX,hetzner.social
   - DOMAIN-SUFFIX,heungkongdiscuss.com
   - DOMAIN-SUFFIX,hew.ac.uk
   - DOMAIN-SUFFIX,hewit.ac.uk
