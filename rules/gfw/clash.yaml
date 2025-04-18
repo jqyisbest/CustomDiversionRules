@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32578
+# Total count: 32579
 #
-# Update: 2025-04-18 02:43:54(GMT+8)
+# Update: 2025-04-19 02:42:44(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14276,6 +14276,7 @@ payload:
   - DOMAIN-SUFFIX,hyprsense.com
   - DOMAIN-SUFFIX,hyread.com.tw
   - DOMAIN-SUFFIX,hysbys.ac.uk
+  - DOMAIN-SUFFIX,hysteria.network
   - DOMAIN-SUFFIX,hyu2.com
   - DOMAIN-SUFFIX,hzmn.net
   - DOMAIN-SUFFIX,i-123-hp.com
