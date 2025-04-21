@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 121811
+# Total count: 121787
 #
-# Update: 2025-04-21 02:42:33(GMT+8)
+# Update: 2025-04-22 02:44:38(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -4322,7 +4322,6 @@ DOMAIN-SUFFIX,36kr.net
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
 DOMAIN-SUFFIX,36nl.com
-DOMAIN-SUFFIX,36pn.com
 DOMAIN-SUFFIX,36qp.com
 DOMAIN-SUFFIX,36tw.com
 DOMAIN-SUFFIX,36ve.net
@@ -11174,7 +11173,6 @@ DOMAIN-SUFFIX,ai-thinker.com
 DOMAIN-SUFFIX,ai-vip.net
 DOMAIN-SUFFIX,ai-ways.com
 DOMAIN-SUFFIX,ai.cc
-DOMAIN-SUFFIX,ai.ytimg.com
 DOMAIN-SUFFIX,ai012.com
 DOMAIN-SUFFIX,ai0513.com
 DOMAIN-SUFFIX,ai257.com
@@ -13237,6 +13235,7 @@ DOMAIN-SUFFIX,apous.com
 DOMAIN-SUFFIX,apowo.com
 DOMAIN-SUFFIX,apowogame.com
 DOMAIN-SUFFIX,apoyl.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-distribution-cn.djicdn.com
 DOMAIN-SUFFIX,app-distribution-download.djicdn.com
 DOMAIN-SUFFIX,app-distribution.djiops.com
@@ -31095,9 +31094,6 @@ DOMAIN-SUFFIX,displink.com
 DOMAIN-SUFFIX,dissona.vip
 DOMAIN-SUFFIX,distantmeaning.com
 DOMAIN-SUFFIX,distinctclinic.com
-DOMAIN-SUFFIX,distribution.qatp1.net
-DOMAIN-SUFFIX,distribution.qcpp1.net
-DOMAIN-SUFFIX,distribution.qpdp1.net
 DOMAIN-SUFFIX,ditai.fun
 DOMAIN-SUFFIX,ditan.com
 DOMAIN-SUFFIX,ditan360.com
@@ -32231,8 +32227,6 @@ DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,download.msi.com
 DOMAIN-SUFFIX,download.qatp1.net
-DOMAIN-SUFFIX,download.qcpp1.net
-DOMAIN-SUFFIX,download.qpdp1.net
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,downloads.ltd
@@ -33045,7 +33039,6 @@ DOMAIN-SUFFIX,dxf6.com
 DOMAIN-SUFFIX,dxfblog.com
 DOMAIN-SUFFIX,dxgg.co
 DOMAIN-SUFFIX,dxguanxian.org
-DOMAIN-SUFFIX,dxgyl.xyz
 DOMAIN-SUFFIX,dxhlt.com
 DOMAIN-SUFFIX,dxhuafu.net
 DOMAIN-SUFFIX,dxinzf.com
@@ -72415,8 +72408,6 @@ DOMAIN-SUFFIX,mongac.com
 DOMAIN-SUFFIX,monhun.fun
 DOMAIN-SUFFIX,monidai.com
 DOMAIN-SUFFIX,monidata.com
-DOMAIN-SUFFIX,monitoring.qatp1.net
-DOMAIN-SUFFIX,monitoring.qcpp1.net
 DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,monknow.com
 DOMAIN-SUFFIX,monolink.net
@@ -79478,7 +79469,6 @@ DOMAIN-SUFFIX,play-cdn10.com
 DOMAIN-SUFFIX,play-cdn11.com
 DOMAIN-SUFFIX,play-cdn14.com
 DOMAIN-SUFFIX,play-cdn20.com
-DOMAIN-SUFFIX,play.1ucrs.com
 DOMAIN-SUFFIX,play.craft.moe
 DOMAIN-SUFFIX,play.jinnantv.top
 DOMAIN-SUFFIX,play.scrstv.com
@@ -80616,8 +80606,6 @@ DOMAIN-SUFFIX,qacn.net
 DOMAIN-SUFFIX,qae3orq9we9t7.com
 DOMAIN-SUFFIX,qaeczbxr.com
 DOMAIN-SUFFIX,qagpublic.qatp1.net
-DOMAIN-SUFFIX,qagpublic.qcpp1.net
-DOMAIN-SUFFIX,qagpublic.qpdp1.net
 DOMAIN-SUFFIX,qahzp.com
 DOMAIN-SUFFIX,qajung.xyz
 DOMAIN-SUFFIX,qakkan.vip
@@ -80986,9 +80974,7 @@ DOMAIN-SUFFIX,qfxhjxc.net
 DOMAIN-SUFFIX,qg.net
 DOMAIN-SUFFIX,qg108.com
 DOMAIN-SUFFIX,qg3oed7882.com
-DOMAIN-SUFFIX,qgadmin.qatp1.net
 DOMAIN-SUFFIX,qgadmin.qcpp1.net
-DOMAIN-SUFFIX,qgadmin.qpdp1.net
 DOMAIN-SUFFIX,qgb2b.com
 DOMAIN-SUFFIX,qgbnzb.com
 DOMAIN-SUFFIX,qgbzyzl.com
@@ -82647,10 +82633,6 @@ DOMAIN-SUFFIX,qualcomm-challenge.com
 DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,qualtekgz.com
 DOMAIN-SUFFIX,qualysapi.qatp1.net
-DOMAIN-SUFFIX,qualysapi.qcpp1.net
-DOMAIN-SUFFIX,qualysapi.qpdp1.net
-DOMAIN-SUFFIX,qualysguard.qatp1.net
-DOMAIN-SUFFIX,qualysguard.qcpp1.net
 DOMAIN-SUFFIX,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,quan.mx
 DOMAIN-SUFFIX,quan007.com
@@ -85962,9 +85944,7 @@ DOMAIN-SUFFIX,sc96655.com
 DOMAIN-SUFFIX,scaffi.com
 DOMAIN-SUFFIX,scagz.com
 DOMAIN-SUFFIX,scanfang.com
-DOMAIN-SUFFIX,scanservice1.qatp1.net
 DOMAIN-SUFFIX,scanservice1.qcpp1.net
-DOMAIN-SUFFIX,scanservice1.qpdp1.net
 DOMAIN-SUFFIX,scansmt.com
 DOMAIN-SUFFIX,scanv.com
 DOMAIN-SUFFIX,scarbbs.com
@@ -87158,7 +87138,6 @@ DOMAIN-SUFFIX,setb2b.com
 DOMAIN-SUFFIX,setdg.net
 DOMAIN-SUFFIX,seteuid0.com
 DOMAIN-SUFFIX,setshop.vip
-DOMAIN-SUFFIX,settings.xn--9trs65b.com
 DOMAIN-SUFFIX,seuic.com
 DOMAIN-SUFFIX,seven-meters.com
 DOMAIN-SUFFIX,seven7777.eu
@@ -92937,7 +92916,6 @@ DOMAIN-SUFFIX,supplierlist.com
 DOMAIN-SUFFIX,supplywater.com
 DOMAIN-SUFFIX,support-chat.dji.com
 DOMAIN-SUFFIX,support-cn.samsung.com
-DOMAIN-SUFFIX,support.1ucrs.com
 DOMAIN-SUFFIX,support.amd.com
 DOMAIN-SUFFIX,support.dji.com
 DOMAIN-SUFFIX,support.globalsign.com
@@ -95826,7 +95804,6 @@ DOMAIN-SUFFIX,tesolsh.com
 DOMAIN-SUFFIX,tesoon.com
 DOMAIN-SUFFIX,test-cignacmb.com
 DOMAIN-SUFFIX,test-relay-service.djicdn.com
-DOMAIN-SUFFIX,test.bugs-qa.chromium.org
 DOMAIN-SUFFIX,test.codata.lenovo.com
 DOMAIN-SUFFIX,test.gbugs-qa.chromium.org
 DOMAIN-SUFFIX,test.qi.lenovo.com
@@ -109355,7 +109332,6 @@ DOMAIN-SUFFIX,xn--9iqs25bkvi.xn--czr694b
 DOMAIN-SUFFIX,xn--9kq29i0tjy6b044actm.com
 DOMAIN-SUFFIX,xn--9kqx88aa0024cywe.org
 DOMAIN-SUFFIX,xn--9kr72kqwe.com
-DOMAIN-SUFFIX,xn--9kr7l.com
 DOMAIN-SUFFIX,xn--9myo55bi8l.com
 DOMAIN-SUFFIX,xn--9pr56vfna007k.com
 DOMAIN-SUFFIX,xn--9swtur5jzql.xn--3ds443g
