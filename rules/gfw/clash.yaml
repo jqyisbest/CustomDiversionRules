@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32605
+# Total count: 32606
 #
-# Update: 2025-04-29 02:44:46(GMT+8)
+# Update: 2025-04-30 02:43:47(GMT+8)
 #
 #==========================================================================
 payload:
@@ -27625,6 +27625,7 @@ payload:
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
   - DOMAIN-SUFFIX,threadreaderapp.com
+  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
   - DOMAIN-SUFFIX,thri.xxx
