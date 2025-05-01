@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 121591
+# Total count: 121594
 #
-# Update: 2025-05-01 02:44:42(GMT+8)
+# Update: 2025-05-02 02:44:53(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -31145,6 +31145,7 @@ DOMAIN-SUFFIX,djicdn.com
 DOMAIN-SUFFIX,djigo-hk.djiservice.org
 DOMAIN-SUFFIX,djigo.djicdn.com
 DOMAIN-SUFFIX,djigoapi.djiservice.org
+DOMAIN-SUFFIX,djiits.com
 DOMAIN-SUFFIX,djiops.com
 DOMAIN-SUFFIX,djiservice.org
 DOMAIN-SUFFIX,djjgj.com
@@ -72368,6 +72369,7 @@ DOMAIN-SUFFIX,moreck.com
 DOMAIN-SUFFIX,mored.com
 DOMAIN-SUFFIX,moredian.com
 DOMAIN-SUFFIX,morefood.com
+DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,morefun-philippines.com
 DOMAIN-SUFFIX,moregy.com
 DOMAIN-SUFFIX,moreless.io
@@ -107265,6 +107267,7 @@ DOMAIN-SUFFIX,xiaomei.cc
 DOMAIN-SUFFIX,xiaomeiti.com
 DOMAIN-SUFFIX,xiaomeng1235.com
 DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaomi.hk
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomi.org
