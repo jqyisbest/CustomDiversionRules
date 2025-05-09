@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32608
+# Total count: 32609
 #
-# Update: 2025-05-09 02:45:57(GMT+8)
+# Update: 2025-05-10 02:44:30(GMT+8)
 #
 #==========================================================================
 payload:
@@ -19367,6 +19367,7 @@ payload:
   - DOMAIN-SUFFIX,mu6bce1c.xyz
   - DOMAIN-SUFFIX,muarc.ac.uk
   - DOMAIN-SUFFIX,mubi.com
+  - DOMAIN-SUFFIX,mubicdn.net
   - DOMAIN-SUFFIX,muchohentai.com
   - DOMAIN-SUFFIX,muchomasporno.com
   - DOMAIN-SUFFIX,muchosucko.com
