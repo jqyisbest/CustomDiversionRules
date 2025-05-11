@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32609
+# Total count: 32618
 #
-# Update: 2025-05-11 02:41:18(GMT+8)
+# Update: 2025-05-12 02:41:34(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1184,7 +1184,6 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
-  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -12169,6 +12168,7 @@ payload:
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,gmoney.org
   - DOMAIN-SUFFIX,gmozomg.izihost.org
+  - DOMAIN-SUFFIX,gmp4.com
   - DOMAIN-SUFFIX,gmsa.ac.uk
   - DOMAIN-SUFFIX,gmx.net
   - DOMAIN-SUFFIX,gnai-dh.sbs
@@ -14303,6 +14303,7 @@ payload:
   - DOMAIN-SUFFIX,i-o-u.info
   - DOMAIN-SUFFIX,i-part.com.tw
   - DOMAIN-SUFFIX,i-scmp.com
+  - DOMAIN-SUFFIX,i.111666.best
   - DOMAIN-SUFFIX,i.jeded.com
   - DOMAIN-SUFFIX,i.lithium.com
   - DOMAIN-SUFFIX,i.org
@@ -21341,6 +21342,7 @@ payload:
   - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,one.one
   - DOMAIN-SUFFIX,one.one.one
+  - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
   - DOMAIN-SUFFIX,onedinesfree.com
@@ -22459,6 +22461,7 @@ payload:
   - DOMAIN-SUFFIX,play-asia.com
   - DOMAIN-SUFFIX,play-bmm.shop
   - DOMAIN-SUFFIX,play-bmmer.buzz
+  - DOMAIN-SUFFIX,play.google
   - DOMAIN-SUFFIX,play4free.com
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
@@ -23317,6 +23320,7 @@ payload:
   - DOMAIN-SUFFIX,pure18.com
   - DOMAIN-SUFFIX,pureapk.com
   - DOMAIN-SUFFIX,pureconcepts.net
+  - DOMAIN-SUFFIX,puredns.org
   - DOMAIN-SUFFIX,pureinsight.org
   - DOMAIN-SUFFIX,purelov5.com
   - DOMAIN-SUFFIX,purelyceleb.com
@@ -23440,6 +23444,7 @@ payload:
   - DOMAIN-SUFFIX,qml.ac.uk
   - DOMAIN-SUFFIX,qmov.com
   - DOMAIN-SUFFIX,qmov.net
+  - DOMAIN-SUFFIX,qmp4.com
   - DOMAIN-SUFFIX,qmpgmc.ac.uk
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qmu.ac.uk
@@ -24292,6 +24297,7 @@ payload:
   - DOMAIN-SUFFIX,rti.org.tw
   - DOMAIN-SUFFIX,rti.tw
   - DOMAIN-SUFFIX,rtings.com
+  - DOMAIN-SUFFIX,rtm.tnt-ea.com
   - DOMAIN-SUFFIX,rtycminnesota.org
   - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
@@ -32258,7 +32264,10 @@ payload:
   - DOMAIN-SUFFIX,yysub.net
   - DOMAIN-SUFFIX,yzld188.top
   - DOMAIN-SUFFIX,yzzk.com
+  - DOMAIN-SUFFIX,z-lib.fm
+  - DOMAIN-SUFFIX,z-lib.fo
   - DOMAIN-SUFFIX,z-lib.gd
+  - DOMAIN-SUFFIX,z-lib.gl
   - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,z-lib.org
