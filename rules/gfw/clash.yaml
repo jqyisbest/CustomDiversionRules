@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32618
+# Total count: 32621
 #
-# Update: 2025-05-13 02:45:57(GMT+8)
+# Update: 2025-05-14 02:44:36(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1184,6 +1184,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
+  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -20548,6 +20549,7 @@ payload:
   - DOMAIN-SUFFIX,nikke-jp.com
   - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,nikke-sea.com
+  - DOMAIN-SUFFIX,nikke.hotcool.tw
   - DOMAIN-SUFFIX,nikkei-cnbc.co.jp
   - DOMAIN-SUFFIX,nikkei.co.jp
   - DOMAIN-SUFFIX,nikkei.com
@@ -20734,6 +20736,7 @@ payload:
   - DOMAIN-SUFFIX,northumbria.ac.uk
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
   - DOMAIN-SUFFIX,nos.nl
+  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
