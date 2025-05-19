@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 124296
+# Total count: 124317
 #
-# Update: 2025-05-19 02:42:26(GMT+8)
+# Update: 2025-05-20 02:46:00(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -1354,8 +1354,11 @@ DOMAIN-SUFFIX,115800.com
 DOMAIN-SUFFIX,115care.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,115cloud.com
+DOMAIN-SUFFIX,115cloud.net
 DOMAIN-SUFFIX,115img.com
 DOMAIN-SUFFIX,115jk.com
+DOMAIN-SUFFIX,115meta.com
 DOMAIN-SUFFIX,115seo.com
 DOMAIN-SUFFIX,115vod.com
 DOMAIN-SUFFIX,115zb.com
@@ -12584,6 +12587,7 @@ DOMAIN-SUFFIX,amzqazc.com
 DOMAIN-SUFFIX,an1health.com
 DOMAIN-SUFFIX,an2.net
 DOMAIN-SUFFIX,an68.com
+DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,analogfoundries.com
 DOMAIN-SUFFIX,analysysdata.com
 DOMAIN-SUFFIX,analytics.lenovo.com
@@ -26864,6 +26868,7 @@ DOMAIN-SUFFIX,copl.com.hk
 DOMAIN-SUFFIX,copotile.com
 DOMAIN-SUFFIX,copperalliance.asia
 DOMAIN-SUFFIX,copperhome.net
+DOMAIN-SUFFIX,copy-manga.com
 DOMAIN-SUFFIX,copyedu.com
 DOMAIN-SUFFIX,copyfuture.com
 DOMAIN-SUFFIX,copyswisswatches.com
@@ -28480,6 +28485,7 @@ DOMAIN-SUFFIX,ctripbuy.hk
 DOMAIN-SUFFIX,ctripc.com
 DOMAIN-SUFFIX,ctripcorp.com
 DOMAIN-SUFFIX,ctripgslb.com
+DOMAIN-SUFFIX,ctripgslb.net
 DOMAIN-SUFFIX,ctripins.com
 DOMAIN-SUFFIX,ctripqa.com
 DOMAIN-SUFFIX,ctripteam.com
@@ -35599,9 +35605,11 @@ DOMAIN-SUFFIX,esoua.com
 DOMAIN-SUFFIX,esound.vip
 DOMAIN-SUFFIX,esouou.com
 DOMAIN-SUFFIX,esoyu.com
+DOMAIN-SUFFIX,esp8266.com
 DOMAIN-SUFFIX,espeedpost.com
 DOMAIN-SUFFIX,esplus.club
 DOMAIN-SUFFIX,espnlol.com
+DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,esr.com
 DOMAIN-SUFFIX,essaystar.com
 DOMAIN-SUFFIX,essbjs.com
@@ -51738,6 +51746,7 @@ DOMAIN-SUFFIX,hqcg1984.com
 DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqcr.com
 DOMAIN-SUFFIX,hqdlsn.com
+DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqdoor.com
 DOMAIN-SUFFIX,hqengroup.com
 DOMAIN-SUFFIX,hqepay.com
@@ -56339,6 +56348,7 @@ DOMAIN-SUFFIX,inferoey.com
 DOMAIN-SUFFIX,infertilitybridge.com
 DOMAIN-SUFFIX,infimotion.com
 DOMAIN-SUFFIX,infineon-autoeco.com
+DOMAIN-SUFFIX,infineon.com
 DOMAIN-SUFFIX,infini-ai.com
 DOMAIN-SUFFIX,infinisign.com
 DOMAIN-SUFFIX,infinitescript.com
@@ -56676,6 +56686,7 @@ DOMAIN-SUFFIX,iotmag.com
 DOMAIN-SUFFIX,iotmore.com
 DOMAIN-SUFFIX,iotmrvr.com
 DOMAIN-SUFFIX,iotpai.com
+DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,iotrouter.com
 DOMAIN-SUFFIX,iots.vip
 DOMAIN-SUFFIX,iotsafe.net
@@ -59374,6 +59385,7 @@ DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jike.com
 DOMAIN-SUFFIX,jike.info
 DOMAIN-SUFFIX,jike800.com
+DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikedata.com
 DOMAIN-SUFFIX,jikefan.com
 DOMAIN-SUFFIX,jikegou.net
@@ -60543,6 +60555,8 @@ DOMAIN-SUFFIX,jlc-gw.com
 DOMAIN-SUFFIX,jlc-jh.com
 DOMAIN-SUFFIX,jlc-layout.com
 DOMAIN-SUFFIX,jlc-pcb.com
+DOMAIN-SUFFIX,jlc-smt.com
+DOMAIN-SUFFIX,jlc-zh.com
 DOMAIN-SUFFIX,jlc.com
 DOMAIN-SUFFIX,jlcar.net
 DOMAIN-SUFFIX,jlcca.com
@@ -70985,7 +70999,9 @@ DOMAIN-SUFFIX,manfen.net
 DOMAIN-SUFFIX,manfen5.com
 DOMAIN-SUFFIX,manfred-auto.com
 DOMAIN-SUFFIX,manfrottoclub.com
+DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,manganesenanhai.com
 DOMAIN-SUFFIX,mangg.com
 DOMAIN-SUFFIX,mangguo.com
@@ -75709,6 +75725,8 @@ DOMAIN-SUFFIX,neolee.com
 DOMAIN-SUFFIX,neolix.net
 DOMAIN-SUFFIX,neomodulus.com
 DOMAIN-SUFFIX,neoremind.com
+DOMAIN-SUFFIX,neoscholar.com
+DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,neosey.com
 DOMAIN-SUFFIX,neoyon.com
 DOMAIN-SUFFIX,nep-logistics.com
@@ -88662,6 +88680,7 @@ DOMAIN-SUFFIX,seedit.com
 DOMAIN-SUFFIX,seedland.cc
 DOMAIN-SUFFIX,seedlandss.com
 DOMAIN-SUFFIX,seedsufe.com
+DOMAIN-SUFFIX,seeed.cc
 DOMAIN-SUFFIX,seegif.com
 DOMAIN-SUFFIX,seehealth.net
 DOMAIN-SUFFIX,seehu.net
@@ -97957,6 +97976,7 @@ DOMAIN-SUFFIX,tgljw.com
 DOMAIN-SUFFIX,tglxh.com
 DOMAIN-SUFFIX,tgnet.com
 DOMAIN-SUFFIX,tgovcloud.com
+DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,tgr365.com
 DOMAIN-SUFFIX,tgshiguan.com
 DOMAIN-SUFFIX,tgslsst.com
@@ -98210,6 +98230,7 @@ DOMAIN-SUFFIX,thztv.net
 DOMAIN-SUFFIX,thzu.cc
 DOMAIN-SUFFIX,ti-node.com
 DOMAIN-SUFFIX,ti-solar.com
+DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,ti0s.com
 DOMAIN-SUFFIX,ti4la.icu
 DOMAIN-SUFFIX,tiamaes.com
