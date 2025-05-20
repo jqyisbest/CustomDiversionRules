@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32630
+# Total count: 32631
 #
-# Update: 2025-05-20 02:46:00(GMT+8)
+# Update: 2025-05-21 02:46:44(GMT+8)
 #
 #==========================================================================
 payload:
@@ -19333,6 +19333,7 @@ payload:
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
