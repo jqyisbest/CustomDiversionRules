@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32661
+# Total count: 32662
 #
-# Update: 2025-05-27 02:44:10(GMT+8)
+# Update: 2025-05-28 02:46:50(GMT+8)
 #
 #==========================================================================
 payload:
@@ -11835,6 +11835,7 @@ payload:
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gemini.com
+  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,gen2.ac.uk
   - DOMAIN-SUFFIX,gendai.net
