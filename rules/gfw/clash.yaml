@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32662
+# Total count: 32638
 #
-# Update: 2025-05-28 02:46:50(GMT+8)
+# Update: 2025-05-29 02:45:20(GMT+8)
 #
 #==========================================================================
 payload:
@@ -745,7 +745,6 @@ payload:
   - DOMAIN-SUFFIX,ablmm.com
   - DOMAIN-SUFFIX,ablwang.com
   - DOMAIN-SUFFIX,aboluowang.com
-  - DOMAIN-SUFFIX,about.google
   - DOMAIN-SUFFIX,about.me
   - DOMAIN-SUFFIX,aboutamazon.co.uk
   - DOMAIN-SUFFIX,aboutamazon.com
@@ -1185,7 +1184,6 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
-  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -4228,7 +4226,6 @@ payload:
   - DOMAIN-SUFFIX,blog.foolsmountain.com
   - DOMAIN-SUFFIX,blog.fuckgfw233.org
   - DOMAIN-SUFFIX,blog.goo.ne.jp
-  - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,blog.istef.info
   - DOMAIN-SUFFIX,blog.jackjia.com
   - DOMAIN-SUFFIX,blog.jp
@@ -6451,7 +6448,6 @@ payload:
   - DOMAIN-SUFFIX,chrome.com
   - DOMAIN-SUFFIX,chromebook.com
   - DOMAIN-SUFFIX,chromecast.com
-  - DOMAIN-SUFFIX,chromeenterprise.google
   - DOMAIN-SUFFIX,chromeexperiments.com
   - DOMAIN-SUFFIX,chromeos.dev
   - DOMAIN-SUFFIX,chromercise.com
@@ -6978,7 +6974,6 @@ payload:
   - DOMAIN-SUFFIX,colorfulstage.com
   - DOMAIN-SUFFIX,colorprotechnology.com
   - DOMAIN-SUFFIX,colpet.ac.uk
-  - DOMAIN-SUFFIX,com.google
   - DOMAIN-SUFFIX,com.ru
   - DOMAIN-SUFFIX,com.uk
   - DOMAIN-SUFFIX,combinedhonours.ac.uk
@@ -7278,7 +7273,6 @@ payload:
   - DOMAIN-SUFFIX,crick.ac.uk
   - DOMAIN-SUFFIX,cricketcountry.com
   - DOMAIN-SUFFIX,cricklade.ac.uk
-  - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
   - DOMAIN-SUFFIX,crit-staging.com
@@ -7893,7 +7887,6 @@ payload:
   - DOMAIN-SUFFIX,desertbmw.com
   - DOMAIN-SUFFIX,design-ledrev.com
   - DOMAIN-SUFFIX,design-ledrevolution.com
-  - DOMAIN-SUFFIX,design.google
   - DOMAIN-SUFFIX,designeriphonescases.com
   - DOMAIN-SUFFIX,designledrevolution.com
   - DOMAIN-SUFFIX,designsformovement.com
@@ -8387,7 +8380,6 @@ payload:
   - DOMAIN-SUFFIX,dndbeyond.com
   - DOMAIN-SUFFIX,dns-dns.com
   - DOMAIN-SUFFIX,dns-stuff.com
-  - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,dns.sb
   - DOMAIN-SUFFIX,dns04.com
   - DOMAIN-SUFFIX,dns05.com
@@ -8458,7 +8450,6 @@ payload:
   - DOMAIN-SUFFIX,dollnight.com
   - DOMAIN-SUFFIX,dolphiners.com
   - DOMAIN-SUFFIX,domain.club.tw
-  - DOMAIN-SUFFIX,domains.google
   - DOMAIN-SUFFIX,domaintoday.com.au
   - DOMAIN-SUFFIX,dombosco.com.br
   - DOMAIN-SUFFIX,domesticabuserisk.ac.uk
@@ -9595,7 +9586,6 @@ payload:
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,enveast.ac.uk
   - DOMAIN-SUFFIX,environment-health.ac.uk
-  - DOMAIN-SUFFIX,environment.google
   - DOMAIN-SUFFIX,epa.gov.tw
   - DOMAIN-SUFFIX,epac.to
   - DOMAIN-SUFFIX,epc.ac.uk
@@ -11835,7 +11825,6 @@ payload:
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gemini.com
-  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,gen2.ac.uk
   - DOMAIN-SUFFIX,gendai.net
@@ -12769,7 +12758,6 @@ payload:
   - DOMAIN-SUFFIX,ground.news
   - DOMAIN-SUFFIX,groupfun.com
   - DOMAIN-SUFFIX,groups.com
-  - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,grows.ac.uk
   - DOMAIN-SUFFIX,grpeng.ac.uk
   - DOMAIN-SUFFIX,grss-ieee.org
@@ -16941,7 +16929,6 @@ payload:
   - DOMAIN-SUFFIX,lepornochaud.com
   - DOMAIN-SUFFIX,lepornofrais.com
   - DOMAIN-SUFFIX,lerosua.org
-  - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,lersnet.ac.uk
   - DOMAIN-SUFFIX,lesbian8.com
   - DOMAIN-SUFFIX,lesbianpics.org
@@ -20397,7 +20384,6 @@ payload:
   - DOMAIN-SUFFIX,nibs.ac.uk
   - DOMAIN-SUFFIX,nibsc.ac.uk
   - DOMAIN-SUFFIX,nic.cz.cc
-  - DOMAIN-SUFFIX,nic.google
   - DOMAIN-SUFFIX,nic.gov
   - DOMAIN-SUFFIX,nicats.ac.uk
   - DOMAIN-SUFFIX,nicd.ac.uk
@@ -20772,7 +20758,6 @@ payload:
   - DOMAIN-SUFFIX,northumbria.ac.uk
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
   - DOMAIN-SUFFIX,nos.nl
-  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
@@ -21515,7 +21500,6 @@ payload:
   - DOMAIN-SUFFIX,opensciencelaboratory.ac.uk
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,opensource.ac.uk
-  - DOMAIN-SUFFIX,opensource.google
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,opensourceinsight.dev
   - DOMAIN-SUFFIX,opensourceinsights.dev
@@ -21882,7 +21866,6 @@ payload:
   - DOMAIN-SUFFIX,passion.com
   - DOMAIN-SUFFIX,passiontimes.hk
   - DOMAIN-SUFFIX,passport.net
-  - DOMAIN-SUFFIX,passwords.google
   - DOMAIN-SUFFIX,pastahealth.com
   - DOMAIN-SUFFIX,paste.ee
   - DOMAIN-SUFFIX,pastebin.com
@@ -22500,7 +22483,6 @@ payload:
   - DOMAIN-SUFFIX,play-asia.com
   - DOMAIN-SUFFIX,play-bmm.shop
   - DOMAIN-SUFFIX,play-bmmer.buzz
-  - DOMAIN-SUFFIX,play.google
   - DOMAIN-SUFFIX,play4free.com
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
@@ -23158,7 +23140,6 @@ payload:
   - DOMAIN-SUFFIX,pricelesstoronto.ca
   - DOMAIN-SUFFIX,pricelesstv.com
   - DOMAIN-SUFFIX,priconne-redive.jp
-  - DOMAIN-SUFFIX,pride.google
   - DOMAIN-SUFFIX,pridetube.com
   - DOMAIN-SUFFIX,priestley.ac.uk
   - DOMAIN-SUFFIX,priestleycollege.ac.uk
@@ -23990,7 +23971,6 @@ payload:
   - DOMAIN-SUFFIX,regiongold.com
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,registeridm.com
-  - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,reid-kerr.ac.uk
   - DOMAIN-SUFFIX,reidkerr.ac.uk
   - DOMAIN-SUFFIX,reigate.ac.uk
@@ -24034,7 +24014,6 @@ payload:
   - DOMAIN-SUFFIX,research-councils.ac.uk
   - DOMAIN-SUFFIX,research-scotland.ac.uk
   - DOMAIN-SUFFIX,research-socialsciences.ac.uk
-  - DOMAIN-SUFFIX,research.google
   - DOMAIN-SUFFIX,research4justice.ac.uk
   - DOMAIN-SUFFIX,researchandcare.org
   - DOMAIN-SUFFIX,researchconcordat.ac.uk
@@ -24470,7 +24449,6 @@ payload:
   - DOMAIN-SUFFIX,safeguarddefenders.com
   - DOMAIN-SUFFIX,safepodnetwork.ac.uk
   - DOMAIN-SUFFIX,safervpn.com
-  - DOMAIN-SUFFIX,safety.google
   - DOMAIN-SUFFIX,saffrontech.com
   - DOMAIN-SUFFIX,sagepub.com
   - DOMAIN-SUFFIX,sagernet.org
@@ -26578,7 +26556,6 @@ payload:
   - DOMAIN-SUFFIX,store-bridgestonesports.com
   - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,storesense.com
-  - DOMAIN-SUFFIX,stories.google
   - DOMAIN-SUFFIX,storiesofchange.ac.uk
   - DOMAIN-SUFFIX,storiesonline.net
   - DOMAIN-SUFFIX,storify.com
@@ -26848,7 +26825,6 @@ payload:
   - DOMAIN-SUFFIX,sussexvirtualcollege.ac.uk
   - DOMAIN-SUFFIX,sussp.ac.uk
   - DOMAIN-SUFFIX,sustain.ac.uk
-  - DOMAIN-SUFFIX,sustainability.google
   - DOMAIN-SUFFIX,sustainabilityexchange.ac.uk
   - DOMAIN-SUFFIX,sustainablebuildingstudio.com
   - DOMAIN-SUFFIX,sustainabledesigncouncil.com
@@ -26983,6 +26959,7 @@ payload:
   - DOMAIN-SUFFIX,syhacked.com
   - DOMAIN-SUFFIX,sylfoundation.org
   - DOMAIN-SUFFIX,symantec.com
+  - DOMAIN-SUFFIX,symantecliveupdate.com
   - DOMAIN-SUFFIX,symauth.com
   - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,symcd.com
@@ -28388,7 +28365,6 @@ payload:
   - DOMAIN-SUFFIX,tuvpn.com
   - DOMAIN-SUFFIX,tuzaijidi.com
   - DOMAIN-SUFFIX,tv.com
-  - DOMAIN-SUFFIX,tv.google
   - DOMAIN-SUFFIX,tv.jtbc.joins.com
   - DOMAIN-SUFFIX,tvants.com
   - DOMAIN-SUFFIX,tvappstore.net
