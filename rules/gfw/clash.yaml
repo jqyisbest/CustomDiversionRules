@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32767
+# Total count: 32768
 #
-# Update: 2025-06-02 02:43:31(GMT+8)
+# Update: 2025-06-03 02:47:09(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7407,6 +7407,7 @@ payload:
   - DOMAIN-SUFFIX,ctfassets.net
   - DOMAIN-SUFFIX,ctfriend.net
   - DOMAIN-SUFFIX,ctg.ac.uk
+  - DOMAIN-SUFFIX,ctinews.com
   - DOMAIN-SUFFIX,ctitv.com.tw
   - DOMAIN-SUFFIX,ctk.ac.uk
   - DOMAIN-SUFFIX,ctkaquinas.ac.uk
