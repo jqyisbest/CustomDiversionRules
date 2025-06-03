@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32768
+# Total count: 32771
 #
-# Update: 2025-06-03 02:47:09(GMT+8)
+# Update: 2025-06-04 02:47:49(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2595,6 +2595,7 @@ payload:
   - DOMAIN-SUFFIX,asmr.gay
   - DOMAIN-SUFFIX,asmrbuluo.com
   - DOMAIN-SUFFIX,asn-online.org
+  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspbjournals.org
@@ -10917,6 +10918,7 @@ payload:
   - DOMAIN-SUFFIX,flickrhivemind.net
   - DOMAIN-SUFFIX,flickriver.com
   - DOMAIN-SUFFIX,fliggy.hk
+  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,fling.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipfap.com
@@ -11044,6 +11046,7 @@ payload:
   - DOMAIN-SUFFIX,forum.xinbao.de
   - DOMAIN-SUFFIX,forum4hk.com
   - DOMAIN-SUFFIX,forums-free.com
+  - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,forzarc.com
