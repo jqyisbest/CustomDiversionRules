@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32773
+# Total count: 32774
 #
-# Update: 2025-06-06 02:53:32(GMT+8)
+# Update: 2025-06-07 02:46:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -6926,6 +6926,7 @@ payload:
   - DOMAIN-SUFFIX,coem.ac.uk
   - DOMAIN-SUFFIX,cof.ac.uk
   - DOMAIN-SUFFIX,cofacts.tw
+  - DOMAIN-SUFFIX,coffeemanga.to
   - DOMAIN-SUFFIX,cogc.ac.uk
   - DOMAIN-SUFFIX,coin2co.in
   - DOMAIN-SUFFIX,coinalyze.net
