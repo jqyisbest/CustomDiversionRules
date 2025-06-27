@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32680
+# Total count: 32681
 #
-# Update: 2025-06-27 02:47:22(GMT+8)
+# Update: 2025-06-28 02:46:24(GMT+8)
 #
 #==========================================================================
 payload:
@@ -23652,6 +23652,7 @@ payload:
   - DOMAIN-SUFFIX,radiovaticana.org
   - DOMAIN-SUFFIX,radiovncr.com
   - DOMAIN-SUFFIX,radiyoyacuvoa.com
+  - DOMAIN-SUFFIX,radmin-vpn.com
   - DOMAIN-SUFFIX,rae.ac.uk
   - DOMAIN-SUFFIX,rael.org
   - DOMAIN-SUFFIX,raft.ac.uk
