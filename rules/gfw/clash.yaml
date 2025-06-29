@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32681
+# Total count: 32701
 #
-# Update: 2025-06-29 02:45:09(GMT+8)
+# Update: 2025-06-30 02:44:24(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13666,6 +13666,7 @@ payload:
   - DOMAIN-SUFFIX,hollyrandall.com
   - DOMAIN-SUFFIX,holmelacy.ac.uk
   - DOMAIN-SUFFIX,hololens.com
+  - DOMAIN-SUFFIX,holoxx.f5.si
   - DOMAIN-SUFFIX,holts.ac.uk
   - DOMAIN-SUFFIX,holycross.ac.uk
   - DOMAIN-SUFFIX,holymountaincn.com
@@ -14137,6 +14138,7 @@ payload:
   - DOMAIN-SUFFIX,huaxin80.com
   - DOMAIN-SUFFIX,huaxinvip.top
   - DOMAIN-SUFFIX,huayuworld.org
+  - DOMAIN-SUFFIX,hub.slarker.me
   - DOMAIN-SUFFIX,hubbard-theory-consortium.ac.uk
   - DOMAIN-SUFFIX,hubblephone.com
   - DOMAIN-SUFFIX,hud.ac.uk
@@ -14843,6 +14845,7 @@ payload:
   - DOMAIN-SUFFIX,imet.ac.uk
   - DOMAIN-SUFFIX,img.dlsite.jp
   - DOMAIN-SUFFIX,img.ly
+  - DOMAIN-SUFFIX,img.picgo.net
   - DOMAIN-SUFFIX,imgasd.com
   - DOMAIN-SUFFIX,imgbb.com
   - DOMAIN-SUFFIX,imgchili.net
@@ -24332,7 +24335,23 @@ payload:
   - DOMAIN-SUFFIX,rsms.ac.uk
   - DOMAIN-SUFFIX,rsp.ac.uk
   - DOMAIN-SUFFIX,rspao.com
+  - DOMAIN-SUFFIX,rss.4040940.xyz
+  - DOMAIN-SUFFIX,rss.datuan.dev
+  - DOMAIN-SUFFIX,rss.littlebaby.life
+  - DOMAIN-SUFFIX,rss.owo.nz
+  - DOMAIN-SUFFIX,rss.wudifeixue.com
   - DOMAIN-SUFFIX,rsshub.app
+  - DOMAIN-SUFFIX,rsshub.asailor.org
+  - DOMAIN-SUFFIX,rsshub.email-once.com
+  - DOMAIN-SUFFIX,rsshub.henry.wang
+  - DOMAIN-SUFFIX,rsshub.isrss.com
+  - DOMAIN-SUFFIX,rsshub.ktachibana.party
+  - DOMAIN-SUFFIX,rsshub.pseudoyu.com
+  - DOMAIN-SUFFIX,rsshub.rss.tips
+  - DOMAIN-SUFFIX,rsshub.rssforever.com
+  - DOMAIN-SUFFIX,rsshub.umzzz.com
+  - DOMAIN-SUFFIX,rsshub.woodland.cafe
+  - DOMAIN-SUFFIX,rsshub2.asailor.org
   - DOMAIN-SUFFIX,rssing.com
   - DOMAIN-SUFFIX,rssmeme.com
   - DOMAIN-SUFFIX,rstatic.net
@@ -31858,6 +31877,7 @@ payload:
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
+  - DOMAIN-SUFFIX,yangzhi.app
   - DOMAIN-SUFFIX,yantaqu.com
   - DOMAIN-SUFFIX,yaohubaba.com
   - DOMAIN-SUFFIX,yaoimangaonline.com
