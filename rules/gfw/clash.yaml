@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32701
+# Total count: 32702
 #
-# Update: 2025-07-15 02:51:30(GMT+8)
+# Update: 2025-07-16 02:50:47(GMT+8)
 #
 #==========================================================================
 payload:
@@ -31049,6 +31049,7 @@ payload:
   - DOMAIN-SUFFIX,www.thechinastory.org
   - DOMAIN-SUFFIX,www.wan-press.org
   - DOMAIN-SUFFIX,www.websnapr.com
+  - DOMAIN-SUFFIX,www.xicons.org
   - DOMAIN-SUFFIX,www.zensur.freerk.com
   - DOMAIN-SUFFIX,www1.american.edu
   - DOMAIN-SUFFIX,www1.biz
