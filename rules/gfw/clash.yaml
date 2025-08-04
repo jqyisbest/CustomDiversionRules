@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32704
+# Total count: 32706
 #
-# Update: 2025-08-04 02:48:45(GMT+8)
+# Update: 2025-08-05 02:52:52(GMT+8)
 #
 #==========================================================================
 payload:
@@ -31079,6 +31079,8 @@ payload:
   - DOMAIN-SUFFIX,wwwwebay.com
   - DOMAIN-SUFFIX,wwwxoom.com
   - DOMAIN-SUFFIX,wxoyt.com
+  - DOMAIN-SUFFIX,wxw.cat
+  - DOMAIN-SUFFIX,wxw.moe
   - DOMAIN-SUFFIX,wyams.ac.uk
   - DOMAIN-SUFFIX,wyke.ac.uk
   - DOMAIN-SUFFIX,wylln.ac.uk
