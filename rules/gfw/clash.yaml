@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32712
+# Total count: 32714
 #
-# Update: 2025-08-14 02:47:58(GMT+8)
+# Update: 2025-08-15 02:49:39(GMT+8)
 #
 #==========================================================================
 payload:
@@ -3864,6 +3864,7 @@ payload:
   - DOMAIN-SUFFIX,bethsoft.com
   - DOMAIN-SUFFIX,betterbim.com
   - DOMAIN-SUFFIX,betterexplained.com
+  - DOMAIN-SUFFIX,betterhash.net
   - DOMAIN-SUFFIX,betterhdporn.com
   - DOMAIN-SUFFIX,betternet.co
   - DOMAIN-SUFFIX,betternike.com
@@ -13385,6 +13386,7 @@ payload:
   - DOMAIN-SUFFIX,herokucdn.com
   - DOMAIN-SUFFIX,herokucharge.com
   - DOMAIN-SUFFIX,herokussl.com
+  - DOMAIN-SUFFIX,herominers.com
   - DOMAIN-SUFFIX,heron.ac.uk
   - DOMAIN-SUFFIX,herringnetwork.com
   - DOMAIN-SUFFIX,hertfordshire.ac.uk
