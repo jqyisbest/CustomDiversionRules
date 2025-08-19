@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32718
+# Total count: 32721
 #
-# Update: 2025-08-19 02:49:56(GMT+8)
+# Update: 2025-08-20 02:45:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7861,6 +7861,7 @@ payload:
   - DOMAIN-SUFFIX,dengeamerika.com
   - DOMAIN-SUFFIX,dengiamerika.com
   - DOMAIN-SUFFIX,deno.com
+  - DOMAIN-SUFFIX,deno.dev
   - DOMAIN-SUFFIX,deno.land
   - DOMAIN-SUFFIX,dentalhypotheses.com
   - DOMAIN-SUFFIX,dentalschoolscouncil.ac.uk
@@ -8409,6 +8410,7 @@ payload:
   - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
   - DOMAIN-SUFFIX,docs.com
+  - DOMAIN-SUFFIX,docs.deno.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,docs.rs
   - DOMAIN-SUFFIX,doctor-videos.com
@@ -11520,6 +11522,7 @@ payload:
   - DOMAIN-SUFFIX,furinkan.com
   - DOMAIN-SUFFIX,furl.net
   - DOMAIN-SUFFIX,furness.ac.uk
+  - DOMAIN-SUFFIX,furrybar.com
   - DOMAIN-SUFFIX,furrypornvideos.com
   - DOMAIN-SUFFIX,furuke.com
   - DOMAIN-SUFFIX,fury.blog
