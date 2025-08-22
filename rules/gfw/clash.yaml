@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32724
+# Total count: 32726
 #
-# Update: 2025-08-22 02:44:45(GMT+8)
+# Update: 2025-08-23 02:45:07(GMT+8)
 #
 #==========================================================================
 payload:
@@ -12037,6 +12037,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
   - DOMAIN-SUFFIX,githack.com
+  - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
@@ -15620,6 +15621,7 @@ payload:
   - DOMAIN-SUFFIX,ithaisex.com
   - DOMAIN-SUFFIX,ithelp.ithome.com.tw
   - DOMAIN-SUFFIX,ithome.com.tw
+  - DOMAIN-SUFFIX,itiger.com
   - DOMAIN-SUFFIX,itlearningspace-scot.ac.uk
   - DOMAIN-SUFFIX,itnel.com
   - DOMAIN-SUFFIX,itnow.ac.uk
