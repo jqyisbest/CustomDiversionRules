@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32974
+# Total count: 32977
 #
-# Update: 2025-08-28 02:43:00(GMT+8)
+# Update: 2025-08-29 02:44:43(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -1707,6 +1707,7 @@ DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazonbusiness.org
 DOMAIN-SUFFIX,amazonbusinessblog.com
+DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,amazondevicesupport.com
 DOMAIN-SUFFIX,amazonfctours.com
 DOMAIN-SUFFIX,amazonianblog.com
@@ -3059,6 +3060,8 @@ DOMAIN-SUFFIX,awjq.cc
 DOMAIN-SUFFIX,awlc.ac.uk
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,awsapprunner.com
+DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com
 DOMAIN-SUFFIX,awsautoscaling.com
 DOMAIN-SUFFIX,awsbraket.com
