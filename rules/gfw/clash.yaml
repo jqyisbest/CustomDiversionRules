@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32978
+# Total count: 32979
 #
-# Update: 2025-08-30 02:42:09(GMT+8)
+# Update: 2025-08-31 02:41:08(GMT+8)
 #
 #==========================================================================
 payload:
@@ -8749,6 +8749,7 @@ payload:
   - DOMAIN-SUFFIX,download.qpdp1.net
   - DOMAIN-SUFFIX,downloadpass.com
   - DOMAIN-SUFFIX,downloadsforipod.com
+  - DOMAIN-SUFFIX,dpdns.org
   - DOMAIN-SUFFIX,dphk.org
   - DOMAIN-SUFFIX,dpoc.ac.uk
   - DOMAIN-SUFFIX,dpool.top
