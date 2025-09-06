@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32978
+# Total count: 32981
 #
-# Update: 2025-09-06 02:42:00(GMT+8)
+# Update: 2025-09-07 02:39:55(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5302,6 +5302,8 @@ payload:
   - DOMAIN-SUFFIX,bsw.jp
   - DOMAIN-SUFFIX,bsxm1213.pro
   - DOMAIN-SUFFIX,bt2mag.com
+  - DOMAIN-SUFFIX,bt4g.org
+  - DOMAIN-SUFFIX,bt4gprx.com
   - DOMAIN-SUFFIX,bt95.com
   - DOMAIN-SUFFIX,btaia.com
   - DOMAIN-SUFFIX,btas.ac.uk
@@ -27424,6 +27426,7 @@ payload:
   - DOMAIN-SUFFIX,tanflix.com
   - DOMAIN-SUFFIX,tangben.com
   - DOMAIN-SUFFIX,tangren.us
+  - DOMAIN-SUFFIX,tanks.gg
   - DOMAIN-SUFFIX,tantaly.com
   - DOMAIN-SUFFIX,taoil-cn.sbs
   - DOMAIN-SUFFIX,taoism.net
