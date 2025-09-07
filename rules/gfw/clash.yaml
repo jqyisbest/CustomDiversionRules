@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32981
+# Total count: 32982
 #
-# Update: 2025-09-07 02:39:55(GMT+8)
+# Update: 2025-09-08 02:40:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -15674,6 +15674,7 @@ payload:
   - DOMAIN-SUFFIX,iphoto.wang
   - DOMAIN-SUFFIX,ipi.ac.uk
   - DOMAIN-SUFFIX,ipicture.ru
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipjetable.net
   - DOMAIN-SUFFIX,ipleadership.org
