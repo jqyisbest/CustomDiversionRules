@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32988
+# Total count: 32990
 #
-# Update: 2025-09-24 02:44:49(GMT+8)
+# Update: 2025-09-25 02:42:24(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2029,6 +2029,7 @@ payload:
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.nebula-emby.com
   - DOMAIN-SUFFIX,api.news
+  - DOMAIN-SUFFIX,api.palworldgame.com
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
   - DOMAIN-SUFFIX,api.steampowered.com
@@ -21498,6 +21499,7 @@ payload:
   - DOMAIN-SUFFIX,ocsp-certum.com
   - DOMAIN-SUFFIX,ocsp-responder.com
   - DOMAIN-SUFFIX,october-review.org
+  - DOMAIN-SUFFIX,octocaptcha.com
   - DOMAIN-SUFFIX,ocul.us
   - DOMAIN-SUFFIX,oculus-china.com
   - DOMAIN-SUFFIX,oculus.com
