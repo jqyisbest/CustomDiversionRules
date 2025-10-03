@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32992
+# Total count: 32993
 #
-# Update: 2025-10-03 02:42:35(GMT+8)
+# Update: 2025-10-04 02:43:16(GMT+8)
 #
 #==========================================================================
 payload:
@@ -27449,6 +27449,7 @@ payload:
   - DOMAIN-SUFFIX,tapbots.com
   - DOMAIN-SUFFIX,tapbots.net
   - DOMAIN-SUFFIX,tapestry.ac.uk
+  - DOMAIN-SUFFIX,taptap.io
   - DOMAIN-SUFFIX,taptap.tw
   - DOMAIN-SUFFIX,taptotokyo.com
   - DOMAIN-SUFFIX,taqunuhai.vip
