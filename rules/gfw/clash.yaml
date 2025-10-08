@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 32994
+# Total count: 32995
 #
-# Update: 2025-10-08 02:45:30(GMT+8)
+# Update: 2025-10-09 02:46:22(GMT+8)
 #
 #==========================================================================
 payload:
@@ -26191,6 +26191,7 @@ payload:
   - DOMAIN-SUFFIX,solihull.ac.uk
   - DOMAIN-SUFFIX,solihullsfc.ac.uk
   - DOMAIN-SUFFIX,solostudioksale.com
+  - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,solsfc.ac.uk
   - DOMAIN-SUFFIX,solutions-worcestershire.ac.uk
   - DOMAIN-SUFFIX,solutionstation.com
