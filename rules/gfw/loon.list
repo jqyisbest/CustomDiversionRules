@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33000
+# Total count: 33008
 #
-# Update: 2025-10-18 02:43:08(GMT+8)
+# Update: 2025-10-19 02:41:10(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -4884,6 +4884,7 @@ DOMAIN-SUFFIX,bnews.co
 DOMAIN-SUFFIX,bnext.com.tw
 DOMAIN-SUFFIX,bnn.co
 DOMAIN-SUFFIX,bnrmetal.com
+DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnu.ac.uk
 DOMAIN-SUFFIX,boa.ac.uk
 DOMAIN-SUFFIX,boardreader.com
@@ -6167,6 +6168,7 @@ DOMAIN-SUFFIX,cepacol.com
 DOMAIN-SUFFIX,ceramics-cadcam.com
 DOMAIN-SUFFIX,cercia.ac.uk
 DOMAIN-SUFFIX,cerdas.com
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,ceredigion.ac.uk
 DOMAIN-SUFFIX,ceri.ac.uk
 DOMAIN-SUFFIX,cerlim.ac.uk
@@ -6700,6 +6702,8 @@ DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classics.ac.uk
 DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clb.org.hk
 DOMAIN-SUFFIX,clc-london.ac.uk
@@ -16005,6 +16009,7 @@ DOMAIN-SUFFIX,jav-angel.net
 DOMAIN-SUFFIX,jav-legend.com
 DOMAIN-SUFFIX,jav-subtitles.com
 DOMAIN-SUFFIX,jav-vr.net
+DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,jav.com
 DOMAIN-SUFFIX,jav.dog
 DOMAIN-SUFFIX,jav.gallery
@@ -18155,6 +18160,7 @@ DOMAIN-SUFFIX,marlab.ac.uk
 DOMAIN-SUFFIX,marlin.ac.uk
 DOMAIN-SUFFIX,marplecollege.ac.uk
 DOMAIN-SUFFIX,marranazas.com
+DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,martau.com
 DOMAIN-SUFFIX,martincartoons.com
 DOMAIN-SUFFIX,martinoei.com
@@ -20630,6 +20636,7 @@ DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
 DOMAIN-SUFFIX,nfsworld.com
+DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nga.mil
@@ -28409,6 +28416,7 @@ DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,tracking-location.com
 DOMAIN-SUFFIX,tradevip1.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,traffcoll.ac.uk
 DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trafficmanager.net
