@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33026
+# Total count: 33029
 #
-# Update: 2025-10-20 02:41:34(GMT+8)
+# Update: 2025-10-21 02:47:30(GMT+8)
 #
 #==========================================================================
 payload:
@@ -22624,6 +22624,7 @@ payload:
   - DOMAIN-SUFFIX,pickering.ac.uk
   - DOMAIN-SUFFIX,pickinguppussy.com
   - DOMAIN-SUFFIX,picknicekicks.net
+  - DOMAIN-SUFFIX,pickpackapp.com
   - DOMAIN-SUFFIX,pickshoesclothes.com
   - DOMAIN-SUFFIX,picnik.com
   - DOMAIN-SUFFIX,picpost.com
@@ -22642,6 +22643,7 @@ payload:
   - DOMAIN-SUFFIX,pigav.com
   - DOMAIN-SUFFIX,piirus.ac.uk
   - DOMAIN-SUFFIX,pikabu.monster
+  - DOMAIN-SUFFIX,pikpak.io
   - DOMAIN-SUFFIX,pikpak.me
   - DOMAIN-SUFFIX,pikpakdrive.com
   - DOMAIN-SUFFIX,pilgrimageandcathedrals.ac.uk
@@ -28383,6 +28385,7 @@ payload:
   - DOMAIN-SUFFIX,torvpn.com
   - DOMAIN-SUFFIX,tosh.comedycentral.com
   - DOMAIN-SUFFIX,tospo-keiba.jp
+  - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,totalmateria.com
   - DOMAIN-SUFFIX,totalvpn.com
   - DOMAIN-SUFFIX,totoleak.com
