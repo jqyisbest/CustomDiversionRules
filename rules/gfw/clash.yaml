@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33029
+# Total count: 33060
 #
-# Update: 2025-10-22 02:46:17(GMT+8)
+# Update: 2025-10-23 02:47:33(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1557,6 +1557,7 @@ payload:
   - DOMAIN-SUFFIX,alphabet.us
   - DOMAIN-SUFFIX,alphabetfinance.net
   - DOMAIN-SUFFIX,alphaporno.com
+  - DOMAIN-SUFFIX,alphaxiv.org
   - DOMAIN-SUFFIX,alphera-finance.co.in
   - DOMAIN-SUFFIX,alphera-finance.com.hk
   - DOMAIN-SUFFIX,alphera-finance.in
@@ -1848,6 +1849,10 @@ payload:
   - DOMAIN-SUFFIX,androidtv.com
   - DOMAIN-SUFFIX,andygod.com
   - DOMAIN-SUFFIX,andysparis.com
+  - DOMAIN-SUFFIX,anexia-engine.com
+  - DOMAIN-SUFFIX,anexia-it.com
+  - DOMAIN-SUFFIX,anexia.at
+  - DOMAIN-SUFFIX,anexia.com
   - DOMAIN-SUFFIX,anfutong.com
   - DOMAIN-SUFFIX,angel-gto.com
   - DOMAIN-SUFFIX,angel.ac.uk
@@ -2959,6 +2964,7 @@ payload:
   - DOMAIN-SUFFIX,avaaz.org
   - DOMAIN-SUFFIX,avail.googleflights.net
   - DOMAIN-SUFFIX,avant.ac.uk
+  - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,avatara.com
   - DOMAIN-SUFFIX,avbebe.com
   - DOMAIN-SUFFIX,avbody.tv
@@ -2991,6 +2997,7 @@ payload:
   - DOMAIN-SUFFIX,avidemux.org
   - DOMAIN-SUFFIX,avinetworks.com
   - DOMAIN-SUFFIX,avinin.com
+  - DOMAIN-SUFFIX,avira.com
   - DOMAIN-SUFFIX,avizoon.site
   - DOMAIN-SUFFIX,avizoone.com
   - DOMAIN-SUFFIX,avjb.com
@@ -4190,6 +4197,7 @@ payload:
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,bitcoinworld.com
+  - DOMAIN-SUFFIX,bitdefender.com
   - DOMAIN-SUFFIX,bite.ac.uk
   - DOMAIN-SUFFIX,bitfinex.com
   - DOMAIN-SUFFIX,bitflyer.com
@@ -6688,6 +6696,7 @@ payload:
   - DOMAIN-SUFFIX,clacks.ac.uk
   - DOMAIN-SUFFIX,clacton.ac.uk
   - DOMAIN-SUFFIX,clad.ac.uk
+  - DOMAIN-SUFFIX,clamwin.com
   - DOMAIN-SUFFIX,clannad-movie.jp
   - DOMAIN-SUFFIX,claravenger.com
   - DOMAIN-SUFFIX,clarendon.ac.uk
@@ -9150,6 +9159,7 @@ payload:
   - DOMAIN-SUFFIX,e-zone.com.hk
   - DOMAIN-SUFFIX,e123.hk
   - DOMAIN-SUFFIX,e3an.ac.uk
+  - DOMAIN-SUFFIX,e5.sk
   - DOMAIN-SUFFIX,e53w.com
   - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,ea-anz-press.com
@@ -10018,6 +10028,11 @@ payload:
   - DOMAIN-SUFFIX,esds.ac.uk
   - DOMAIN-SUFFIX,ese.ac.uk
   - DOMAIN-SUFFIX,eselondon.ac.uk
+  - DOMAIN-SUFFIX,eset.com
+  - DOMAIN-SUFFIX,eset.eu
+  - DOMAIN-SUFFIX,eset.sk
+  - DOMAIN-SUFFIX,eset.systems
+  - DOMAIN-SUFFIX,esetsoftware.com
   - DOMAIN-SUFFIX,esg.ac.uk
   - DOMAIN-SUFFIX,esg.t91y.com
   - DOMAIN-SUFFIX,eshcru.ac.uk
@@ -10248,6 +10263,7 @@ payload:
   - DOMAIN-SUFFIX,f-dro1d.org
   - DOMAIN-SUFFIX,f-droid.com
   - DOMAIN-SUFFIX,f-droid.org
+  - DOMAIN-SUFFIX,f-secure.com
   - DOMAIN-SUFFIX,f2pool.com
   - DOMAIN-SUFFIX,f5pf.com
   - DOMAIN-SUFFIX,f6988.com
@@ -10920,6 +10936,7 @@ payload:
   - DOMAIN-SUFFIX,fifastreet3.com
   - DOMAIN-SUFFIX,fife.ac.uk
   - DOMAIN-SUFFIX,fifeglen.ac.uk
+  - DOMAIN-SUFFIX,fifthns.com
   - DOMAIN-SUFFIX,fiftythree.com
   - DOMAIN-SUFFIX,fightforux.com
   - DOMAIN-SUFFIX,figma.com
@@ -11072,6 +11089,7 @@ payload:
   - DOMAIN-SUFFIX,firstchancesfife.ac.uk
   - DOMAIN-SUFFIX,firstfivefollowers.com
   - DOMAIN-SUFFIX,firstgynexam.com
+  - DOMAIN-SUFFIX,firstns.cc
   - DOMAIN-SUFFIX,firstory.me
   - DOMAIN-SUFFIX,firstpelvicexam.com
   - DOMAIN-SUFFIX,firstpost.com
@@ -11262,6 +11280,7 @@ payload:
   - DOMAIN-SUFFIX,foundationyear.ac.uk
   - DOMAIN-SUFFIX,fountmedia.io
   - DOMAIN-SUFFIX,fourthinternational.org
+  - DOMAIN-SUFFIX,fourthns.systems
   - DOMAIN-SUFFIX,fox-corporation.com
   - DOMAIN-SUFFIX,fox-news.com
   - DOMAIN-SUFFIX,fox.com
@@ -14035,6 +14054,7 @@ payload:
   - DOMAIN-SUFFIX,hotcandyland.com
   - DOMAIN-SUFFIX,hotcoin.com
   - DOMAIN-SUFFIX,hotcool.tw
+  - DOMAIN-SUFFIX,hotcrp.com
   - DOMAIN-SUFFIX,hotcuckoldwife.com
   - DOMAIN-SUFFIX,hotcumporn.com
   - DOMAIN-SUFFIX,hotels.cn
@@ -16598,6 +16618,8 @@ payload:
   - DOMAIN-SUFFIX,karmapa.org
   - DOMAIN-SUFFIX,karupsha.com
   - DOMAIN-SUFFIX,karupspc.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kastatic.org
   - DOMAIN-SUFFIX,kat.cr
   - DOMAIN-SUFFIX,katestube.com
@@ -18411,6 +18433,7 @@ payload:
   - DOMAIN-SUFFIX,mca.ac.uk
   - DOMAIN-SUFFIX,mcadforums.com
   - DOMAIN-SUFFIX,mcaf.ee
+  - DOMAIN-SUFFIX,mcafee.com
   - DOMAIN-SUFFIX,mcb.com.mm
   - DOMAIN-SUFFIX,mcc.ac.uk
   - DOMAIN-SUFFIX,mcd-holdings.co.jp
@@ -21056,6 +21079,7 @@ payload:
   - DOMAIN-SUFFIX,northumberland-acl.ac.uk
   - DOMAIN-SUFFIX,northumberland.ac.uk
   - DOMAIN-SUFFIX,northumbria.ac.uk
+  - DOMAIN-SUFFIX,norton.com
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
   - DOMAIN-SUFFIX,nos.nl
   - DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -21798,6 +21822,7 @@ payload:
   - DOMAIN-SUFFIX,openmaps.org
   - DOMAIN-SUFFIX,openreality.com
   - DOMAIN-SUFFIX,openresty.org
+  - DOMAIN-SUFFIX,openreview.net
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,opensciencelab.ac.uk
   - DOMAIN-SUFFIX,opensciencelaboratory.ac.uk
@@ -22110,6 +22135,7 @@ payload:
   - DOMAIN-SUFFIX,pandanet-igs.com
   - DOMAIN-SUFFIX,pandapow.co
   - DOMAIN-SUFFIX,pandapow.net
+  - DOMAIN-SUFFIX,pandasecurity.com
   - DOMAIN-SUFFIX,pandavpn-jp.com
   - DOMAIN-SUFFIX,pandavpnpro.com
   - DOMAIN-SUFFIX,pandora.com
@@ -25181,6 +25207,7 @@ payload:
   - DOMAIN-SUFFIX,secomtrust.net
   - DOMAIN-SUFFIX,second-ns.com
   - DOMAIN-SUFFIX,second-ns.de
+  - DOMAIN-SUFFIX,secondns.at
   - DOMAIN-SUFFIX,secret-flirt-hub.com
   - DOMAIN-SUFFIX,secretbabes.co.uk
   - DOMAIN-SUFFIX,secretchina.com
@@ -25794,6 +25821,7 @@ payload:
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org
   - DOMAIN-SUFFIX,sifa.ac.uk
   - DOMAIN-SUFFIX,sifangclub.com
+  - DOMAIN-SUFFIX,sigcomm.org
   - DOMAIN-SUFFIX,sigma-cetl.ac.uk
   - DOMAIN-SUFFIX,sigma-network.ac.uk
   - DOMAIN-SUFFIX,sigmoidoscopeexam.com
@@ -25809,6 +25837,7 @@ payload:
   - DOMAIN-SUFFIX,signalprocessingsociety.org
   - DOMAIN-SUFFIX,signalr.net
   - DOMAIN-SUFFIX,signalusers.org
+  - DOMAIN-SUFFIX,sigops.org
   - DOMAIN-SUFFIX,sihe.ac.uk
   - DOMAIN-SUFFIX,sijihuisuo.club
   - DOMAIN-SUFFIX,sijihuisuo.com
@@ -27991,6 +28020,7 @@ payload:
   - DOMAIN-SUFFIX,thinkwales.ac.uk
   - DOMAIN-SUFFIX,thinkwithgoogle.com
   - DOMAIN-SUFFIX,thirdmill.org
+  - DOMAIN-SUFFIX,thirdns.de
   - DOMAIN-SUFFIX,thisav.com
   - DOMAIN-SUFFIX,thisav.org
   - DOMAIN-SUFFIX,thisismoney.co.uk
@@ -29399,6 +29429,7 @@ payload:
   - DOMAIN-SUFFIX,usefreevpn.com
   - DOMAIN-SUFFIX,uselessjunk.com
   - DOMAIN-SUFFIX,usembassy.gov
+  - DOMAIN-SUFFIX,usenix.org
   - DOMAIN-SUFFIX,useplannr.com
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,usercontent.dev
