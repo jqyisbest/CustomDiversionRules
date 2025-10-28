@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33128
+# Total count: 33130
 #
-# Update: 2025-10-28 02:46:15(GMT+8)
+# Update: 2025-10-29 02:48:21(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7891,6 +7891,7 @@ payload:
   - DOMAIN-SUFFIX,deeper.com
   - DOMAIN-SUFFIX,deepfake-porn.com
   - DOMAIN-SUFFIX,deepfakeporn.net
+  - DOMAIN-SUFFIX,deepflood.com
   - DOMAIN-SUFFIX,deepfreeze.co.uk
   - DOMAIN-SUFFIX,deepfreeze.com
   - DOMAIN-SUFFIX,deepfreeze.com.br
@@ -31864,6 +31865,7 @@ payload:
   - DOMAIN-SUFFIX,xshaker.net
   - DOMAIN-SUFFIX,xshr.online
   - DOMAIN-SUFFIX,xsijishe.com
+  - DOMAIN-SUFFIX,xsijishe.net
   - DOMAIN-SUFFIX,xskywalker.com
   - DOMAIN-SUFFIX,xskywalker.net
   - DOMAIN-SUFFIX,xslist.org
