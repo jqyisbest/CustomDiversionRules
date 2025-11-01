@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33133
+# Total count: 33135
 #
-# Update: 2025-11-01 02:46:14(GMT+8)
+# Update: 2025-11-01 19:27:45(GMT+8)
 #
 #==========================================================================
 payload:
@@ -8563,6 +8563,7 @@ payload:
   - DOMAIN-SUFFIX,dlhe.ac.uk
   - DOMAIN-SUFFIX,dlib.eastview.com
   - DOMAIN-SUFFIX,dlive.tv
+  - DOMAIN-SUFFIX,dln1.ncdn.ec
   - DOMAIN-SUFFIX,dls.ac.uk
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,dlsite.com.tw
@@ -25337,6 +25338,7 @@ payload:
   - DOMAIN-SUFFIX,sensualgirls.org
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,senzuritv.net
   - DOMAIN-SUFFIX,sepnet.ac.uk
   - DOMAIN-SUFFIX,seqing.one
