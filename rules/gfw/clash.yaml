@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33167
+# Total count: 33168
 #
-# Update: 2025-11-08 02:43:31(GMT+8)
+# Update: 2025-11-09 02:42:25(GMT+8)
 #
 #==========================================================================
 payload:
@@ -15138,6 +15138,7 @@ payload:
   - DOMAIN-SUFFIX,imagepost.com
   - DOMAIN-SUFFIX,images-amazon.com
   - DOMAIN-SUFFIX,images-gaytube.com
+  - DOMAIN-SUFFIX,images.prismic.io
   - DOMAIN-SUFFIX,imageshack.com
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,imagetwist.com
