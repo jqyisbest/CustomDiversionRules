@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33203
+# Total count: 33211
 #
-# Update: 2025-11-13 02:44:36(GMT+8)
+# Update: 2025-11-14 02:46:32(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1124,6 +1124,8 @@ payload:
   - DOMAIN-SUFFIX,afappyending.com
   - DOMAIN-SUFFIX,afewmomentswith.com
   - DOMAIN-SUFFIX,affect3dstore.com
+  - DOMAIN-SUFFIX,affinity.api.serifservices.com
+  - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN-SUFFIX,affirmtrust.com
   - DOMAIN-SUFFIX,afi.ac.uk
   - DOMAIN-SUFFIX,afkv28.com
@@ -3956,6 +3958,7 @@ payload:
   - DOMAIN-SUFFIX,bfsh.hk
   - DOMAIN-SUFFIX,bftv.ac.uk
   - DOMAIN-SUFFIX,bgc.ac.uk
+  - DOMAIN-SUFFIX,bgicdn.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bgme.me
   - DOMAIN-SUFFIX,bgov.com
@@ -5796,6 +5799,7 @@ payload:
   - DOMAIN-SUFFIX,canterburycollege.ac.uk
   - DOMAIN-SUFFIX,canterburytrust.ac.uk
   - DOMAIN-SUFFIX,cantonese.asia
+  - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,canyu.org
   - DOMAIN-SUFFIX,cao.im
   - DOMAIN-SUFFIX,caobian.info
@@ -12834,6 +12838,7 @@ payload:
   - DOMAIN-SUFFIX,googleblog.com
   - DOMAIN-SUFFIX,googlebot.com
   - DOMAIN-SUFFIX,googlecapital.com
+  - DOMAIN-SUFFIX,googlecensorship.org
   - DOMAIN-SUFFIX,googlecert.net
   - DOMAIN-SUFFIX,googlechinawebmaster.com
   - DOMAIN-SUFFIX,googlecode.com
@@ -13008,6 +13013,7 @@ payload:
   - DOMAIN-SUFFIX,greatermanchestermedicalschool.ac.uk
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfire.us7.list-manage.com
+  - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,greatfirewall.biz
   - DOMAIN-SUFFIX,greatfirewallofchina.net
   - DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -20450,6 +20456,7 @@ payload:
   - DOMAIN-SUFFIX,neoforged.net
   - DOMAIN-SUFFIX,neonatalsociety.ac.uk
   - DOMAIN-SUFFIX,neotokyo.supertop-100.com
+  - DOMAIN-SUFFIX,neovim.io
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,nepusoku.com
@@ -32913,6 +32920,7 @@ payload:
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,zeitworld.com
   - DOMAIN-SUFFIX,zello.com
+  - DOMAIN-SUFFIX,zen-browser.app
   - DOMAIN-SUFFIX,zen8ok.xyz
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,zencoder.com
