@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33291
+# Total count: 33294
 #
-# Update: 2025-11-21 02:47:29(GMT+8)
+# Update: 2025-11-22 02:43:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -265,6 +265,7 @@ payload:
   - DOMAIN-SUFFIX,21pron.com
   - DOMAIN-SUFFIX,21sextury.com
   - DOMAIN-SUFFIX,21vv.cc
+  - DOMAIN-SUFFIX,22112211.xyz
   - DOMAIN-SUFFIX,228.net.tw
   - DOMAIN-SUFFIX,233abc.com
   - DOMAIN-SUFFIX,233v2.com
@@ -21176,7 +21177,9 @@ payload:
   - DOMAIN-SUFFIX,nochubank.or.jp
   - DOMAIN-SUFFIX,nocn.ac.uk
   - DOMAIN-SUFFIX,nocs.ac.uk
+  - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,nodejs.org
+  - DOMAIN-SUFFIX,nodequality.com
   - DOMAIN-SUFFIX,nodes.ac.uk
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
