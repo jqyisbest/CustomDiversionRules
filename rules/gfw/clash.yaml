@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33306
+# Total count: 33308
 #
-# Update: 2025-11-24 02:44:07(GMT+8)
+# Update: 2025-11-25 02:48:53(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1209,6 +1209,7 @@ payload:
   - DOMAIN-SUFFIX,ahvideosexe.com
   - DOMAIN-SUFFIX,ahxxx.club
   - DOMAIN-SUFFIX,ai-kan.net
+  - DOMAIN-SUFFIX,ai-sdk.dev
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
   - DOMAIN-SUFFIX,ai.dev
@@ -22079,6 +22080,7 @@ payload:
   - DOMAIN-SUFFIX,origin.tv
   - DOMAIN-SUFFIX,originalhulu.com
   - DOMAIN-SUFFIX,originalindianporn.com
+  - DOMAIN-SUFFIX,originlab.com
   - DOMAIN-SUFFIX,orithegame.com
   - DOMAIN-SUFFIX,orkut.com
   - DOMAIN-SUFFIX,orl.ly
