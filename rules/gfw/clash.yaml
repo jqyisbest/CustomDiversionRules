@@ -8,7 +8,7 @@
 #
 # Total count: 33308
 #
-# Update: 2025-11-26 02:47:33(GMT+8)
+# Update: 2025-11-27 02:44:30(GMT+8)
 #
 #==========================================================================
 payload:
@@ -19807,7 +19807,6 @@ payload:
   - DOMAIN-SUFFIX,ms4dre.com
   - DOMAIN-SUFFIX,msa-it.org
   - DOMAIN-SUFFIX,msa.ac.uk
-  - DOMAIN-SUFFIX,msads.net
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,mscassessment.ac.uk
   - DOMAIN-SUFFIX,mschallenge2018.com
@@ -25495,6 +25494,7 @@ payload:
   - DOMAIN-SUFFIX,sensualgirls.org
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
+  - DOMAIN-SUFFIX,sentry-cdn.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,senzuritv.net
   - DOMAIN-SUFFIX,sepnet.ac.uk
