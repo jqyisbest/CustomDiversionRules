@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33308
+# Total count: 33310
 #
-# Update: 2025-11-27 02:44:30(GMT+8)
+# Update: 2025-11-28 02:45:19(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1397,6 +1397,7 @@ payload:
   - DOMAIN-SUFFIX,akinator.com
   - DOMAIN-SUFFIX,akita-bank.co.jp
   - DOMAIN-SUFFIX,akow.org
+  - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,akthelp.com
   - DOMAIN-SUFFIX,al-islam.com
   - DOMAIN-SUFFIX,al-qimmah.net
@@ -32469,6 +32470,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.sx
   - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.tr
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexadexchange.net
