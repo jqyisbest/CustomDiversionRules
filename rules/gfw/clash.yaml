@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33322
+# Total count: 33323
 #
-# Update: 2025-11-29 02:45:18(GMT+8)
+# Update: 2025-11-30 02:44:53(GMT+8)
 #
 #==========================================================================
 payload:
@@ -21760,6 +21760,7 @@ payload:
   - DOMAIN-SUFFIX,offshorerenewables.ac.uk
   - DOMAIN-SUFFIX,offworldindustries.com
   - DOMAIN-SUFFIX,offworldindustries.net
+  - DOMAIN-SUFFIX,ofiii.com
   - DOMAIN-SUFFIX,ofile.org
   - DOMAIN-SUFFIX,ofs.ac.uk
   - DOMAIN-SUFFIX,ogakikyoritsu.co.jp
