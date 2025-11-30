@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33322
+# Total count: 33325
 #
-# Update: 2025-11-30 02:44:53(GMT+8)
+# Update: 2025-12-01 02:44:46(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -21796,6 +21796,8 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okinawabank.co.jp
 DOMAIN-SUFFIX,okk.tw
 DOMAIN-SUFFIX,okkisokuho.com
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
@@ -23016,6 +23018,7 @@ DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,playerjs.io
 DOMAIN-SUFFIX,playfab.com
 DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,playforceone.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playmation.com
