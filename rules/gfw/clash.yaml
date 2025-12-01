@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33326
+# Total count: 33329
 #
-# Update: 2025-12-01 02:44:46(GMT+8)
+# Update: 2025-12-02 02:53:40(GMT+8)
 #
 #==========================================================================
 payload:
@@ -17694,6 +17694,7 @@ payload:
   - DOMAIN-SUFFIX,lkl.ac.uk
   - DOMAIN-SUFFIX,ll82y2ifdd.top
   - DOMAIN-SUFFIX,llakes.ac.uk
+  - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,llambed.ac.uk
   - DOMAIN-SUFFIX,llandrillo.ac.uk
   - DOMAIN-SUFFIX,llas.ac.uk
@@ -29006,6 +29007,7 @@ payload:
   - DOMAIN-SUFFIX,turbobit.net
   - DOMAIN-SUFFIX,turbogvideos.com
   - DOMAIN-SUFFIX,turbohide.com
+  - DOMAIN-SUFFIX,turbopages.org
   - DOMAIN-SUFFIX,turborepo.org
   - DOMAIN-SUFFIX,turbotax.com
   - DOMAIN-SUFFIX,turbotwitter.com
@@ -32997,6 +32999,7 @@ payload:
   - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,zaobao.com.sg
   - DOMAIN-SUFFIX,zaobao.sg
+  - DOMAIN-SUFFIX,zaochenbao.com
   - DOMAIN-SUFFIX,zaozon.com
   - DOMAIN-SUFFIX,zapper.fi
   - DOMAIN-SUFFIX,zapto.org
