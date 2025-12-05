@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33382
+# Total count: 33381
 #
-# Update: 2025-12-05 02:51:42(GMT+8)
+# Update: 2025-12-06 02:46:39(GMT+8)
 #
 #==========================================================================
 payload:
@@ -24746,7 +24746,6 @@ payload:
   - DOMAIN-SUFFIX,roadblocks.com
   - DOMAIN-SUFFIX,roadshow.hk
   - DOMAIN-SUFFIX,roblocks.com
-  - DOMAIN-SUFFIX,roblox-api.arkoselabs.co
   - DOMAIN-SUFFIX,roblox-api.arkoselabs.com
   - DOMAIN-SUFFIX,roblox.ca
   - DOMAIN-SUFFIX,roblox.cc
