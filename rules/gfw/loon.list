@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33384
+# Total count: 33392
 #
-# Update: 2025-12-07 02:44:20(GMT+8)
+# Update: 2025-12-08 02:43:45(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -2512,6 +2512,7 @@ DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,archway.ac.uk
 DOMAIN-SUFFIX,arcom.ac.uk
+DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arctic.ac.uk
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,arden.ac.uk
@@ -5570,6 +5571,7 @@ DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,c-scaipe.ac.uk
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
+DOMAIN-SUFFIX,c.gle
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,c0930.com
 DOMAIN-SUFFIX,c100tibet.org
@@ -8159,7 +8161,6 @@ DOMAIN-SUFFIX,derbyals.ac.uk
 DOMAIN-SUFFIX,derbycollege.ac.uk
 DOMAIN-SUFFIX,derbyonline.ac.uk
 DOMAIN-SUFFIX,derbyshire.ac.uk
-DOMAIN-SUFFIX,deribit.cdn.prismic.io
 DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,derpibooru.org
 DOMAIN-SUFFIX,derweb.ac.uk
@@ -9734,6 +9735,8 @@ DOMAIN-SUFFIX,emahsn.ac.uk
 DOMAIN-SUFFIX,email-bimm.ac.uk
 DOMAIN-SUFFIX,emanna.com
 DOMAIN-SUFFIX,emas.ac.uk
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,embase.com
 DOMAIN-SUFFIX,embed-cdn.com
 DOMAIN-SUFFIX,embed.ly
@@ -10559,6 +10562,8 @@ DOMAIN-SUFFIX,facegbook.com
 DOMAIN-SUFFIX,faceid99.com
 DOMAIN-SUFFIX,faceid99.net
 DOMAIN-SUFFIX,faceidglobal.com
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,faceless.me
 DOMAIN-SUFFIX,faceobk.com
 DOMAIN-SUFFIX,faceobok.com
@@ -18059,7 +18064,6 @@ DOMAIN-SUFFIX,lzmtnews.org
 DOMAIN-SUFFIX,m-power.com
 DOMAIN-SUFFIX,m-rhex.ac.uk
 DOMAIN-SUFFIX,m-sport.co.uk
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.hkgalden.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,m.moegirl.org
@@ -22319,6 +22323,7 @@ DOMAIN-SUFFIX,palmers.ac.uk
 DOMAIN-SUFFIX,palmislife.com
 DOMAIN-SUFFIX,pals.ac.uk
 DOMAIN-SUFFIX,paltalk.com
+DOMAIN-SUFFIX,palworldgame.com
 DOMAIN-SUFFIX,panamapapers.sueddeutsche.de
 DOMAIN-SUFFIX,panasonic.com
 DOMAIN-SUFFIX,panasonic.jp
@@ -23710,6 +23715,7 @@ DOMAIN-SUFFIX,printspots.net
 DOMAIN-SUFFIX,prioned.ac.uk
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,prism.ac.uk
+DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,prismlive.com
 DOMAIN-SUFFIX,prisoneralert.com
@@ -24360,6 +24366,7 @@ DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,reach.ac.uk
 DOMAIN-SUFFIX,reachingwider.ac.uk
 DOMAIN-SUFFIX,reachporn.com
+DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
 DOMAIN-SUFFIX,react.com
 DOMAIN-SUFFIX,reactjs.com
@@ -26433,6 +26440,7 @@ DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowlionpub.com
 DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,sntp.uk
 DOMAIN-SUFFIX,snug.ac.uk
 DOMAIN-SUFFIX,so-net.ne.jp
 DOMAIN-SUFFIX,so-net.net.tw
