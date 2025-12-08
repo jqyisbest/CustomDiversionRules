@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 120346
+# Total count: 120323
 #
-# Update: 2025-12-08 02:43:45(GMT+8)
+# Update: 2025-12-09 02:49:23(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -10195,7 +10195,6 @@ DOMAIN-SUFFIX,aestheticbutler.xyz
 DOMAIN-SUFFIX,aesucai.com
 DOMAIN-SUFFIX,aevit.xyz
 DOMAIN-SUFFIX,aexpec.com
-DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
 DOMAIN-SUFFIX,af122.com
 DOMAIN-SUFFIX,af36.com
 DOMAIN-SUFFIX,af360.com
@@ -12474,9 +12473,6 @@ DOMAIN-SUFFIX,aoyunque.com
 DOMAIN-SUFFIX,aozhanls.com
 DOMAIN-SUFFIX,aozhougoufang.com
 DOMAIN-SUFFIX,ap-china.com
-DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
 DOMAIN-SUFFIX,ap1983.com
 DOMAIN-SUFFIX,ap4r.com
 DOMAIN-SUFFIX,ap88.com
@@ -24243,8 +24239,6 @@ DOMAIN-SUFFIX,cn-chx.com
 DOMAIN-SUFFIX,cn-comfort.com
 DOMAIN-SUFFIX,cn-cr.com
 DOMAIN-SUFFIX,cn-dlmgr-sdc.blurdev.com
-DOMAIN-SUFFIX,cn-east-2.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-east-3.myhuaweicloud.com
 DOMAIN-SUFFIX,cn-elite.com
 DOMAIN-SUFFIX,cn-em.com
 DOMAIN-SUFFIX,cn-ferment.com
@@ -24268,14 +24262,6 @@ DOMAIN-SUFFIX,cn-mingda.com
 DOMAIN-SUFFIX,cn-msedge.net
 DOMAIN-SUFFIX,cn-mw.com
 DOMAIN-SUFFIX,cn-natural.com
-DOMAIN-SUFFIX,cn-north-1.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-2.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-3.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-4.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-5.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-6.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-north-9.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-northeast-1.myhuaweicloud.com
 DOMAIN-SUFFIX,cn-only.com
 DOMAIN-SUFFIX,cn-otaproxy-sdc.blurdev.com
 DOMAIN-SUFFIX,cn-psy.com
@@ -24287,10 +24273,6 @@ DOMAIN-SUFFIX,cn-school.com
 DOMAIN-SUFFIX,cn-sdf.com
 DOMAIN-SUFFIX,cn-shine.com
 DOMAIN-SUFFIX,cn-soft.com
-DOMAIN-SUFFIX,cn-south-1.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-south-2.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-south-4.myhuaweicloud.com
-DOMAIN-SUFFIX,cn-southwest-2.myhuaweicloud.com
 DOMAIN-SUFFIX,cn-tf.com
 DOMAIN-SUFFIX,cn-tom.com
 DOMAIN-SUFFIX,cn-truck.com
@@ -34392,7 +34374,6 @@ DOMAIN-SUFFIX,etz927.com
 DOMAIN-SUFFIX,etzj.net
 DOMAIN-SUFFIX,etzqw.com
 DOMAIN-SUFFIX,etzzy.com
-DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
 DOMAIN-SUFFIX,eu4cn.com
 DOMAIN-SUFFIX,eub-inc.com
 DOMAIN-SUFFIX,euci-software.com
@@ -63161,8 +63142,6 @@ DOMAIN-SUFFIX,l99.com
 DOMAIN-SUFFIX,la-bbs.net
 DOMAIN-SUFFIX,la-chinata.hk
 DOMAIN-SUFFIX,la-mo.com
-DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
-DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX,la-technology.com
 DOMAIN-SUFFIX,la31.com
 DOMAIN-SUFFIX,laawoo.com
@@ -67876,6 +67855,7 @@ DOMAIN-SUFFIX,m-finder.com
 DOMAIN-SUFFIX,m-hero.com
 DOMAIN-SUFFIX,m-mall-origin.icbc.perf.akadns99.net
 DOMAIN-SUFFIX,m-rainbow.com
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.567it.com
 DOMAIN-SUFFIX,m.dji.com
 DOMAIN-SUFFIX,m.dji.net
@@ -72219,7 +72199,6 @@ DOMAIN-SUFFIX,n69.com
 DOMAIN-SUFFIX,n802.com
 DOMAIN-SUFFIX,n8soft.com
 DOMAIN-SUFFIX,n9z.net
-DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
 DOMAIN-SUFFIX,na.ci
 DOMAIN-SUFFIX,na7.cc
 DOMAIN-SUFFIX,naaln.com
@@ -83388,7 +83367,6 @@ DOMAIN-SUFFIX,rtxuc.com
 DOMAIN-SUFFIX,rtyhfg.com
 DOMAIN-SUFFIX,rtyxpt.com
 DOMAIN-SUFFIX,rtyy.com
-DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
 DOMAIN-SUFFIX,ru5sq.com
 DOMAIN-SUFFIX,rua93.online
 DOMAIN-SUFFIX,ruan.cloud
@@ -83856,7 +83834,6 @@ DOMAIN-SUFFIX,s95r.com
 DOMAIN-SUFFIX,s98s2.com
 DOMAIN-SUFFIX,s9hospital.com
 DOMAIN-SUFFIX,s9yun.com
-DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,sa-ec.com
 DOMAIN-SUFFIX,sa-log.com
 DOMAIN-SUFFIX,sa-tencentclb.cloud
