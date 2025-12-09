@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33394
+# Total count: 33395
 #
-# Update: 2025-12-09 02:49:23(GMT+8)
+# Update: 2025-12-10 02:47:43(GMT+8)
 #
 #==========================================================================
 payload:
@@ -24162,6 +24162,7 @@ payload:
   - DOMAIN-SUFFIX,r18av.com
   - DOMAIN-SUFFIX,r18lu-avi.shop
   - DOMAIN-SUFFIX,r18lu.com
+  - DOMAIN-SUFFIX,r2.dev
   - DOMAIN-SUFFIX,r34porn.net
   - DOMAIN-SUFFIX,ra-review.ac.uk
   - DOMAIN-SUFFIX,ra.gg
