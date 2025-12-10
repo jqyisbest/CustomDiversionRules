@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33395
+# Total count: 33396
 #
-# Update: 2025-12-10 02:47:43(GMT+8)
+# Update: 2025-12-11 02:49:34(GMT+8)
 #
 #==========================================================================
 payload:
@@ -24026,6 +24026,7 @@ payload:
   - DOMAIN-SUFFIX,qmw.ac.uk
   - DOMAIN-SUFFIX,qmzdd.com
   - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN-SUFFIX,qombol.com
   - DOMAIN-SUFFIX,qoo10.jp
   - DOMAIN-SUFFIX,qooqlevideo.com
