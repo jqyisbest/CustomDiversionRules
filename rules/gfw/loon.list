@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33395
+# Total count: 33399
 #
-# Update: 2025-12-11 02:49:34(GMT+8)
+# Update: 2025-12-12 02:50:58(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -23117,7 +23117,10 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
+DOMAIN-SUFFIX,poi.icu
 DOMAIN-SUFFIX,poi.moe
+DOMAIN-SUFFIX,poi6.net
+DOMAIN-SUFFIX,poihub.com
 DOMAIN-SUFFIX,point.ac.uk
 DOMAIN-SUFFIX,pointblank.ac.uk
 DOMAIN-SUFFIX,pointblankmusicschool.ac.uk
@@ -23753,6 +23756,7 @@ DOMAIN-SUFFIX,profile.ac.uk
 DOMAIN-SUFFIX,profilemaster.com
 DOMAIN-SUFFIX,profreeporno.com
 DOMAIN-SUFFIX,programme3.ac.uk
+DOMAIN-SUFFIX,project-poi.com
 DOMAIN-SUFFIX,project-syndicate.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,projectara.com
