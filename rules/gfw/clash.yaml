@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33400
+# Total count: 33403
 #
-# Update: 2025-12-12 02:50:58(GMT+8)
+# Update: 2025-12-13 02:50:16(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5559,6 +5559,7 @@ payload:
   - DOMAIN-SUFFIX,bypasscensorship.org
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,byteglb.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteoversea.net
@@ -20841,6 +20842,7 @@ payload:
   - DOMAIN-SUFFIX,nextwork.com.tw
   - DOMAIN-SUFFIX,nextwork.hk
   - DOMAIN-SUFFIX,nextwork.tw
+  - DOMAIN-SUFFIX,nexus-cdn.com
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,nf.id.au
   - DOMAIN-SUFFIX,nfacstem.ac.uk
@@ -28502,6 +28504,7 @@ payload:
   - DOMAIN-SUFFIX,tiipple.ac.uk
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok
+  - DOMAIN-SUFFIX,tiktok-minis.com
   - DOMAIN-SUFFIX,tiktok-row.net
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn-eu.com
