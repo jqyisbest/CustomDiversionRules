@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33449
+# Total count: 33455
 #
-# Update: 2025-12-14 02:44:37(GMT+8)
+# Update: 2025-12-15 02:45:46(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1973,6 +1973,7 @@ payload:
   - DOMAIN-SUFFIX,antiwave.net
   - DOMAIN-SUFFIX,antpool.com
   - DOMAIN-SUFFIX,anudetube.com
+  - DOMAIN-SUFFIX,anuneko.com
   - DOMAIN-SUFFIX,anws.gov.tw
   - DOMAIN-SUFFIX,anxiangxing.com
   - DOMAIN-SUFFIX,anybunny.org
@@ -16420,6 +16421,7 @@ payload:
   - DOMAIN-SUFFIX,jga-group.ac.uk
   - DOMAIN-SUFFIX,jgg18.xyz
   - DOMAIN-SUFFIX,jgoodies.com
+  - DOMAIN-SUFFIX,jhelab.org
   - DOMAIN-SUFFIX,jhxl.org
   - DOMAIN-SUFFIX,jhzyw.xyz
   - DOMAIN-SUFFIX,jiangweiping.com
@@ -17002,6 +17004,7 @@ payload:
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kirkleescollege.ac.uk
   - DOMAIN-SUFFIX,kirkley.ac.uk
+  - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,kisharon.ac.uk
   - DOMAIN-SUFFIX,kismia.com
   - DOMAIN-SUFFIX,kissbbao.cn
@@ -23150,6 +23153,7 @@ payload:
   - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
   - DOMAIN-SUFFIX,podium.ac.uk
+  - DOMAIN-SUFFIX,podwise.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pogo.com
@@ -24225,10 +24229,12 @@ payload:
   - DOMAIN-SUFFIX,radiko.jp
   - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio-en-ligne.fr
+  - DOMAIN-SUFFIX,radio.co
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,radioaustralia.net.au
   - DOMAIN-SUFFIX,radiofarda.com
   - DOMAIN-SUFFIX,radiohilight.net
+  - DOMAIN-SUFFIX,radiojar.com
   - DOMAIN-SUFFIX,radioline.co
   - DOMAIN-SUFFIX,radiomango.fm
   - DOMAIN-SUFFIX,radiomarsho.com
