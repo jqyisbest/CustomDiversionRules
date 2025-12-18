@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33506
+# Total count: 33508
 #
-# Update: 2025-12-18 02:51:57(GMT+8)
+# Update: 2025-12-19 02:51:31(GMT+8)
 #
 #==========================================================================
 payload:
@@ -4230,6 +4230,7 @@ payload:
   - DOMAIN-SUFFIX,bit.do
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,bit.no.com
+  - DOMAIN-SUFFIX,bitbaby.com
   - DOMAIN-SUFFIX,bitballoon.com
   - DOMAIN-SUFFIX,bitbank.cc
   - DOMAIN-SUFFIX,bitbay.net
@@ -14931,6 +14932,7 @@ payload:
   - DOMAIN-SUFFIX,id.heroku.com
   - DOMAIN-SUFFIX,idaiwan.com
   - DOMAIN-SUFFIX,idarkdoll.com
+  - DOMAIN-SUFFIX,idcflare.com
   - DOMAIN-SUFFIX,idcore.ac.uk
   - DOMAIN-SUFFIX,iddddg.com
   - DOMAIN-SUFFIX,idea-server.com
