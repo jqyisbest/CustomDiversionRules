@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33508
+# Total count: 33509
 #
-# Update: 2025-12-19 02:51:31(GMT+8)
+# Update: 2025-12-20 02:49:13(GMT+8)
 #
 #==========================================================================
 payload:
@@ -3108,6 +3108,7 @@ payload:
   - DOMAIN-SUFFIX,awlc.ac.uk
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,aws.com
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsapprunner.com
   - DOMAIN-SUFFIX,awsapps.com
   - DOMAIN-SUFFIX,awsautopilot.com
