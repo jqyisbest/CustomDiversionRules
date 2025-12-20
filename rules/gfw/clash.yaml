@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33509
+# Total count: 33510
 #
-# Update: 2025-12-20 02:49:13(GMT+8)
+# Update: 2025-12-21 02:44:06(GMT+8)
 #
 #==========================================================================
 payload:
@@ -22479,6 +22479,7 @@ payload:
   - DOMAIN-SUFFIX,particlephysics.ac.uk
   - DOMAIN-SUFFIX,partmaker.com
   - DOMAIN-SUFFIX,partneriaethaberbangor.ac.uk
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,partycasino.com
   - DOMAIN-SUFFIX,partylikeits1986.org
   - DOMAIN-SUFFIX,partypoker.com
