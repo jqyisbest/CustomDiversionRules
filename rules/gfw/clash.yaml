@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33528
+# Total count: 33530
 #
-# Update: 2025-12-29 02:48:10(GMT+8)
+# Update: 2025-12-30 02:49:28(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2517,6 +2517,7 @@ payload:
   - DOMAIN-SUFFIX,archivx.to
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
+  - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,archway.ac.uk
   - DOMAIN-SUFFIX,arcom.ac.uk
   - DOMAIN-SUFFIX,arcraiders.com
@@ -12605,6 +12606,7 @@ payload:
   - DOMAIN-SUFFIX,gockhuatviet.com
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,godalming.ac.uk
+  - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,godfootsteps.org
   - DOMAIN-SUFFIX,godns.work
   - DOMAIN-SUFFIX,godoc.org
