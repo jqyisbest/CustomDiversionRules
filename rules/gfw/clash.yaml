@@ -8,7 +8,7 @@
 #
 # Total count: 33531
 #
-# Update: 2026-01-01 02:48:42(GMT+8)
+# Update: 2026-01-02 02:49:08(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1912,7 +1912,6 @@ payload:
   - DOMAIN-SUFFIX,animalsporn.tv
   - DOMAIN-SUFFIX,animalzoosex.me
   - DOMAIN-SUFFIX,anime-pictures.net
-  - DOMAIN-SUFFIX,anime-rule34-world.b-cdn.net
   - DOMAIN-SUFFIX,anime-tube.pw
   - DOMAIN-SUFFIX,animecrazy.net
   - DOMAIN-SUFFIX,animedao-tv.com
@@ -3195,6 +3194,7 @@ payload:
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
   - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,b-eroland.net
   - DOMAIN-SUFFIX,b-ok.africa
   - DOMAIN-SUFFIX,b-ok.asia
@@ -5442,6 +5442,8 @@ payload:
   - DOMAIN-SUFFIX,bumptunes.com
   - DOMAIN-SUFFIX,bunbunhk.com
   - DOMAIN-SUFFIX,bunka.go.jp
+  - DOMAIN-SUFFIX,bunny.net
+  - DOMAIN-SUFFIX,bunnycdn.com
   - DOMAIN-SUFFIX,bunnylust.com
   - DOMAIN-SUFFIX,burningcamel.com
   - DOMAIN-SUFFIX,burnley.ac.uk
@@ -25708,7 +25710,6 @@ payload:
   - DOMAIN-SUFFIX,serl.ac.uk
   - DOMAIN-SUFFIX,serlucap.lol
   - DOMAIN-SUFFIX,serlutv258.xyz
-  - DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,servebom.com
   - DOMAIN-SUFFIX,servehttp.com
   - DOMAIN-SUFFIX,servercontrolpanel.de
@@ -28710,7 +28711,6 @@ payload:
   - DOMAIN-SUFFIX,tmblr.co
   - DOMAIN-SUFFIX,tmc.ac.uk
   - DOMAIN-SUFFIX,tmcs.ac.uk
-  - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,tmdfish.com
   - DOMAIN-SUFFIX,tmei-taoyuan.com
