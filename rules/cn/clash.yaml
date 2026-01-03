@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 131037
+# Total count: 131034
 #
-# Update: 2026-01-03 02:48:47(GMT+8)
+# Update: 2026-01-04 02:47:12(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2367,7 +2367,6 @@ payload:
   - DOMAIN-SUFFIX,1998mall.com
   - DOMAIN-SUFFIX,1998n.com
   - DOMAIN-SUFFIX,1998r.com
-  - DOMAIN-SUFFIX,1999019.com
   - DOMAIN-SUFFIX,1999year.com
   - DOMAIN-SUFFIX,199it.com
   - DOMAIN-SUFFIX,199u2.com
@@ -6753,7 +6752,6 @@ payload:
   - DOMAIN-SUFFIX,66152.com
   - DOMAIN-SUFFIX,66168.net
   - DOMAIN-SUFFIX,6617.com
-  - DOMAIN-SUFFIX,6617398ccc.com
   - DOMAIN-SUFFIX,66173yx.com
   - DOMAIN-SUFFIX,662city.com
   - DOMAIN-SUFFIX,662p.com
@@ -17397,7 +17395,6 @@ payload:
   - DOMAIN-SUFFIX,boyaxun.com
   - DOMAIN-SUFFIX,boydwang.com
   - DOMAIN-SUFFIX,boyi.co
-  - DOMAIN-SUFFIX,boyi.info
   - DOMAIN-SUFFIX,boyikang.com
   - DOMAIN-SUFFIX,boying360.com
   - DOMAIN-SUFFIX,boyingsj.com
@@ -31155,6 +31152,7 @@ payload:
   - DOMAIN-SUFFIX,dswqw2025.com
   - DOMAIN-SUFFIX,dswx.cc
   - DOMAIN-SUFFIX,dswzxh.com
+  - DOMAIN-SUFFIX,dsx.ac
   - DOMAIN-SUFFIX,dsx2020.com
   - DOMAIN-SUFFIX,dsxdn.com
   - DOMAIN-SUFFIX,dsxliuxue.com
@@ -31188,6 +31186,7 @@ payload:
   - DOMAIN-SUFFIX,dtlty.com
   - DOMAIN-SUFFIX,dtmbw.com
   - DOMAIN-SUFFIX,dtmiller.com
+  - DOMAIN-SUFFIX,dtminds.com
   - DOMAIN-SUFFIX,dtmuban.com
   - DOMAIN-SUFFIX,dtnews.net
   - DOMAIN-SUFFIX,dtrcb.com
@@ -54638,6 +54637,7 @@ payload:
   - DOMAIN-SUFFIX,iyouhun.com
   - DOMAIN-SUFFIX,iyoujia.com
   - DOMAIN-SUFFIX,iyoujiao.net
+  - DOMAIN-SUFFIX,iyouke.com
   - DOMAIN-SUFFIX,iyoule.com
   - DOMAIN-SUFFIX,iyouman.com
   - DOMAIN-SUFFIX,iyouqian.com
@@ -89067,7 +89067,6 @@ payload:
   - DOMAIN-SUFFIX,srici.com
   - DOMAIN-SUFFIX,sritsoft.com
   - DOMAIN-SUFFIX,srixon-china.com
-  - DOMAIN-SUFFIX,srkl.pw
   - DOMAIN-SUFFIX,srlfl.com
   - DOMAIN-SUFFIX,srlzzp.com
   - DOMAIN-SUFFIX,srm.dji.com
@@ -97798,7 +97797,6 @@ payload:
   - DOMAIN-SUFFIX,vdaye.com
   - DOMAIN-SUFFIX,vdbet.com
   - DOMAIN-SUFFIX,vdfly.com
-  - DOMAIN-SUFFIX,vdhf042.fun
   - DOMAIN-SUFFIX,vdiagnostic.com
   - DOMAIN-SUFFIX,vdian.com
   - DOMAIN-SUFFIX,vdisk.me
@@ -106317,7 +106315,6 @@ payload:
   - DOMAIN-SUFFIX,xmsouhu.com
   - DOMAIN-SUFFIX,xmsoushu.com
   - DOMAIN-SUFFIX,xmspace.net
-  - DOMAIN-SUFFIX,xmsqz.com
   - DOMAIN-SUFFIX,xmssie.com
   - DOMAIN-SUFFIX,xmsssyy.com
   - DOMAIN-SUFFIX,xmsumi.com
