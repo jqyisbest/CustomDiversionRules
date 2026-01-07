@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33678
+# Total count: 33689
 #
-# Update: 2026-01-07 02:50:25(GMT+8)
+# Update: 2026-01-08 02:53:22(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -6673,6 +6673,7 @@ DOMAIN-SUFFIX,chromeos.dev
 DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,chromium.org 
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
 DOMAIN-SUFFIX,chrysaliscourses.ac.uk
@@ -16164,7 +16165,6 @@ DOMAIN-SUFFIX,iss138.com
 DOMAIN-SUFFIX,issitedownrightnow.com
 DOMAIN-SUFFIX,issquaredown.com
 DOMAIN-SUFFIX,issquareup.com
-DOMAIN-SUFFIX,issues.chromium.org 
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istar.ac.uk
 DOMAIN-SUFFIX,istars.co.nz
@@ -21107,6 +21107,15 @@ DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,ngodupdongchung.com
+DOMAIN-SUFFIX,ngrok-free.app
+DOMAIN-SUFFIX,ngrok-free.dev
+DOMAIN-SUFFIX,ngrok-free.pizza
+DOMAIN-SUFFIX,ngrok.app
+DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,ngrok.dev
+DOMAIN-SUFFIX,ngrok.io
+DOMAIN-SUFFIX,ngrok.pizza
+DOMAIN-SUFFIX,ngrok.pro
 DOMAIN-SUFFIX,ngs.ac.uk
 DOMAIN-SUFFIX,ngwnet.ac.uk
 DOMAIN-SUFFIX,nhc.ac.uk
@@ -23136,6 +23145,8 @@ DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,ping.sx
 DOMAIN-SUFFIX,pingan.com.hk
 DOMAIN-SUFFIX,pingguotv.xyz
+DOMAIN-SUFFIX,pinggy.io
+DOMAIN-SUFFIX,pinggy.link
 DOMAIN-SUFFIX,pingxiangpuer.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinkcore.com
