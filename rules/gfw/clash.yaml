@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33690
+# Total count: 33691
 #
-# Update: 2026-01-08 02:53:22(GMT+8)
+# Update: 2026-01-09 02:50:23(GMT+8)
 #
 #==========================================================================
 payload:
@@ -28058,6 +28058,7 @@ payload:
   - DOMAIN-SUFFIX,tamiaode.tk
   - DOMAIN-SUFFIX,tamilsexvideos.cc
   - DOMAIN-SUFFIX,tampabay.com
+  - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,tamworth.ac.uk
   - DOMAIN-SUFFIX,tamworthandlichfield.ac.uk
   - DOMAIN-SUFFIX,tanc.org
