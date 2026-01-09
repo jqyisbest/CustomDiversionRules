@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 130719
+# Total count: 130721
 #
-# Update: 2026-01-09 02:50:23(GMT+8)
+# Update: 2026-01-10 02:52:03(GMT+8)
 #
 #==========================================================================
 payload:
@@ -35941,6 +35941,7 @@ payload:
   - DOMAIN-SUFFIX,fnkvision.com
   - DOMAIN-SUFFIX,fnmobi.com
   - DOMAIN-SUFFIX,fnnas.com
+  - DOMAIN-SUFFIX,fnnas.net
   - DOMAIN-SUFFIX,fnnsh.com
   - DOMAIN-SUFFIX,fnnspa.com
   - DOMAIN-SUFFIX,fnos.net
@@ -92052,6 +92053,7 @@ payload:
   - DOMAIN-SUFFIX,tapai.com
   - DOMAIN-SUFFIX,tapaijiu.com
   - DOMAIN-SUFFIX,tapapis.com
+  - DOMAIN-SUFFIX,tapapks.com
   - DOMAIN-SUFFIX,tapas.net
   - DOMAIN-SUFFIX,tapbooster.net
   - DOMAIN-SUFFIX,tapd-app.com
