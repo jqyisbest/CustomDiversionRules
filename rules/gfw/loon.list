@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33714
+# Total count: 33712
 #
-# Update: 2026-01-10 02:52:03(GMT+8)
+# Update: 2026-01-11 02:48:20(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -764,7 +764,6 @@ DOMAIN-SUFFIX,abitno.linpie.com
 DOMAIN-SUFFIX,ablmm.com
 DOMAIN-SUFFIX,ablwang.com
 DOMAIN-SUFFIX,aboluowang.com
-DOMAIN-SUFFIX,about.gitlab.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,aboutamazon.co.uk
 DOMAIN-SUFFIX,aboutamazon.com
@@ -6675,7 +6674,6 @@ DOMAIN-SUFFIX,chromeos.dev
 DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,chromium.org 
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
 DOMAIN-SUFFIX,chrysaliscourses.ac.uk
