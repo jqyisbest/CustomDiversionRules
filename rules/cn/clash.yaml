@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 130880
+# Total count: 130881
 #
-# Update: 2026-01-13 02:53:15(GMT+8)
+# Update: 2026-01-14 02:52:04(GMT+8)
 #
 #==========================================================================
 payload:
@@ -86096,6 +86096,7 @@ payload:
   - DOMAIN-SUFFIX,shouqu.me
   - DOMAIN-SUFFIX,shoushenlvcheng.com
   - DOMAIN-SUFFIX,shoutai.com
+  - DOMAIN-SUFFIX,shoutanjjj.com
   - DOMAIN-SUFFIX,shouxi.com
   - DOMAIN-SUFFIX,shouxieti.com
   - DOMAIN-SUFFIX,shouxihu.net
