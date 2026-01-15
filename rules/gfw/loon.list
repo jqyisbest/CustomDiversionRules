@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33742
+# Total count: 33745
 #
-# Update: 2026-01-15 02:54:19(GMT+8)
+# Update: 2026-01-16 02:58:53(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -26430,6 +26430,8 @@ DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,sigops.org
 DOMAIN-SUFFIX,sigopt.com
+DOMAIN-SUFFIX,sih-db.com
+DOMAIN-SUFFIX,sih.app
 DOMAIN-SUFFIX,sihe.ac.uk
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
@@ -27475,6 +27477,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,steamladder.com
 DOMAIN-SUFFIX,steamofporn.com
 DOMAIN-SUFFIX,steampowered.com
