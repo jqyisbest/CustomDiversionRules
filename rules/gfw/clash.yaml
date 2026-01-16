@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33746
+# Total count: 33749
 #
-# Update: 2026-01-16 02:58:53(GMT+8)
+# Update: 2026-01-17 02:52:39(GMT+8)
 #
 #==========================================================================
 payload:
@@ -32493,6 +32493,7 @@ payload:
   - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,xujan.com
   - DOMAIN-SUFFIX,xuzhiyong.net
+  - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xv1.monster
   - DOMAIN-SUFFIX,xvbelink.com
   - DOMAIN-SUFFIX,xvds.tv
@@ -32506,8 +32507,10 @@ payload:
   - DOMAIN-SUFFIX,xvideo1.org
   - DOMAIN-SUFFIX,xvideo2.org
   - DOMAIN-SUFFIX,xvideoporno.tv
+  - DOMAIN-SUFFIX,xvideos-ar.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,xvideos-dl.top
+  - DOMAIN-SUFFIX,xvideos-india.com
   - DOMAIN-SUFFIX,xvideos-porn-video.com
   - DOMAIN-SUFFIX,xvideos-xxxx.com
   - DOMAIN-SUFFIX,xvideos.blog
