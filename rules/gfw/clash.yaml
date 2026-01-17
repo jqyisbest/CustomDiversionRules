@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33749
+# Total count: 33754
 #
-# Update: 2026-01-17 02:52:39(GMT+8)
+# Update: 2026-01-18 02:47:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -765,6 +765,7 @@ payload:
   - DOMAIN-SUFFIX,ablmm.com
   - DOMAIN-SUFFIX,ablwang.com
   - DOMAIN-SUFFIX,aboluowang.com
+  - DOMAIN-SUFFIX,about.gitlab.com
   - DOMAIN-SUFFIX,about.me
   - DOMAIN-SUFFIX,aboutamazon.co.uk
   - DOMAIN-SUFFIX,aboutamazon.com
@@ -21671,15 +21672,19 @@ payload:
   - DOMAIN-SUFFIX,ntdimg.com
   - DOMAIN-SUFFIX,ntdtv-dc.com
   - DOMAIN-SUFFIX,ntdtv.ca
+  - DOMAIN-SUFFIX,ntdtv.co.il
   - DOMAIN-SUFFIX,ntdtv.co.kr
   - DOMAIN-SUFFIX,ntdtv.com
   - DOMAIN-SUFFIX,ntdtv.com.tw
   - DOMAIN-SUFFIX,ntdtv.cz
+  - DOMAIN-SUFFIX,ntdtv.fr
   - DOMAIN-SUFFIX,ntdtv.jp
   - DOMAIN-SUFFIX,ntdtv.kr
   - DOMAIN-SUFFIX,ntdtv.org
   - DOMAIN-SUFFIX,ntdtv.ru
+  - DOMAIN-SUFFIX,ntdtv.se
   - DOMAIN-SUFFIX,ntdtvla.com
+  - DOMAIN-SUFFIX,ntdvideo.tw
   - DOMAIN-SUFFIX,ntdvn.com
   - DOMAIN-SUFFIX,ntec.ac.uk
   - DOMAIN-SUFFIX,ntfs.ac.uk
