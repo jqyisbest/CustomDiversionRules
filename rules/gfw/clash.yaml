@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33760
+# Total count: 33761
 #
-# Update: 2026-01-19 02:46:22(GMT+8)
+# Update: 2026-01-20 02:52:48(GMT+8)
 #
 #==========================================================================
 payload:
@@ -24158,6 +24158,7 @@ payload:
   - DOMAIN-SUFFIX,pu82.vip
   - DOMAIN-SUFFIX,pub.dev
   - DOMAIN-SUFFIX,pubg.com
+  - DOMAIN-SUFFIX,pubg1.battleye.com
   - DOMAIN-SUFFIX,public-sex-porn.com
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,public-us-pingsx.api.clonoth.com
