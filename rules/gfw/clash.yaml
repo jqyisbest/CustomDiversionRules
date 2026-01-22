@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33597
+# Total count: 33599
 #
-# Update: 2026-01-22 03:02:56(GMT+8)
+# Update: 2026-01-23 02:55:48(GMT+8)
 #
 #==========================================================================
 payload:
@@ -12257,6 +12257,7 @@ payload:
   - DOMAIN-SUFFIX,geocities.com
   - DOMAIN-SUFFIX,geocities.jp
   - DOMAIN-SUFFIX,geodesummit.com
+  - DOMAIN-SUFFIX,geogebra.org
   - DOMAIN-SUFFIX,geohazard.ac.uk
   - DOMAIN-SUFFIX,geolytics.com
   - DOMAIN-SUFFIX,geoport.com
@@ -31519,6 +31520,7 @@ payload:
   - DOMAIN-SUFFIX,wikaba.com
   - DOMAIN-SUFFIX,wikawika.xyz
   - DOMAIN-SUFFIX,wiki.gamerp.jp
+  - DOMAIN-SUFFIX,wiki.gg
   - DOMAIN-SUFFIX,wiki.jqueryui.com
   - DOMAIN-SUFFIX,wiki.keso.cn
   - DOMAIN-SUFFIX,wiki.kfd.me
