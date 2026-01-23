@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 130227
+# Total count: 130228
 #
-# Update: 2026-01-23 02:55:48(GMT+8)
+# Update: 2026-01-24 02:55:03(GMT+8)
 #
 #==========================================================================
 payload:
@@ -80571,6 +80571,7 @@ payload:
   - DOMAIN-SUFFIX,redmart.com
   - DOMAIN-SUFFIX,redmou.com
   - DOMAIN-SUFFIX,rednetdns.com
+  - DOMAIN-SUFFIX,rednotecdn.com
   - DOMAIN-SUFFIX,redocn.com
   - DOMAIN-SUFFIX,redodopower.com
   - DOMAIN-SUFFIX,redoop.com
