@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33608
+# Total count: 33619
 #
-# Update: 2026-01-29 02:57:48(GMT+8)
+# Update: 2026-01-30 03:06:40(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2584,7 +2584,9 @@ payload:
   - DOMAIN-SUFFIX,arlingtoncemetery.mil
   - DOMAIN-SUFFIX,arm.ac.uk
   - DOMAIN-SUFFIX,arma.ac.uk
+  - DOMAIN-SUFFIX,arma3.com
   - DOMAIN-SUFFIX,armagh.ac.uk
+  - DOMAIN-SUFFIX,armaplatform.com
   - DOMAIN-SUFFIX,armorgames.com
   - DOMAIN-SUFFIX,armovs.com
   - DOMAIN-SUFFIX,army.mil
@@ -3273,6 +3275,7 @@ payload:
   - DOMAIN-SUFFIX,bach.ac.uk
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,backdoorlesbians.com
+  - DOMAIN-SUFFIX,backend-v2.crixet.com
   - DOMAIN-SUFFIX,backoncourse.ac.uk
   - DOMAIN-SUFFIX,backpackers.com.tw
   - DOMAIN-SUFFIX,backroomcastingcouch.com
@@ -3428,6 +3431,7 @@ payload:
   - DOMAIN-SUFFIX,battlefrontii.com
   - DOMAIN-SUFFIX,battlelog.com
   - DOMAIN-SUFFIX,battlenet.com
+  - DOMAIN-SUFFIX,battleye.com
   - DOMAIN-SUFFIX,bavs.ac.uk
   - DOMAIN-SUFFIX,baxsound.com
   - DOMAIN-SUFFIX,bayareabmw.com
@@ -4259,6 +4263,7 @@ payload:
   - DOMAIN-SUFFIX,bisi.ac.uk
   - DOMAIN-SUFFIX,bisq.io
   - DOMAIN-SUFFIX,bisq.network
+  - DOMAIN-SUFFIX,bistudio.com
   - DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
   - DOMAIN-SUFFIX,bit-z.com
   - DOMAIN-SUFFIX,bit.com
@@ -4993,6 +4998,7 @@ payload:
   - DOMAIN-SUFFIX,bodyfluids-jav.com
   - DOMAIN-SUFFIX,bognor-training.ac.uk
   - DOMAIN-SUFFIX,bognor.ac.uk
+  - DOMAIN-SUFFIX,bohemia.net
   - DOMAIN-SUFFIX,boj.or.jp
   - DOMAIN-SUFFIX,bokep.net
   - DOMAIN-SUFFIX,bokepseks.org
@@ -7483,6 +7489,7 @@ payload:
   - DOMAIN-SUFFIX,criticaltheology.ac.uk
   - DOMAIN-SUFFIX,critiquebrainz.org
   - DOMAIN-SUFFIX,crittercism.com
+  - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,crl.versign.net
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
@@ -7921,6 +7928,7 @@ payload:
   - DOMAIN-SUFFIX,dayone.me
   - DOMAIN-SUFFIX,daytonbmw.com
   - DOMAIN-SUFFIX,daytontrucktires.com
+  - DOMAIN-SUFFIX,dayz.com
   - DOMAIN-SUFFIX,dazn-api.com
   - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,dazndn.com
@@ -18333,6 +18341,7 @@ payload:
   - DOMAIN-SUFFIX,maizhong.org
   - DOMAIN-SUFFIX,makaan.com
   - DOMAIN-SUFFIX,makeanything.com
+  - DOMAIN-SUFFIX,makearmanotwar.com
   - DOMAIN-SUFFIX,makebettercode.com
   - DOMAIN-SUFFIX,makecode.org
   - DOMAIN-SUFFIX,makeeu.com
@@ -24010,7 +24019,6 @@ payload:
   - DOMAIN-SUFFIX,pu82.vip
   - DOMAIN-SUFFIX,pub.dev
   - DOMAIN-SUFFIX,pubg.com
-  - DOMAIN-SUFFIX,pubg1.battleye.com
   - DOMAIN-SUFFIX,public-sex-porn.com
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,public-us-pingsx.api.clonoth.com
@@ -26296,6 +26304,7 @@ payload:
   - DOMAIN-SUFFIX,sijihuisuo.com
   - DOMAIN-SUFFIX,sikh-uni.ac.uk
   - DOMAIN-SUFFIX,sikiswap.com
+  - DOMAIN-SUFFIX,silicagame.com
   - DOMAIN-SUFFIX,silicon-mobility.com
   - DOMAIN-SUFFIX,siliconmobility.com
   - DOMAIN-SUFFIX,silkbook.com
@@ -30407,6 +30416,7 @@ payload:
   - DOMAIN-SUFFIX,viewerswives.net
   - DOMAIN-SUFFIX,viewgals.com
   - DOMAIN-SUFFIX,viewpointsfromfacebook.com
+  - DOMAIN-SUFFIX,vigorgame.com
   - DOMAIN-SUFFIX,vijayatemple.org
   - DOMAIN-SUFFIX,vikacg.com
   - DOMAIN-SUFFIX,vikiporn.com
@@ -32861,6 +32871,7 @@ payload:
   - DOMAIN-SUFFIX,yiyechat.com
   - DOMAIN-SUFFIX,yizhihongxing.com
   - DOMAIN-SUFFIX,yjcontentdelivery.com
+  - DOMAIN-SUFFIX,ylands.com
   - DOMAIN-SUFFIX,ymail.com
   - DOMAIN-SUFFIX,ymca-wales.ac.uk
   - DOMAIN-SUFFIX,ymca.ac.uk
