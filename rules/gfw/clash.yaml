@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33635
+# Total count: 33638
 #
-# Update: 2026-02-05 03:11:33(GMT+8)
+# Update: 2026-02-06 03:09:46(GMT+8)
 #
 #==========================================================================
 payload:
@@ -22294,6 +22294,7 @@ payload:
   - DOMAIN-SUFFIX,osiri-suki-club.com
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,osm.org
+  - DOMAIN-SUFFIX,osmand.net
   - DOMAIN-SUFFIX,osmfoundation.org
   - DOMAIN-SUFFIX,osmosis.ac.uk
   - DOMAIN-SUFFIX,ospray.net
@@ -25713,6 +25714,7 @@ payload:
   - DOMAIN-SUFFIX,seevic.ac.uk
   - DOMAIN-SUFFIX,seevpn.com
   - DOMAIN-SUFFIX,seezone.net
+  - DOMAIN-SUFFIX,sef.org.tw
   - DOMAIN-SUFFIX,sefton-acl.ac.uk
   - DOMAIN-SUFFIX,sefton.ac.uk
   - DOMAIN-SUFFIX,sego8.cc
@@ -31926,6 +31928,7 @@ payload:
   - DOMAIN-SUFFIX,www.eastturkistan.net
   - DOMAIN-SUFFIX,www.gmiddle.com
   - DOMAIN-SUFFIX,www.gmiddle.net
+  - DOMAIN-SUFFIX,www.hoyolab.com
   - DOMAIN-SUFFIX,www.hustlercash.com
   - DOMAIN-SUFFIX,www.idlcoyote.com
   - DOMAIN-SUFFIX,www.imdb.com
