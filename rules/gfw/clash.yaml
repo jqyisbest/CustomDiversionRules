@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33638
+# Total count: 33641
 #
-# Update: 2026-02-06 03:09:46(GMT+8)
+# Update: 2026-02-07 03:10:37(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13197,6 +13197,7 @@ payload:
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
   - DOMAIN-SUFFIX,grindr.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,grotty-monday.com
@@ -24356,6 +24357,7 @@ payload:
   - DOMAIN-SUFFIX,radgametools.com
   - DOMAIN-SUFFIX,radian6.com
   - DOMAIN-SUFFIX,radicalparty.org
+  - DOMAIN-SUFFIX,radiko-cf.com
   - DOMAIN-SUFFIX,radiko.jp
   - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio-en-ligne.fr
@@ -26572,6 +26574,7 @@ payload:
   - DOMAIN-SUFFIX,smartonerobotics.com
   - DOMAIN-SUFFIX,smartonesolutions.com.hk
   - DOMAIN-SUFFIX,smartonesolutions.hk
+  - DOMAIN-SUFFIX,smartstream.ne.jp
   - DOMAIN-SUFFIX,smashed.xxx
   - DOMAIN-SUFFIX,smbc.co.jp
   - DOMAIN-SUFFIX,smbctb.co.jp
