@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33647
+# Total count: 33639
 #
-# Update: 2026-02-08 02:57:28(GMT+8)
+# Update: 2026-02-09 02:59:17(GMT+8)
 #
 #==========================================================================
 payload:
@@ -762,7 +762,6 @@ payload:
   - DOMAIN-SUFFIX,abigass.com
   - DOMAIN-SUFFIX,abingdon-witney.ac.uk
   - DOMAIN-SUFFIX,abira.ac.uk
-  - DOMAIN-SUFFIX,abitno.linpie.com
   - DOMAIN-SUFFIX,ablmm.com
   - DOMAIN-SUFFIX,ablwang.com
   - DOMAIN-SUFFIX,aboluowang.com
@@ -3482,7 +3481,6 @@ payload:
   - DOMAIN-SUFFIX,bbs.huasing.org
   - DOMAIN-SUFFIX,bbs.junglobal.net
   - DOMAIN-SUFFIX,bbs.mikocon.com
-  - DOMAIN-SUFFIX,bbs.morbell.com
   - DOMAIN-SUFFIX,bbs.mychat.to
   - DOMAIN-SUFFIX,bbs.naixi.net
   - DOMAIN-SUFFIX,bbs.nyinfor.com
@@ -4386,7 +4384,6 @@ payload:
   - DOMAIN-SUFFIX,blog.goo.ne.jp
   - DOMAIN-SUFFIX,blog.jackjia.com
   - DOMAIN-SUFFIX,blog.jp
-  - DOMAIN-SUFFIX,blog.lester850.info
   - DOMAIN-SUFFIX,blog.martinoei.com
   - DOMAIN-SUFFIX,blog.pathtosharepoint.com
   - DOMAIN-SUFFIX,blog.pentalogic.net
@@ -6181,8 +6178,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.ac.uk
   - DOMAIN-SUFFIX,cdn.angruo.com
   - DOMAIN-SUFFIX,cdn.arstechnica.net
-  - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
-  - DOMAIN-SUFFIX,cdn.helixstudios.net
   - DOMAIN-SUFFIX,cdn.js7k.com
   - DOMAIN-SUFFIX,cdn.jwplayer.com
   - DOMAIN-SUFFIX,cdn.printfriendly.com
@@ -7076,6 +7071,8 @@ payload:
   - DOMAIN-SUFFIX,codei.sh
   - DOMAIN-SUFFIX,codeish.co
   - DOMAIN-SUFFIX,codeish.io
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,coderabbit.ai
   - DOMAIN-SUFFIX,codeshare.io
@@ -11403,7 +11400,6 @@ payload:
   - DOMAIN-SUFFIX,fortuneinsight.com
   - DOMAIN-SUFFIX,forum.baby-kingdom.com
   - DOMAIN-SUFFIX,forum.cyberctm.com
-  - DOMAIN-SUFFIX,forum.mymaji.com
   - DOMAIN-SUFFIX,forum.palmislife.com
   - DOMAIN-SUFFIX,forum.slime.com.tw
   - DOMAIN-SUFFIX,forum.xinbao.de
@@ -14117,7 +14113,6 @@ payload:
   - DOMAIN-SUFFIX,hkptu.org
   - DOMAIN-SUFFIX,hkreadingcity.net
   - DOMAIN-SUFFIX,hkreporter.com
-  - DOMAIN-SUFFIX,hkreporter.loved.hk
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -16507,7 +16502,6 @@ payload:
   - DOMAIN-SUFFIX,jigglegifs.com
   - DOMAIN-SUFFIX,jigong1024.com
   - DOMAIN-SUFFIX,jigsy.com
-  - DOMAIN-SUFFIX,jihadintel.meforum.org
   - DOMAIN-SUFFIX,jihadology.net
   - DOMAIN-SUFFIX,jiji.com
   - DOMAIN-SUFFIX,jijiji.ca
@@ -17317,9 +17311,7 @@ payload:
   - DOMAIN-SUFFIX,lanniser-ylo.shop
   - DOMAIN-SUFFIX,lantern.io
   - DOMAIN-SUFFIX,lanternal.com
-  - DOMAIN-SUFFIX,lanterncn.cn
   - DOMAIN-SUFFIX,lantosfoundation.org
-  - DOMAIN-SUFFIX,laod.cn
   - DOMAIN-SUFFIX,laogai.org
   - DOMAIN-SUFFIX,laogairesearch.org
   - DOMAIN-SUFFIX,laomiu.com
@@ -17462,7 +17454,6 @@ payload:
   - DOMAIN-SUFFIX,lede-project.org
   - DOMAIN-SUFFIX,leder.ac.uk
   - DOMAIN-SUFFIX,ledger.com
-  - DOMAIN-SUFFIX,leeao.com.cn
   - DOMAIN-SUFFIX,leecountytimes.com
   - DOMAIN-SUFFIX,leeds-art.ac.uk
   - DOMAIN-SUFFIX,leeds-ecampus.ac.uk
@@ -20132,7 +20123,6 @@ payload:
   - DOMAIN-SUFFIX,my-magazine.me
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,my-proxy.com
-  - DOMAIN-SUFFIX,my.mail.ru
   - DOMAIN-SUFFIX,my.opera.com
   - DOMAIN-SUFFIX,my.pcloud.com
   - DOMAIN-SUFFIX,my.weibo.com
@@ -21319,7 +21309,6 @@ payload:
   - DOMAIN-SUFFIX,njuice.com
   - DOMAIN-SUFFIX,nkc.ac.uk
   - DOMAIN-SUFFIX,nke6.com
-  - DOMAIN-SUFFIX,nko.navy.mil
   - DOMAIN-SUFFIX,nkw.ac.uk
   - DOMAIN-SUFFIX,nlc.ac.uk
   - DOMAIN-SUFFIX,nlfreevpn.com
@@ -31602,6 +31591,7 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiporn.tv
   - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisexguide.com
   - DOMAIN-SUFFIX,wikisource.org
   - DOMAIN-SUFFIX,wikiunblocked.org
@@ -31647,6 +31637,8 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,windscribe.com
   - DOMAIN-SUFFIX,windsor-forest.ac.uk
+  - DOMAIN-SUFFIX,windsurf.build
+  - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,wingamestore.com
   - DOMAIN-SUFFIX,wingy.site
