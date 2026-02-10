@@ -8,7 +8,7 @@
 #
 # Total count: 33660
 #
-# Update: 2026-02-10 03:43:37(GMT+8)
+# Update: 2026-02-11 03:36:00(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7016,7 +7016,6 @@ payload:
   - DOMAIN-SUFFIX,cnet.com
   - DOMAIN-SUFFIX,cnet.de
   - DOMAIN-SUFFIX,cnetfrance.fr
-  - DOMAIN-SUFFIX,cnex.org.cn
   - DOMAIN-SUFFIX,cnineu.com
   - DOMAIN-SUFFIX,cnivogue.com.au
   - DOMAIN-SUFFIX,cnix-gov-cn.com
@@ -12375,6 +12374,7 @@ payload:
   - DOMAIN-SUFFIX,gettyimages.no
   - DOMAIN-SUFFIX,gettyimages.pt
   - DOMAIN-SUFFIX,gettyimages.se
+  - DOMAIN-SUFFIX,gettyimages.us
   - DOMAIN-SUFFIX,getuploader.com
   - DOMAIN-SUFFIX,getws1.com
   - DOMAIN-SUFFIX,getwsone.com
@@ -14754,6 +14754,7 @@ payload:
   - DOMAIN-SUFFIX,huntingdon.ac.uk
   - DOMAIN-SUFFIX,huobi.co
   - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,huobi.li
   - DOMAIN-SUFFIX,huobi.me
   - DOMAIN-SUFFIX,huobi.pro
   - DOMAIN-SUFFIX,huobi.sc
@@ -33423,7 +33424,6 @@ payload:
   - DOMAIN-SUFFIX,zhreader.com
   - DOMAIN-SUFFIX,zhtv01.com
   - DOMAIN-SUFFIX,zhuangbi.me
-  - DOMAIN-SUFFIX,zhuanxing.cn
   - DOMAIN-SUFFIX,zhuatieba.com
   - DOMAIN-SUFFIX,zhuichaguoji.org
   - DOMAIN-SUFFIX,zhujiget.com
