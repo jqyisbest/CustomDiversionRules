@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 131464
+# Total count: 131466
 #
-# Update: 2026-02-11 03:36:00(GMT+8)
+# Update: 2026-02-12 03:31:01(GMT+8)
 #
 #==========================================================================
 payload:
@@ -104574,6 +104574,7 @@ payload:
   - DOMAIN-SUFFIX,xhslink.com
   - DOMAIN-SUFFIX,xhslw.com
   - DOMAIN-SUFFIX,xhsmlt.com
+  - DOMAIN-SUFFIX,xhsrcdn.com
   - DOMAIN-SUFFIX,xhsrmyy.com
   - DOMAIN-SUFFIX,xhsxmt.com
   - DOMAIN-SUFFIX,xhsyqx.com
@@ -115520,6 +115521,7 @@ payload:
   - DOMAIN-SUFFIX,zhipianbang.vip
   - DOMAIN-SUFFIX,zhipin.com
   - DOMAIN-SUFFIX,zhipingke.com
+  - DOMAIN-SUFFIX,zhipucn.com
   - DOMAIN-SUFFIX,zhipuzi.com
   - DOMAIN-SUFFIX,zhiqi.info
   - DOMAIN-SUFFIX,zhiqiang.org
