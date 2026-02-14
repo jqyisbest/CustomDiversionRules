@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33543
+# Total count: 33560
 #
-# Update: 2026-02-14 03:11:29(GMT+8)
+# Update: 2026-02-15 02:57:00(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2122,6 +2122,7 @@ payload:
   - DOMAIN-SUFFIX,apkplz.com
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkpure.net
+  - DOMAIN-SUFFIX,apkpures.xyz
   - DOMAIN-SUFFIX,aple.com
   - DOMAIN-SUFFIX,aplestore.com
   - DOMAIN-SUFFIX,aplleipods.com
@@ -2813,6 +2814,7 @@ payload:
   - DOMAIN-SUFFIX,attcollaborate.com
   - DOMAIN-SUFFIX,attdns.com
   - DOMAIN-SUFFIX,attdns.net
+  - DOMAIN-SUFFIX,attestation.app
   - DOMAIN-SUFFIX,attexperts.com
   - DOMAIN-SUFFIX,attglobal.net
   - DOMAIN-SUFFIX,atthelimits.ac.uk
@@ -13099,6 +13101,19 @@ payload:
   - DOMAIN-SUFFIX,granulate.io
   - DOMAIN-SUFFIX,graph.org
   - DOMAIN-SUFFIX,graphenecentre.ac.uk
+  - DOMAIN-SUFFIX,grapheneos.app
+  - DOMAIN-SUFFIX,grapheneos.ca
+  - DOMAIN-SUFFIX,grapheneos.com
+  - DOMAIN-SUFFIX,grapheneos.dev
+  - DOMAIN-SUFFIX,grapheneos.foundation
+  - DOMAIN-SUFFIX,grapheneos.info
+  - DOMAIN-SUFFIX,grapheneos.net
+  - DOMAIN-SUFFIX,grapheneos.network
+  - DOMAIN-SUFFIX,grapheneos.online
+  - DOMAIN-SUFFIX,grapheneos.org
+  - DOMAIN-SUFFIX,grapheneos.ovh
+  - DOMAIN-SUFFIX,grapheneos.page
+  - DOMAIN-SUFFIX,grapheneos.social
   - DOMAIN-SUFFIX,graphengine.io
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
@@ -25591,6 +25606,7 @@ payload:
   - DOMAIN-SUFFIX,seacams.ac.uk
   - DOMAIN-SUFFIX,seagroup.com
   - DOMAIN-SUFFIX,seaha-cdt.ac.uk
+  - DOMAIN-SUFFIX,seamlessupdate.app
   - DOMAIN-SUFFIX,seamonkey-project.org
   - DOMAIN-SUFFIX,seancody.com
   - DOMAIN-SUFFIX,seaofsolitude.com
@@ -30013,6 +30029,7 @@ payload:
   - DOMAIN-SUFFIX,vamsas.ac.uk
   - DOMAIN-SUFFIX,van001.com
   - DOMAIN-SUFFIX,van698.com
+  - DOMAIN-SUFFIX,vanadium.app
   - DOMAIN-SUFFIX,vancouverbmwretailers.ca
   - DOMAIN-SUFFIX,vanilla-jp.com
   - DOMAIN-SUFFIX,vanish.at
