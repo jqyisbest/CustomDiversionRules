@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33560
+# Total count: 33563
 #
-# Update: 2026-02-15 02:57:00(GMT+8)
+# Update: 2026-02-16 02:58:42(GMT+8)
 #
 #==========================================================================
 payload:
@@ -28790,6 +28790,7 @@ payload:
   - DOMAIN-SUFFIX,tomp3.cc
   - DOMAIN-SUFFIX,tomsguide.com
   - DOMAIN-SUFFIX,tomshardware.com
+  - DOMAIN-SUFFIX,ton.org
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tongil.or.kr
   - DOMAIN-SUFFIX,tonicmovies.com
@@ -29476,6 +29477,7 @@ payload:
   - DOMAIN-SUFFIX,ubertags.com
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubisoft.siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,ubisoftconnect.com
   - DOMAIN-SUFFIX,ublock.org
   - DOMAIN-SUFFIX,ubn.ac.uk
@@ -31065,6 +31067,7 @@ payload:
   - DOMAIN-SUFFIX,wallpapercasa.com
   - DOMAIN-SUFFIX,wallproxy.com
   - DOMAIN-SUFFIX,wallsttv.com
+  - DOMAIN-SUFFIX,wallzhihu.com
   - DOMAIN-SUFFIX,walmart-content.com
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
