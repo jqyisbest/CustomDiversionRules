@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33739
+# Total count: 33740
 #
-# Update: 2026-02-23 02:57:26(GMT+8)
+# Update: 2026-02-24 03:36:02(GMT+8)
 #
 #==========================================================================
 payload:
@@ -29001,6 +29001,7 @@ payload:
   - DOMAIN-SUFFIX,topvids.net
   - DOMAIN-SUFFIX,topxxxpornvids.com
   - DOMAIN-SUFFIX,topyoungporn.com
+  - DOMAIN-SUFFIX,tor.eff.org
   - DOMAIN-SUFFIX,tora.to
   - DOMAIN-SUFFIX,torcidadeouro.com
   - DOMAIN-SUFFIX,torcn.com
