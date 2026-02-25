@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33740
+# Total count: 33744
 #
-# Update: 2026-02-25 03:29:02(GMT+8)
+# Update: 2026-02-26 03:30:13(GMT+8)
 #
 #==========================================================================
 payload:
@@ -11751,6 +11751,7 @@ payload:
   - DOMAIN-SUFFIX,freecodecamp.org
   - DOMAIN-SUFFIX,freedirecttvspecial.com
   - DOMAIN-SUFFIX,freedl.org
+  - DOMAIN-SUFFIX,freedom.gov
   - DOMAIN-SUFFIX,freedomchina.info
   - DOMAIN-SUFFIX,freedomcollection.org
   - DOMAIN-SUFFIX,freedomhongkong.org
@@ -19667,7 +19668,9 @@ payload:
   - DOMAIN-SUFFIX,miuipolska.pl
   - DOMAIN-SUFFIX,mixasiansex.com
   - DOMAIN-SUFFIX,mixero.com
+  - DOMAIN-SUFFIX,mixi.co.jp
   - DOMAIN-SUFFIX,mixi.jp
+  - DOMAIN-SUFFIX,mixi.net
   - DOMAIN-SUFFIX,mixin.one
   - DOMAIN-SUFFIX,mixlr.com
   - DOMAIN-SUFFIX,mixmaturesex.com
@@ -22515,6 +22518,7 @@ payload:
   - DOMAIN-SUFFIX,pachosting.com
   - DOMAIN-SUFFIX,pacifickitchenandhome.com
   - DOMAIN-SUFFIX,pacificpoker.com
+  - DOMAIN-SUFFIX,packagecloud.io
   - DOMAIN-SUFFIX,packaging-cadcam.com
   - DOMAIN-SUFFIX,packagingcadcam.com
   - DOMAIN-SUFFIX,packagist.org
