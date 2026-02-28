@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33758
+# Total count: 33759
 #
-# Update: 2026-02-28 03:06:29(GMT+8)
+# Update: 2026-03-01 02:52:33(GMT+8)
 #
 #==========================================================================
 payload:
@@ -32898,6 +32898,7 @@ payload:
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
   - DOMAIN-SUFFIX,yandexmetrica.com
+  - DOMAIN-SUFFIX,yandexwebcache.net
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
