@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33761
+# Total count: 33769
 #
-# Update: 2026-03-04 03:13:38(GMT+8)
+# Update: 2026-03-05 03:09:11(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2680,6 +2680,7 @@ payload:
   - DOMAIN-SUFFIX,area120.com
   - DOMAIN-SUFFIX,area51.to
   - DOMAIN-SUFFIX,areca-backup.org
+  - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,arena.taipei
   - DOMAIN-SUFFIX,arethusa.su
   - DOMAIN-SUFFIX,arewereadyyet.com
@@ -2742,6 +2743,7 @@ payload:
   - DOMAIN-SUFFIX,arunachalforests.gov.in
   - DOMAIN-SUFFIX,arupoc.ac.uk
   - DOMAIN-SUFFIX,arvanstorage.ir
+  - DOMAIN-SUFFIX,arweave.org
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,as-hp.ca
@@ -8452,6 +8454,7 @@ payload:
   - DOMAIN-SUFFIX,diablo3.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,diabrowser.com
+  - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,dialogflow.com
   - DOMAIN-SUFFIX,diamantewebcam.com
@@ -8759,6 +8762,7 @@ payload:
   - DOMAIN-SUFFIX,dl.begellhouse.com
   - DOMAIN-SUFFIX,dl.box.net
   - DOMAIN-SUFFIX,dl4d.ac.uk
+  - DOMAIN-SUFFIX,dlaf.jp
   - DOMAIN-SUFFIX,dlap001.xyz
   - DOMAIN-SUFFIX,dlap301.com
   - DOMAIN-SUFFIX,dldlinks.com
@@ -15342,6 +15346,7 @@ payload:
   - DOMAIN-SUFFIX,ilife.gr
   - DOMAIN-SUFFIX,ilife.wang
   - DOMAIN-SUFFIX,illawarramercury.com.au
+  - DOMAIN-SUFFIX,illgames.jp
   - DOMAIN-SUFFIX,illianacomputerrecycling.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,illusion.jp
@@ -16336,6 +16341,7 @@ payload:
   - DOMAIN-SUFFIX,janor6.net
   - DOMAIN-SUFFIX,janwongphoto.com
   - DOMAIN-SUFFIX,japan-forward.com
+  - DOMAIN-SUFFIX,japan-illgames.com
   - DOMAIN-SUFFIX,japan-whores.com
   - DOMAIN-SUFFIX,japan18tube.com
   - DOMAIN-SUFFIX,japanbeast.com
@@ -29281,6 +29287,7 @@ payload:
   - DOMAIN-SUFFIX,tt-rss.org
   - DOMAIN-SUFFIX,tt1069.com
   - DOMAIN-SUFFIX,ttc.ac.uk
+  - DOMAIN-SUFFIX,ttcdn-us.com
   - DOMAIN-SUFFIX,tte-lisa.ac.uk
   - DOMAIN-SUFFIX,tteshop.com
   - DOMAIN-SUFFIX,ttetraining.ac.uk
@@ -31788,6 +31795,7 @@ payload:
   - DOMAIN-SUFFIX,wiserd.ac.uk
   - DOMAIN-SUFFIX,wisevid.com
   - DOMAIN-SUFFIX,wish.com
+  - DOMAIN-SUFFIX,wispbyte.com
   - DOMAIN-SUFFIX,wistia.com
   - DOMAIN-SUFFIX,wistia.net
   - DOMAIN-SUFFIX,witcmi.ac.uk
