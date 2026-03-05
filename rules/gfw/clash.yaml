@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33769
+# Total count: 33770
 #
-# Update: 2026-03-05 03:09:11(GMT+8)
+# Update: 2026-03-06 03:39:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -16580,6 +16580,7 @@ payload:
   - DOMAIN-SUFFIX,jessicaturner.com
   - DOMAIN-SUFFIX,jetbra.in
   - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,jetbrains.space
