@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33769
+# Total count: 33774
 #
-# Update: 2026-03-06 03:39:10(GMT+8)
+# Update: 2026-03-07 03:06:17(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -8994,6 +8994,7 @@ DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,dowjoneson.com
 DOMAIN-SUFFIX,download.aircrack-ng.org
 DOMAIN-SUFFIX,download.com
+DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.qcpp1.net
 DOMAIN-SUFFIX,download.qpdp1.net
@@ -23345,6 +23346,10 @@ DOMAIN-SUFFIX,pleasefuck.org
 DOMAIN-SUFFIX,pleasurebabe.com
 DOMAIN-SUFFIX,pleasuregirl.net
 DOMAIN-SUFFIX,pleasuremore.com
+DOMAIN-SUFFIX,plex.com
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,plexvpn.pro
 DOMAIN-SUFFIX,plixi.com
 DOMAIN-SUFFIX,plm.org.hk
