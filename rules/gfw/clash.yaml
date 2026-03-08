@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33783
+# Total count: 33786
 #
-# Update: 2026-03-08 02:53:12(GMT+8)
+# Update: 2026-03-09 02:54:44(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2253,6 +2253,7 @@ payload:
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app-measurement.net
+  - DOMAIN-SUFFIX,app-pay.jp
   - DOMAIN-SUFFIX,app-store.wang
   - DOMAIN-SUFFIX,app.box.com
   - DOMAIN-SUFFIX,app.cloudcone.com
@@ -25453,6 +25454,7 @@ payload:
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsunghealth.com
   - DOMAIN-SUFFIX,samsungiotcloud.com
+  - DOMAIN-SUFFIX,samsungiots.com
   - DOMAIN-SUFFIX,samsungknox.com
   - DOMAIN-SUFFIX,samsungosp.com
   - DOMAIN-SUFFIX,samsungqbe.com
@@ -26698,6 +26700,7 @@ payload:
   - DOMAIN-SUFFIX,smartonesolutions.com.hk
   - DOMAIN-SUFFIX,smartonesolutions.hk
   - DOMAIN-SUFFIX,smartstream.ne.jp
+  - DOMAIN-SUFFIX,smartthings.com
   - DOMAIN-SUFFIX,smashed.xxx
   - DOMAIN-SUFFIX,smbc.co.jp
   - DOMAIN-SUFFIX,smbctb.co.jp
