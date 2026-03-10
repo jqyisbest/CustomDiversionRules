@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33789
+# Total count: 33790
 #
-# Update: 2026-03-10 03:12:38(GMT+8)
+# Update: 2026-03-11 03:11:04(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7807,6 +7807,7 @@ payload:
   - DOMAIN-SUFFIX,cuv.ac.uk
   - DOMAIN-SUFFIX,cuwm.ac.uk
   - DOMAIN-SUFFIX,cvcp.ac.uk
+  - DOMAIN-SUFFIX,cve.org
   - DOMAIN-SUFFIX,cvma.ac.uk
   - DOMAIN-SUFFIX,cvr.ac.uk
   - DOMAIN-SUFFIX,cvs.ac.uk
