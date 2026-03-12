@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33790
+# Total count: 33791
 #
-# Update: 2026-03-12 03:12:55(GMT+8)
+# Update: 2026-03-13 03:13:49(GMT+8)
 #
 #==========================================================================
 payload:
@@ -26520,6 +26520,7 @@ payload:
   - DOMAIN-SUFFIX,sinopitt.info
   - DOMAIN-SUFFIX,sinoquebec.com
   - DOMAIN-SUFFIX,sinto.ac.uk
+  - DOMAIN-SUFFIX,sinyalee.com
   - DOMAIN-SUFFIX,sip.ac.uk
   - DOMAIN-SUFFIX,sipher.ac.uk
   - DOMAIN-SUFFIX,sipml5.org
