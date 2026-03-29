@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 33833
+# Total count: 33832
 #
-# Update: 2026-03-29 03:04:18(GMT+8)
+# Update: 2026-03-30 03:06:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -25380,7 +25380,6 @@ payload:
   - DOMAIN-SUFFIX,s-nbcnews.com
   - DOMAIN-SUFFIX,s-rewards.hk
   - DOMAIN-SUFFIX,s-xoom.com
-  - DOMAIN-SUFFIX,s.rmimg.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,s.yimg.com
   - DOMAIN-SUFFIX,s1heng.com
