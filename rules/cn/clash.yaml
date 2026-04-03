@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 133723
+# Total count: 133714
 #
-# Update: 2026-04-03 03:27:25(GMT+8)
+# Update: 2026-04-04 03:08:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14230,8 +14230,6 @@ payload:
   - DOMAIN-SUFFIX,as-hls-ww-live.akamaized.net
   - DOMAIN-SUFFIX,as.mr
   - DOMAIN-SUFFIX,as01271kkp.xyz
-  - DOMAIN-SUFFIX,as01280kkp.xyz
-  - DOMAIN-SUFFIX,as01281kkp.xyz
   - DOMAIN-SUFFIX,as02010kkp.xyz
   - DOMAIN-SUFFIX,as16.com
   - DOMAIN-SUFFIX,as3f.com
@@ -34637,7 +34635,6 @@ payload:
   - DOMAIN-SUFFIX,eduzhai.net
   - DOMAIN-SUFFIX,eduzhixin.com
   - DOMAIN-SUFFIX,eduzs.net
-  - DOMAIN-SUFFIX,edvxgqx.com
   - DOMAIN-SUFFIX,edwiv.com
   - DOMAIN-SUFFIX,edxmy.cc
   - DOMAIN-SUFFIX,ee-nav.com
@@ -42740,7 +42737,6 @@ payload:
   - DOMAIN-SUFFIX,grender.com
   - DOMAIN-SUFFIX,greplay.com
   - DOMAIN-SUFFIX,grescw.com
-  - DOMAIN-SUFFIX,gretaith.com
   - DOMAIN-SUFFIX,gretf.com
   - DOMAIN-SUFFIX,greyli.com
   - DOMAIN-SUFFIX,greywolfcdn.net
@@ -76348,7 +76344,6 @@ payload:
   - DOMAIN-SUFFIX,o.pki.goog
   - DOMAIN-SUFFIX,o0-2.com
   - DOMAIN-SUFFIX,o014148q7p.com
-  - DOMAIN-SUFFIX,o02220aokk.com
   - DOMAIN-SUFFIX,o02231aokk.com
   - DOMAIN-SUFFIX,o02251aokk.com
   - DOMAIN-SUFFIX,o02260aokk.com
@@ -79996,7 +79991,6 @@ payload:
   - DOMAIN-SUFFIX,pv001.net
   - DOMAIN-SUFFIX,pv138.com
   - DOMAIN-SUFFIX,pv265.com
-  - DOMAIN-SUFFIX,pv4b.com
   - DOMAIN-SUFFIX,pvacegurmbz3e.com
   - DOMAIN-SUFFIX,pvc-diban.net
   - DOMAIN-SUFFIX,pvc123.com
@@ -99506,7 +99500,6 @@ payload:
   - DOMAIN-SUFFIX,una-ad.com
   - DOMAIN-SUFFIX,una-campaign.com
   - DOMAIN-SUFFIX,unachina.org
-  - DOMAIN-SUFFIX,unafeed.com
   - DOMAIN-SUFFIX,unaming.info
   - DOMAIN-SUFFIX,unaming.net
   - DOMAIN-SUFFIX,unbank.info
@@ -115423,7 +115416,6 @@ payload:
   - DOMAIN-SUFFIX,ywint.net
   - DOMAIN-SUFFIX,ywit.xyz
   - DOMAIN-SUFFIX,ywjinfabag.com
-  - DOMAIN-SUFFIX,ywjsgc.com
   - DOMAIN-SUFFIX,ywkefu.com
   - DOMAIN-SUFFIX,ywky.org
   - DOMAIN-SUFFIX,ywlandport.com
@@ -118354,7 +118346,6 @@ payload:
   - DOMAIN-SUFFIX,zhuchuang.club
   - DOMAIN-SUFFIX,zhudai.com
   - DOMAIN-SUFFIX,zhudianquan.com
-  - DOMAIN-SUFFIX,zhudiaosz.com
   - DOMAIN-SUFFIX,zhufaner.com
   - DOMAIN-SUFFIX,zhufangdianping.com
   - DOMAIN-SUFFIX,zhufengpeixun.com
