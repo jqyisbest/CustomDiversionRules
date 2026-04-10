@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34073
+# Total count: 34121
 #
-# Update: 2026-04-10 03:43:16(GMT+8)
+# Update: 2026-04-11 03:24:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2102,9 +2102,12 @@ payload:
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
   - DOMAIN-SUFFIX,anm.co.uk
   - DOMAIN-SUFFIX,annamilk.com
+  - DOMAIN-SUFFIX,annas-archive.gd
+  - DOMAIN-SUFFIX,annas-archive.gl
   - DOMAIN-SUFFIX,annas-archive.in
   - DOMAIN-SUFFIX,annas-archive.li
   - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pk
   - DOMAIN-SUFFIX,annas-archive.pm
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,annatam.com
@@ -5785,6 +5788,7 @@ payload:
   - DOMAIN-SUFFIX,caadoc.ac.uk
   - DOMAIN-SUFFIX,caagcc.ac.uk
   - DOMAIN-SUFFIX,caban.ac.uk
+  - DOMAIN-SUFFIX,cabconnect.org
   - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,cableav.xyz
   - DOMAIN-SUFFIX,cablegatesearch.net
@@ -5947,6 +5951,7 @@ payload:
   - DOMAIN-SUFFIX,candypleasure.com
   - DOMAIN-SUFFIX,cannington.ac.uk
   - DOMAIN-SUFFIX,cannock.ac.uk
+  - DOMAIN-SUFFIX,canny.io
   - DOMAIN-SUFFIX,canolfansgiliaucadarn.ac.uk
   - DOMAIN-SUFFIX,canolfanyramgylcheddolcymru.ac.uk
   - DOMAIN-SUFFIX,canon-cee.com
@@ -9136,6 +9141,7 @@ payload:
   - DOMAIN-SUFFIX,dri.ac.uk
   - DOMAIN-SUFFIX,dribbble.com
   - DOMAIN-SUFFIX,drindod.ac.uk
+  - DOMAIN-SUFFIX,driveawaytaxi.org
   - DOMAIN-SUFFIX,driverxxx.com
   - DOMAIN-SUFFIX,drivevideo.xyz
   - DOMAIN-SUFFIX,driving.co.uk
@@ -10117,6 +10123,9 @@ payload:
   - DOMAIN-SUFFIX,entrust.com
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
+  - DOMAIN-SUFFIX,envato-static.com
+  - DOMAIN-SUFFIX,envato.com
+  - DOMAIN-SUFFIX,envatousercontent.com
   - DOMAIN-SUFFIX,enveast.ac.uk
   - DOMAIN-SUFFIX,environment-health.ac.uk
   - DOMAIN-SUFFIX,eotarchive.org
@@ -12872,6 +12881,7 @@ payload:
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gog.qtlglb.com
   - DOMAIN-SUFFIX,gogeo.ac.uk
+  - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,gogle.com
   - DOMAIN-SUFFIX,gogo-load.com
   - DOMAIN-SUFFIX,gogoanime.vc
@@ -13281,6 +13291,7 @@ payload:
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotw.ca
   - DOMAIN-SUFFIX,gouhuo.qq.com
+  - DOMAIN-SUFFIX,goup.ai
   - DOMAIN-SUFFIX,gouri.xyz
   - DOMAIN-SUFFIX,gov.ir
   - DOMAIN-SUFFIX,gov.taipei
@@ -13705,6 +13716,7 @@ payload:
   - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,hayle.ac.uk
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
+  - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,hbg.com
@@ -16801,6 +16813,21 @@ payload:
   - DOMAIN-SUFFIX,jiuse904.com
   - DOMAIN-SUFFIX,jiuse905.com
   - DOMAIN-SUFFIX,jiuzhouyihuo.com
+  - DOMAIN-SUFFIX,jivo.chat
+  - DOMAIN-SUFFIX,jivo.ru
+  - DOMAIN-SUFFIX,jivochat.co.in
+  - DOMAIN-SUFFIX,jivochat.co.za
+  - DOMAIN-SUFFIX,jivochat.com
+  - DOMAIN-SUFFIX,jivochat.com.br
+  - DOMAIN-SUFFIX,jivochat.com.co
+  - DOMAIN-SUFFIX,jivochat.com.pe
+  - DOMAIN-SUFFIX,jivochat.com.tr
+  - DOMAIN-SUFFIX,jivochat.de
+  - DOMAIN-SUFFIX,jivochat.es
+  - DOMAIN-SUFFIX,jivochat.ng
+  - DOMAIN-SUFFIX,jivochat.ru
+  - DOMAIN-SUFFIX,jivosite.com
+  - DOMAIN-SUFFIX,jivosite.ru
   - DOMAIN-SUFFIX,jiyou520.com
   - DOMAIN-SUFFIX,jiyu-kobo.co.jp
   - DOMAIN-SUFFIX,jizzboom.com
@@ -20392,6 +20419,7 @@ payload:
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,my-magazine.me
+  - DOMAIN-SUFFIX,my-manager-account.com
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,my-proxy.com
   - DOMAIN-SUFFIX,my.pcloud.com
@@ -28052,6 +28080,7 @@ payload:
   - DOMAIN-SUFFIX,suppig.net
   - DOMAIN-SUFFIX,supply-chain.ac.uk
   - DOMAIN-SUFFIX,supplybestjerseys.com
+  - DOMAIN-SUFFIX,support-uber.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
@@ -28405,7 +28434,10 @@ payload:
   - DOMAIN-SUFFIX,tawny-peaks.com
   - DOMAIN-SUFFIX,taxel.media
   - DOMAIN-SUFFIX,taxi69.com
+  - DOMAIN-SUFFIX,taxiaid.org
   - DOMAIN-SUFFIX,taxidrivermovie.com
+  - DOMAIN-SUFFIX,taxiguru.org
+  - DOMAIN-SUFFIX,taxitax.org
   - DOMAIN-SUFFIX,tay.ac.uk
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
@@ -28799,6 +28831,7 @@ payload:
   - DOMAIN-SUFFIX,themanchestercollege.ac.uk
   - DOMAIN-SUFFIX,themarvelexperiencetour.com
   - DOMAIN-SUFFIX,themathsfactor.com
+  - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,themercury.com.au
   - DOMAIN-SUFFIX,themessengeradelaide.com.au
   - DOMAIN-SUFFIX,themilfmovies.com
@@ -30425,6 +30458,7 @@ payload:
   - DOMAIN-SUFFIX,uwtsdlondon.ac.uk
   - DOMAIN-SUFFIX,uxbridge.ac.uk
   - DOMAIN-SUFFIX,uxbridgecollege.ac.uk
+  - DOMAIN-SUFFIX,uxthemes.com
   - DOMAIN-SUFFIX,uxxxporn.com
   - DOMAIN-SUFFIX,uyghur-j.org
   - DOMAIN-SUFFIX,uyghur.co.uk
@@ -33201,11 +33235,25 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexwebcache.net
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
+  - DOMAIN-SUFFIX,yango-b2b.com
+  - DOMAIN-SUFFIX,yango-team.com
+  - DOMAIN-SUFFIX,yango-tech.com
+  - DOMAIN-SUFFIX,yango.africa
+  - DOMAIN-SUFFIX,yango.ao
+  - DOMAIN-SUFFIX,yango.bh
+  - DOMAIN-SUFFIX,yango.co.il
+  - DOMAIN-SUFFIX,yango.com
+  - DOMAIN-SUFFIX,yango.fi
+  - DOMAIN-SUFFIX,yango.qa
+  - DOMAIN-SUFFIX,yango.taxi
+  - DOMAIN-SUFFIX,yango.tech
+  - DOMAIN-SUFFIX,yangofellowship.com
   - DOMAIN-SUFFIX,yangzhi.app
   - DOMAIN-SUFFIX,yangzhi.org
   - DOMAIN-SUFFIX,yantaqu.com

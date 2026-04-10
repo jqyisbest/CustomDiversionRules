@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 133261
+# Total count: 133279
 #
-# Update: 2026-04-10 03:43:16(GMT+8)
+# Update: 2026-04-11 03:24:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13519,6 +13519,7 @@ payload:
   - DOMAIN-SUFFIX,anysql.net
   - DOMAIN-SUFFIX,anystandards.com
   - DOMAIN-SUFFIX,anytesting.com
+  - DOMAIN-SUFFIX,anytocopy.com
   - DOMAIN-SUFFIX,anyun100.com
   - DOMAIN-SUFFIX,anyunjianzhan.com
   - DOMAIN-SUFFIX,anyv.net
@@ -29794,6 +29795,7 @@ payload:
   - DOMAIN-SUFFIX,daoboime.com
   - DOMAIN-SUFFIX,daochen.com
   - DOMAIN-SUFFIX,daocloud.io
+  - DOMAIN-SUFFIX,daocloud.vip
   - DOMAIN-SUFFIX,daocloudapp.com
   - DOMAIN-SUFFIX,daodao.com
   - DOMAIN-SUFFIX,daodaojizhang.com
@@ -37570,6 +37572,7 @@ payload:
   - DOMAIN-SUFFIX,fire233.com
   - DOMAIN-SUFFIX,fire2333.com
   - DOMAIN-SUFFIX,fire24h.com
+  - DOMAIN-SUFFIX,firebase-settings.crashlytics.com
   - DOMAIN-SUFFIX,firebirdprint.com
   - DOMAIN-SUFFIX,firebit.com
   - DOMAIN-SUFFIX,firedata119.com
@@ -39513,6 +39516,7 @@ payload:
   - DOMAIN-SUFFIX,gamenow.club
   - DOMAIN-SUFFIX,gameol.com
   - DOMAIN-SUFFIX,gamepingce.com
+  - DOMAIN-SUFFIX,gamepp.com
   - DOMAIN-SUFFIX,gamer520.net
   - DOMAIN-SUFFIX,gamerboom.com
   - DOMAIN-SUFFIX,gameres.com
@@ -48883,6 +48887,7 @@ payload:
   - DOMAIN-SUFFIX,hezijia.com
   - DOMAIN-SUFFIX,hezimi.com
   - DOMAIN-SUFFIX,hezongyy.com
+  - DOMAIN-SUFFIX,hezuvip.com
   - DOMAIN-SUFFIX,hf-alu.com
   - DOMAIN-SUFFIX,hf-aw.com
   - DOMAIN-SUFFIX,hf-iflysse.com
@@ -77175,6 +77180,7 @@ payload:
   - DOMAIN-SUFFIX,osakacopyshop.com
   - DOMAIN-SUFFIX,osapublishing.org
   - DOMAIN-SUFFIX,osase.net
+  - DOMAIN-SUFFIX,osbdf.com
   - DOMAIN-SUFFIX,osbean.com
   - DOMAIN-SUFFIX,osbkj.com
   - DOMAIN-SUFFIX,osbzr.com
@@ -85746,6 +85752,7 @@ payload:
   - DOMAIN-SUFFIX,scqy100.com
   - DOMAIN-SUFFIX,scraij.com
   - DOMAIN-SUFFIX,scrape.center
+  - DOMAIN-SUFFIX,scratch5.com
   - DOMAIN-SUFFIX,scratchmirror.com
   - DOMAIN-SUFFIX,scratchmirror.net
   - DOMAIN-SUFFIX,scrc168.com
@@ -91071,6 +91078,7 @@ payload:
   - DOMAIN-SUFFIX,soulapp.me
   - DOMAIN-SUFFIX,soulgame.mobi
   - DOMAIN-SUFFIX,soulsky.net
+  - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,soulu365.com
   - DOMAIN-SUFFIX,souluo.net
   - DOMAIN-SUFFIX,souluojie.com
@@ -96411,6 +96419,7 @@ payload:
   - DOMAIN-SUFFIX,tillcn.com
   - DOMAIN-SUFFIX,tillglance.com
   - DOMAIN-SUFFIX,timanetworks.com
+  - DOMAIN-SUFFIX,timbrd.com
   - DOMAIN-SUFFIX,time-weekly.com
   - DOMAIN-SUFFIX,time-year.com
   - DOMAIN-SUFFIX,time.izatcloud.net
@@ -99613,6 +99622,7 @@ payload:
   - DOMAIN-SUFFIX,upchinapro.com
   - DOMAIN-SUFFIX,upchinaproduct.com
   - DOMAIN-SUFFIX,upd.kaspersky.com
+  - DOMAIN-SUFFIX,update.crashlytics.com
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,update1.cyou
   - DOMAIN-SUFFIX,update2.cyou
@@ -103716,6 +103726,7 @@ payload:
   - DOMAIN-SUFFIX,wilddog.com
   - DOMAIN-SUFFIX,wilddream.net
   - DOMAIN-SUFFIX,wildfire.work
+  - DOMAIN-SUFFIX,wildfirechat.net
   - DOMAIN-SUFFIX,wildgun.net
   - DOMAIN-SUFFIX,wildhorde.com
   - DOMAIN-SUFFIX,wildto.com
@@ -123324,7 +123335,10 @@ payload:
   - IP-CIDR,104.212.68.152/32
   - IP-CIDR,104.212.68.57/32
   - IP-CIDR,104.212.68.58/32
+  - IP-CIDR,104.219.211.0/24
   - IP-CIDR,104.227.65.96/28
+  - IP-CIDR,104.233.144.0/21
+  - IP-CIDR,104.233.159.0/24
   - IP-CIDR,104.237.80.0/21
   - IP-CIDR,104.27.168.0/24
   - IP-CIDR,104.28.101.0/27
@@ -123644,6 +123658,9 @@ payload:
   - IP-CIDR,106.74.0.0/15
   - IP-CIDR,106.8.0.0/15
   - IP-CIDR,106.80.0.0/12
+  - IP-CIDR,107.148.150.0/23
+  - IP-CIDR,107.148.84.0/23
+  - IP-CIDR,107.149.198.0/23
   - IP-CIDR,107.150.125.199/32
   - IP-CIDR,107.151.212.0/24
   - IP-CIDR,107.153.91.0/24
@@ -125390,6 +125407,7 @@ payload:
   - IP-CIDR,194.138.202.0/23
   - IP-CIDR,194.138.245.0/24
   - IP-CIDR,194.156.99.0/24
+  - IP-CIDR,194.231.140.0/24
   - IP-CIDR,194.45.55.8/30
   - IP-CIDR,194.50.111.48/32
   - IP-CIDR,194.50.99.48/32
@@ -127027,7 +127045,6 @@ payload:
   - IP-CIDR,218.240.0.0/13
   - IP-CIDR,218.249.0.0/16
   - IP-CIDR,218.252.0.0/17
-  - IP-CIDR,218.252.128.0/19
   - IP-CIDR,218.253.0.0/18
   - IP-CIDR,218.56.0.0/13
   - IP-CIDR,218.64.0.0/11
@@ -128163,6 +128180,7 @@ payload:
   - IP-CIDR,38.105.24.0/24
   - IP-CIDR,38.105.26.0/23
   - IP-CIDR,38.105.28.0/22
+  - IP-CIDR,38.12.3.0/24
   - IP-CIDR,38.134.56.0/24
   - IP-CIDR,38.134.58.0/23
   - IP-CIDR,38.181.0.0/19
