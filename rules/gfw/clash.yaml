@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34121
+# Total count: 34123
 #
-# Update: 2026-04-11 03:24:10(GMT+8)
+# Update: 2026-04-12 03:08:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2104,11 +2104,8 @@ payload:
   - DOMAIN-SUFFIX,annamilk.com
   - DOMAIN-SUFFIX,annas-archive.gd
   - DOMAIN-SUFFIX,annas-archive.gl
-  - DOMAIN-SUFFIX,annas-archive.in
-  - DOMAIN-SUFFIX,annas-archive.li
   - DOMAIN-SUFFIX,annas-archive.org
   - DOMAIN-SUFFIX,annas-archive.pk
-  - DOMAIN-SUFFIX,annas-archive.pm
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,annatam.com
   - DOMAIN-SUFFIX,anniesland-fe.ac.uk
@@ -21865,6 +21862,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.ripe.net
   - DOMAIN-SUFFIX,ntp.se
   - DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp.time.nl
   - DOMAIN-SUFFIX,ntp.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp.tut.ac.jp
   - DOMAIN-SUFFIX,ntp.ufe.cz
@@ -21874,6 +21872,7 @@ payload:
   - DOMAIN-SUFFIX,ntp1.ntp-servers.net
   - DOMAIN-SUFFIX,ntp1.plala.or.jp
   - DOMAIN-SUFFIX,ntp1.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp1.time.nl
   - DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
   - DOMAIN-SUFFIX,ntp1.wakwak.com
@@ -21881,6 +21880,7 @@ payload:
   - DOMAIN-SUFFIX,ntp2.ntp-servers.net
   - DOMAIN-SUFFIX,ntp2.plala.or.jp
   - DOMAIN-SUFFIX,ntp2.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp2.time.nl
   - DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
   - DOMAIN-SUFFIX,ntp2.wakwak.com
@@ -21891,6 +21891,8 @@ payload:
   - DOMAIN-SUFFIX,ntp5.ntp-servers.net
   - DOMAIN-SUFFIX,ntp6.ntp-servers.net
   - DOMAIN-SUFFIX,ntp7.ntp-servers.net
+  - DOMAIN-SUFFIX,ntppool1.time.nl
+  - DOMAIN-SUFFIX,ntppool2.time.nl
   - DOMAIN-SUFFIX,ntrfun.com
   - DOMAIN-SUFFIX,ntsna.gov.tw
   - DOMAIN-SUFFIX,ntten-mg.buzz
