@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 133241
+# Total count: 133242
 #
-# Update: 2026-04-13 03:10:25(GMT+8)
+# Update: 2026-04-14 03:44:38(GMT+8)
 #
 #==========================================================================
 payload:
@@ -25025,6 +25025,7 @@ payload:
   - DOMAIN-SUFFIX,classpodcdn.com
   - DOMAIN-SUFFIX,claviercn.com
   - DOMAIN-SUFFIX,clawchat.com
+  - DOMAIN-SUFFIX,clawhub-mirror.com
   - DOMAIN-SUFFIX,clay-wangzhi.com
   - DOMAIN-SUFFIX,clayidols.com
   - DOMAIN-SUFFIX,clb6.net
