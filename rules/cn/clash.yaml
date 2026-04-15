@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 133248
+# Total count: 133252
 #
-# Update: 2026-04-15 03:46:08(GMT+8)
+# Update: 2026-04-16 03:47:00(GMT+8)
 #
 #==========================================================================
 payload:
@@ -39563,6 +39563,7 @@ payload:
   - DOMAIN-SUFFIX,gangqinxiansheng.com
   - DOMAIN-SUFFIX,gangshenglian.com
   - DOMAIN-SUFFIX,gangtise.com
+  - DOMAIN-SUFFIX,gangwan.com
   - DOMAIN-SUFFIX,gangyu.org
   - DOMAIN-SUFFIX,gangyuan.com
   - DOMAIN-SUFFIX,ganhao.vip
@@ -65324,6 +65325,7 @@ payload:
   - DOMAIN-SUFFIX,leidacj.com
   - DOMAIN-SUFFIX,leidianip.com
   - DOMAIN-SUFFIX,leigod.com
+  - DOMAIN-SUFFIX,leigodjsq.com
   - DOMAIN-SUFFIX,leihetg.com
   - DOMAIN-SUFFIX,leihuo.net
   - DOMAIN-SUFFIX,leijue.net
@@ -75258,6 +75260,7 @@ payload:
   - DOMAIN-SUFFIX,nnbdfyy.com
   - DOMAIN-SUFFIX,nnbnutritionchina.com
   - DOMAIN-SUFFIX,nnboao.com
+  - DOMAIN-SUFFIX,nnbooster.com
   - DOMAIN-SUFFIX,nnboyi.com
   - DOMAIN-SUFFIX,nnbsjyk.com
   - DOMAIN-SUFFIX,nnbtl.com
@@ -101393,6 +101396,7 @@ payload:
   - DOMAIN-SUFFIX,waibao12333.com
   - DOMAIN-SUFFIX,waibaodashi.com
   - DOMAIN-SUFFIX,waibou.com
+  - DOMAIN-SUFFIX,waifushangcheng.com
   - DOMAIN-SUFFIX,waig8.com
   - DOMAIN-SUFFIX,waigamer.com
   - DOMAIN-SUFFIX,waigf.com
