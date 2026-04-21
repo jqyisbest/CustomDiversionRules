@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 133960
+# Total count: 133967
 #
-# Update: 2026-04-21 03:37:31(GMT+8)
+# Update: 2026-04-22 03:42:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -27231,6 +27231,7 @@ payload:
   - DOMAIN-SUFFIX,concretehr.com
   - DOMAIN-SUFFIX,conda-group.com
   - DOMAIN-SUFFIX,condorchina.com
+  - DOMAIN-SUFFIX,cone-x.com
   - DOMAIN-SUFFIX,conele.com
   - DOMAIN-SUFFIX,conergas.net
   - DOMAIN-SUFFIX,conew.com
@@ -36385,6 +36386,7 @@ payload:
   - DOMAIN-SUFFIX,exhobby.com
   - DOMAIN-SUFFIX,exia.xyz
   - DOMAIN-SUFFIX,exiaoba.com
+  - DOMAIN-SUFFIX,exiliumgf.com
   - DOMAIN-SUFFIX,exinee.com
   - DOMAIN-SUFFIX,exingbao.com
   - DOMAIN-SUFFIX,exiqu.com
@@ -43600,6 +43602,7 @@ payload:
   - DOMAIN-SUFFIX,guangxizhutingqi.com
   - DOMAIN-SUFFIX,guangxunsd.com
   - DOMAIN-SUFFIX,guangya-group.com
+  - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,guangyi.net
   - DOMAIN-SUFFIX,guangyinghj.com
   - DOMAIN-SUFFIX,guangyuancare.com
@@ -58281,6 +58284,7 @@ payload:
   - DOMAIN-SUFFIX,jiangmin.com
   - DOMAIN-SUFFIX,jiangnan-group.com
   - DOMAIN-SUFFIX,jiangnanmarket.org
+  - DOMAIN-SUFFIX,jiangningwater.com
   - DOMAIN-SUFFIX,jiangongdata.com
   - DOMAIN-SUFFIX,jiangongw.com
   - DOMAIN-SUFFIX,jiangpaipinpai.com
@@ -66680,6 +66684,7 @@ payload:
   - DOMAIN-SUFFIX,lightinit.com
   - DOMAIN-SUFFIX,lightky.com
   - DOMAIN-SUFFIX,lightlygame.com
+  - DOMAIN-SUFFIX,lightmake.site
   - DOMAIN-SUFFIX,lightonus.com
   - DOMAIN-SUFFIX,lightpassport.com
   - DOMAIN-SUFFIX,lightsaber.com
@@ -94983,6 +94988,7 @@ payload:
   - DOMAIN-SUFFIX,taizibao.com
   - DOMAIN-SUFFIX,tajd.net
   - DOMAIN-SUFFIX,taji-ai.com
+  - DOMAIN-SUFFIX,tajiduo.com
   - DOMAIN-SUFFIX,takebackthegrid.org
   - DOMAIN-SUFFIX,takesend.com
   - DOMAIN-SUFFIX,takfat.com
@@ -118152,6 +118158,7 @@ payload:
   - DOMAIN-SUFFIX,zhiduopc.com
   - DOMAIN-SUFFIX,zhidx.com
   - DOMAIN-SUFFIX,zhienkeji.com
+  - DOMAIN-SUFFIX,zhiexa.com
   - DOMAIN-SUFFIX,zhifa.cc
   - DOMAIN-SUFFIX,zhifa315.com
   - DOMAIN-SUFFIX,zhifang.com

@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34614
+# Total count: 34616
 #
-# Update: 2026-04-21 03:37:31(GMT+8)
+# Update: 2026-04-22 03:42:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -19889,6 +19889,7 @@ payload:
   - DOMAIN-SUFFIX,minim.ac.uk
   - DOMAIN-SUFFIX,minimarkham.ca
   - DOMAIN-SUFFIX,minimarkham.com
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,minimoncton.ca
   - DOMAIN-SUFFIX,minimoncton.com
   - DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -26191,6 +26192,7 @@ payload:
   - DOMAIN-SUFFIX,scopic.ac.uk
   - DOMAIN-SUFFIX,scopus.com
   - DOMAIN-SUFFIX,score.ac.uk
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,scoreclassics.com
   - DOMAIN-SUFFIX,scorediscounts.club
   - DOMAIN-SUFFIX,scoregroup.com
