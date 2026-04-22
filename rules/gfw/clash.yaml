@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34616
+# Total count: 34617
 #
-# Update: 2026-04-22 03:42:27(GMT+8)
+# Update: 2026-04-23 03:44:13(GMT+8)
 #
 #==========================================================================
 payload:
@@ -15736,6 +15736,7 @@ payload:
   - DOMAIN-SUFFIX,imstagram.com
   - DOMAIN-SUFFIX,imt.ac.uk
   - DOMAIN-SUFFIX,imtagram.com
+  - DOMAIN-SUFFIX,imtintl.com
   - DOMAIN-SUFFIX,imtoken.fans
   - DOMAIN-SUFFIX,imzog.com
   - DOMAIN-SUFFIX,in-disguise.com
