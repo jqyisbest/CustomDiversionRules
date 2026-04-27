@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34632
+# Total count: 34633
 #
-# Update: 2026-04-27 03:24:47(GMT+8)
+# Update: 2026-04-28 03:51:47(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14863,6 +14863,7 @@ payload:
   - DOMAIN-SUFFIX,hrsaz.com
   - DOMAIN-SUFFIX,hrsfc.ac.uk
   - DOMAIN-SUFFIX,hrtek.ru
+  - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,hrw.org
   - DOMAIN-SUFFIX,hrweb.org
   - DOMAIN-SUFFIX,hsad.ac.uk
