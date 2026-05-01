@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 131032
+# Total count: 131042
 #
-# Update: 2026-05-01 03:53:28(GMT+8)
+# Update: 2026-05-02 03:45:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -10860,6 +10860,7 @@ payload:
   - DOMAIN-SUFFIX,abtt266.com
   - DOMAIN-SUFFIX,abublue.com
   - DOMAIN-SUFFIX,abundancen.com
+  - DOMAIN-SUFFIX,abupdate.com
   - DOMAIN-SUFFIX,abuquant.com
   - DOMAIN-SUFFIX,abusi.net
   - DOMAIN-SUFFIX,abusky.com
@@ -10910,6 +10911,7 @@ payload:
   - DOMAIN-SUFFIX,account.htcvive.com
   - DOMAIN-SUFFIX,account.lenovo.com
   - DOMAIN-SUFFIX,account.uds-sit.lenovo.com
+  - DOMAIN-SUFFIX,accountboy.com
   - DOMAIN-SUFFIX,accr.cc
   - DOMAIN-SUFFIX,accsh.org
   - DOMAIN-SUFFIX,acctdns.com
@@ -11947,6 +11949,7 @@ payload:
   - DOMAIN-SUFFIX,ailewan.com
   - DOMAIN-SUFFIX,aileyun.net
   - DOMAIN-SUFFIX,aili.com
+  - DOMAIN-SUFFIX,ailiangzhu.com
   - DOMAIN-SUFFIX,ailiao360.com
   - DOMAIN-SUFFIX,ailibang.com
   - DOMAIN-SUFFIX,ailibi.com
@@ -50258,6 +50261,7 @@ payload:
   - DOMAIN-SUFFIX,hqshuaimi.com
   - DOMAIN-SUFFIX,hqsmartcloud.com
   - DOMAIN-SUFFIX,hqsoft.cc
+  - DOMAIN-SUFFIX,hqsuntek.com
   - DOMAIN-SUFFIX,hqswuye.com
   - DOMAIN-SUFFIX,hqthw.com
   - DOMAIN-SUFFIX,hqtong.com
@@ -52385,6 +52389,7 @@ payload:
   - DOMAIN-SUFFIX,hyy99.com
   - DOMAIN-SUFFIX,hyybj.com
   - DOMAIN-SUFFIX,hyyf.net
+  - DOMAIN-SUFFIX,hyyhb.com
   - DOMAIN-SUFFIX,hyyl.net
   - DOMAIN-SUFFIX,hyyoa.com
   - DOMAIN-SUFFIX,hyypjs.com
@@ -53399,6 +53404,7 @@ payload:
   - DOMAIN-SUFFIX,icofchina.com
   - DOMAIN-SUFFIX,icomuimi.com
   - DOMAIN-SUFFIX,iconntech.com
+  - DOMAIN-SUFFIX,iconsapi.com
   - DOMAIN-SUFFIX,icoolby.com
   - DOMAIN-SUFFIX,icoonal.xyz
   - DOMAIN-SUFFIX,icoou.com
@@ -92475,6 +92481,7 @@ payload:
   - DOMAIN-SUFFIX,szzfgjj.com
   - DOMAIN-SUFFIX,szzh365.com
   - DOMAIN-SUFFIX,szzhangchu.com
+  - DOMAIN-SUFFIX,szzhangyue.com
   - DOMAIN-SUFFIX,szzhaodaxin.com
   - DOMAIN-SUFFIX,szzhijun.com
   - DOMAIN-SUFFIX,szzhuoju.com
@@ -94989,6 +94996,7 @@ payload:
   - DOMAIN-SUFFIX,tjluohuzhijia.com
   - DOMAIN-SUFFIX,tjmama.com
   - DOMAIN-SUFFIX,tjmcgc.com
+  - DOMAIN-SUFFIX,tjmenglan.com
   - DOMAIN-SUFFIX,tjmhc.com
   - DOMAIN-SUFFIX,tjmldy.com
   - DOMAIN-SUFFIX,tjmuch.com
@@ -95650,6 +95658,7 @@ payload:
   - DOMAIN-SUFFIX,topscan.com
   - DOMAIN-SUFFIX,topsedu.com
   - DOMAIN-SUFFIX,topsem.com
+  - DOMAIN-SUFFIX,topsfuture.com
   - DOMAIN-SUFFIX,topsim.cc
   - DOMAIN-SUFFIX,topsmartinfo.com
   - DOMAIN-SUFFIX,topsmt.com
@@ -98322,6 +98331,7 @@ payload:
   - DOMAIN-SUFFIX,v50307shvkaa.art
   - DOMAIN-SUFFIX,v51124-3.qpon
   - DOMAIN-SUFFIX,v51124-3a.qpon
+  - DOMAIN-SUFFIX,v51124-5.qpon
   - DOMAIN-SUFFIX,v51124.qpon
   - DOMAIN-SUFFIX,v5875.com
   - DOMAIN-SUFFIX,v5cg.com
