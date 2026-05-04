@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34634
+# Total count: 34631
 #
-# Update: 2026-05-04 03:31:10(GMT+8)
+# Update: 2026-05-05 03:58:52(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,000webhost.com
@@ -8619,6 +8619,7 @@ DOMAIN-SUFFIX,digitalhub.com
 DOMAIN-SUFFIX,digitalid.ch
 DOMAIN-SUFFIX,digitallifespan.ac.uk
 DOMAIN-SUFFIX,digitalnomadsproject.org
+DOMAIN-SUFFIX,digitalocean-ui.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,digitalpack.com
@@ -26091,9 +26092,6 @@ DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,sc1.ac.uk
 DOMAIN-SUFFIX,sca-tolo.info
 DOMAIN-SUFFIX,scaan.ac.uk
-DOMAIN-SUFFIX,scache.vzw.com
-DOMAIN-SUFFIX,scache1.vzw.com
-DOMAIN-SUFFIX,scache2.vzw.com
 DOMAIN-SUFFIX,scadr.ac.uk
 DOMAIN-SUFFIX,scae.ac.uk
 DOMAIN-SUFFIX,scala-lang.org
@@ -27806,7 +27804,6 @@ DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ss2.us
 DOMAIN-SUFFIX,ss7.app
-DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssa.gov
 DOMAIN-SUFFIX,ssdevrd.com
 DOMAIN-SUFFIX,ssees.ac.uk
