@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 129896
+# Total count: 129907
 #
-# Update: 2026-05-05 03:58:52(GMT+8)
+# Update: 2026-05-06 03:55:37(GMT+8)
 #
 #==========================================================================
 payload:
@@ -40547,6 +40547,7 @@ payload:
   - DOMAIN-SUFFIX,girlw.net
   - DOMAIN-SUFFIX,giscafer.com
   - DOMAIN-SUFFIX,giserdqy.com
+  - DOMAIN-SUFFIX,gishai.com
   - DOMAIN-SUFFIX,gispark.org
   - DOMAIN-SUFFIX,gissaas.com
   - DOMAIN-SUFFIX,gissinggroup.com
@@ -55733,6 +55734,7 @@ payload:
   - DOMAIN-SUFFIX,jcwiki.net
   - DOMAIN-SUFFIX,jcwjdg.com
   - DOMAIN-SUFFIX,jcwljt.com
+  - DOMAIN-SUFFIX,jcwpec.com
   - DOMAIN-SUFFIX,jcwxiao.com
   - DOMAIN-SUFFIX,jcxzlsgs.com
   - DOMAIN-SUFFIX,jcyad.com
@@ -56087,6 +56089,7 @@ payload:
   - DOMAIN-SUFFIX,jfyf.cc
   - DOMAIN-SUFFIX,jfyiyao.com
   - DOMAIN-SUFFIX,jfz.com
+  - DOMAIN-SUFFIX,jfzfund.com
   - DOMAIN-SUFFIX,jfzhcx.com
   - DOMAIN-SUFFIX,jfzhiyao.com
   - DOMAIN-SUFFIX,jg058.com
@@ -79196,6 +79199,7 @@ payload:
   - DOMAIN-SUFFIX,qiqjc.com
   - DOMAIN-SUFFIX,qiqu.cc
   - DOMAIN-SUFFIX,qiquanwl.com
+  - DOMAIN-SUFFIX,qiqucn.com
   - DOMAIN-SUFFIX,qiquha.com
   - DOMAIN-SUFFIX,qiqumaker.com
   - DOMAIN-SUFFIX,qiquw.info
@@ -80517,6 +80521,7 @@ payload:
   - DOMAIN-SUFFIX,qxen.com
   - DOMAIN-SUFFIX,qxfun.com
   - DOMAIN-SUFFIX,qxgcsc.com
+  - DOMAIN-SUFFIX,qxgnop0428151.luxe
   - DOMAIN-SUFFIX,qxhospital.com
   - DOMAIN-SUFFIX,qxhqxh.com
   - DOMAIN-SUFFIX,qxioqq4283.vip
@@ -92309,6 +92314,7 @@ payload:
   - DOMAIN-SUFFIX,tc9011.com
   - DOMAIN-SUFFIX,tc911.vip
   - DOMAIN-SUFFIX,tc930.com
+  - DOMAIN-SUFFIX,tcair.com
   - DOMAIN-SUFFIX,tcbqcloud.com
   - DOMAIN-SUFFIX,tccfjt.com
   - DOMAIN-SUFFIX,tccrtzyxgs.com
@@ -101260,6 +101266,7 @@ payload:
   - DOMAIN-SUFFIX,wjtr.com
   - DOMAIN-SUFFIX,wjttl.com
   - DOMAIN-SUFFIX,wjtzyg.com
+  - DOMAIN-SUFFIX,wjwai.com
   - DOMAIN-SUFFIX,wjwuqiang.com
   - DOMAIN-SUFFIX,wjx.com
   - DOMAIN-SUFFIX,wjx.top
@@ -102204,6 +102211,7 @@ payload:
   - DOMAIN-SUFFIX,wuhanyushidai.com
   - DOMAIN-SUFFIX,wuhanzhenye.com
   - DOMAIN-SUFFIX,wuhao13.xin
+  - DOMAIN-SUFFIX,wuhema.com
   - DOMAIN-SUFFIX,wuhexxg.com
   - DOMAIN-SUFFIX,wuhongsheng.com
   - DOMAIN-SUFFIX,wuht.net
@@ -103961,6 +103969,7 @@ payload:
   - DOMAIN-SUFFIX,xianxiadao.net
   - DOMAIN-SUFFIX,xianxiazhuanjz.com
   - DOMAIN-SUFFIX,xianxueba.com
+  - DOMAIN-SUFFIX,xianxwzj.com
   - DOMAIN-SUFFIX,xianyang888.com
   - DOMAIN-SUFFIX,xianyer.com
   - DOMAIN-SUFFIX,xianyongyong.com
@@ -105459,6 +105468,7 @@ payload:
   - DOMAIN-SUFFIX,xiyousdk.com
   - DOMAIN-SUFFIX,xiyouwebgame.com
   - DOMAIN-SUFFIX,xiyouxi.com
+  - DOMAIN-SUFFIX,xiyouyingyu.com
   - DOMAIN-SUFFIX,xiyuanshuke.com
   - DOMAIN-SUFFIX,xiyuege.com
   - DOMAIN-SUFFIX,xiyuegr.com
@@ -106161,7 +106171,6 @@ payload:
   - DOMAIN-SUFFIX,xn--xkr190gv5p.com
   - DOMAIN-SUFFIX,xn--xkr999cp4fv97a.com
   - DOMAIN-SUFFIX,xn--xkrs9ba41r.com
-  - DOMAIN-SUFFIX,xn--xxv969f.xn--ses554g
   - DOMAIN-SUFFIX,xn--y6q834d2k3al4h.com
   - DOMAIN-SUFFIX,xn--y8jhmm6gn.moe
   - DOMAIN-SUFFIX,xn--ygtp21bwyedsq.com
@@ -106218,6 +106227,7 @@ payload:
   - DOMAIN-SUFFIX,xnytjt.com
   - DOMAIN-SUFFIX,xnzjxx.com
   - DOMAIN-SUFFIX,xnzn.net
+  - DOMAIN-SUFFIX,xnzxjy.com
   - DOMAIN-SUFFIX,xnzxyy.com
   - DOMAIN-SUFFIX,xnzyyy.com
   - DOMAIN-SUFFIX,xo58tjrol4.work
@@ -117397,6 +117407,7 @@ payload:
   - DOMAIN-SUFFIX,zysd.work
   - DOMAIN-SUFFIX,zyskys.com
   - DOMAIN-SUFFIX,zysljhslt.com
+  - DOMAIN-SUFFIX,zysn.net
   - DOMAIN-SUFFIX,zysou.com
   - DOMAIN-SUFFIX,zystarlink.com
   - DOMAIN-SUFFIX,zyswsb.com
