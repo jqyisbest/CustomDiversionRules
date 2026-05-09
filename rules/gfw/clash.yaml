@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34754
+# Total count: 34755
 #
-# Update: 2026-05-09 03:48:52(GMT+8)
+# Update: 2026-05-10 03:37:55(GMT+8)
 #
 #==========================================================================
 payload:
@@ -31737,6 +31737,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.com.tr
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
+  - DOMAIN-SUFFIX,vodafone.nl
   - DOMAIN-SUFFIX,voddazn
   - DOMAIN-SUFFIX,voicettank.org
   - DOMAIN-SUFFIX,voila.ac.uk
