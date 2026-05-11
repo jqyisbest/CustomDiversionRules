@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34765
+# Total count: 34769
 #
-# Update: 2026-05-11 03:37:32(GMT+8)
+# Update: 2026-05-12 04:10:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -8124,6 +8124,7 @@ payload:
   - DOMAIN-SUFFIX,data.com
   - DOMAIN-SUFFIX,data.flurry.com
   - DOMAIN-SUFFIX,data.gov.tw
+  - DOMAIN-SUFFIX,data18.com
   - DOMAIN-SUFFIX,databank.worldbank.org
   - DOMAIN-SUFFIX,datacloudmy.com
   - DOMAIN-SUFFIX,dataframeworks.com
@@ -9293,6 +9294,7 @@ payload:
   - DOMAIN-SUFFIX,dswz88.xyz
   - DOMAIN-SUFFIX,dsyiren.com
   - DOMAIN-SUFFIX,dt-toolkit.ac.uk
+  - DOMAIN-SUFFIX,dt18.com
   - DOMAIN-SUFFIX,dtc-online.ac.uk
   - DOMAIN-SUFFIX,dtci.co
   - DOMAIN-SUFFIX,dtci.technology
@@ -12671,6 +12673,7 @@ payload:
   - DOMAIN-SUFFIX,gettyimages.us
   - DOMAIN-SUFFIX,getuploader.com
   - DOMAIN-SUFFIX,getws1.com
+  - DOMAIN-SUFFIX,getwsj.com
   - DOMAIN-SUFFIX,getwsone.com
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,gfacecbook.com
@@ -16781,6 +16784,7 @@ payload:
   - DOMAIN-SUFFIX,javdove.com
   - DOMAIN-SUFFIX,javdove8.xyz
   - DOMAIN-SUFFIX,javextreme.net
+  - DOMAIN-SUFFIX,javfc2.xyz
   - DOMAIN-SUFFIX,javfilms.com
   - DOMAIN-SUFFIX,javfinder.ai
   - DOMAIN-SUFFIX,javfor.me
