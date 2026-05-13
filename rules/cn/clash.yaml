@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 128428
+# Total count: 128429
 #
-# Update: 2026-05-13 04:11:58(GMT+8)
+# Update: 2026-05-14 04:14:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2364,7 +2364,6 @@ payload:
   - DOMAIN-SUFFIX,178871.xyz
   - DOMAIN-SUFFIX,17888.com
   - DOMAIN-SUFFIX,178du.com
-  - DOMAIN-SUFFIX,178gg.com
   - DOMAIN-SUFFIX,178hui.com
   - DOMAIN-SUFFIX,178linux.com
   - DOMAIN-SUFFIX,178rw.com
@@ -36742,6 +36741,7 @@ payload:
   - DOMAIN-SUFFIX,fmwhahaha.com
   - DOMAIN-SUFFIX,fmy90.com
   - DOMAIN-SUFFIX,fmyunlv.com
+  - DOMAIN-SUFFIX,fn-link.com
   - DOMAIN-SUFFIX,fn-mart.com
   - DOMAIN-SUFFIX,fn-tech.com
   - DOMAIN-SUFFIX,fn010.com
@@ -37043,6 +37043,7 @@ payload:
   - DOMAIN-SUFFIX,fqnovelpic.com
   - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,fqnovelvod.com
+  - DOMAIN-SUFFIX,fqopenplatform.com
   - DOMAIN-SUFFIX,fqpai.com
   - DOMAIN-SUFFIX,fqrsw.com
   - DOMAIN-SUFFIX,fquwcs3089.vip
@@ -48045,7 +48046,6 @@ payload:
   - DOMAIN-SUFFIX,hmtgo.com
   - DOMAIN-SUFFIX,hmting.com
   - DOMAIN-SUFFIX,hmtnew.com
-  - DOMAIN-SUFFIX,hmtoday.com
   - DOMAIN-SUFFIX,hmtrhf.com
   - DOMAIN-SUFFIX,hmus.net
   - DOMAIN-SUFFIX,hmwdj.com
@@ -69012,6 +69012,7 @@ payload:
   - DOMAIN-SUFFIX,moa06240ju.com
   - DOMAIN-SUFFIX,moa06250ju.com
   - DOMAIN-SUFFIX,moage.com
+  - DOMAIN-SUFFIX,moark.com
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,mob55.com
   - DOMAIN-SUFFIX,mobaders.com
@@ -80113,7 +80114,6 @@ payload:
   - DOMAIN-SUFFIX,reasonclub.com
   - DOMAIN-SUFFIX,rebang.today
   - DOMAIN-SUFFIX,rebatesme.com
-  - DOMAIN-SUFFIX,rebdy.com
   - DOMAIN-SUFFIX,rebo-group.com
   - DOMAIN-SUFFIX,recaptcha-cn.net
   - DOMAIN-SUFFIX,recaptcha.net
@@ -92122,6 +92122,7 @@ payload:
   - DOMAIN-SUFFIX,theorychina.org
   - DOMAIN-SUFFIX,thepeak.com.my
   - DOMAIN-SUFFIX,thepoemforyou.com
+  - DOMAIN-SUFFIX,thepoizon.ru
   - DOMAIN-SUFFIX,thepredictivemodel.com
   - DOMAIN-SUFFIX,thepresidentialhotel.com
   - DOMAIN-SUFFIX,thepuli.com
