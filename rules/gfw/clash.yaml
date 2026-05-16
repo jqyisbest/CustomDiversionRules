@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34857
+# Total count: 34858
 #
-# Update: 2026-05-16 03:56:46(GMT+8)
+# Update: 2026-05-17 03:36:53(GMT+8)
 #
 #==========================================================================
 payload:
@@ -32131,6 +32131,7 @@ payload:
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,vultryhw.com
   - DOMAIN-SUFFIX,vuvuzela.io
+  - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,vxnbbrs.xyz
   - DOMAIN-SUFFIX,vxxsred.xyz
   - DOMAIN-SUFFIX,vyprvpn.com
