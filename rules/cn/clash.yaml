@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 128347
+# Total count: 128358
 #
-# Update: 2026-05-17 03:36:53(GMT+8)
+# Update: 2026-05-18 03:42:20(GMT+8)
 #
 #==========================================================================
 payload:
@@ -20820,6 +20820,7 @@ payload:
   - DOMAIN-SUFFIX,cdt-md.com
   - DOMAIN-SUFFIX,cdt-re.com
   - DOMAIN-SUFFIX,cdtcxh.org
+  - DOMAIN-SUFFIX,cdthunder.com
   - DOMAIN-SUFFIX,cdtianda.com
   - DOMAIN-SUFFIX,cdtkdw.com
   - DOMAIN-SUFFIX,cdtlev.com
@@ -29855,6 +29856,7 @@ payload:
   - DOMAIN-SUFFIX,dfzxvip.com
   - DOMAIN-SUFFIX,dfzyxy.net
   - DOMAIN-SUFFIX,dg-360lhx.com
+  - DOMAIN-SUFFIX,dg-dn.com
   - DOMAIN-SUFFIX,dg-dns.com
   - DOMAIN-SUFFIX,dg-dx.com
   - DOMAIN-SUFFIX,dg-hanxin.com
@@ -39049,6 +39051,7 @@ payload:
   - DOMAIN-SUFFIX,geedu.com
   - DOMAIN-SUFFIX,geeetech.com
   - DOMAIN-SUFFIX,geeeu.com
+  - DOMAIN-SUFFIX,geeflex.com
   - DOMAIN-SUFFIX,geehy.com
   - DOMAIN-SUFFIX,geejing.com
   - DOMAIN-SUFFIX,geek-docs.com
@@ -47412,7 +47415,6 @@ payload:
   - DOMAIN-SUFFIX,hid98ys.com
   - DOMAIN-SUFFIX,hidery.com
   - DOMAIN-SUFFIX,hidesigncloud.com
-  - DOMAIN-SUFFIX,hidist.com
   - DOMAIN-SUFFIX,hiditie.com
   - DOMAIN-SUFFIX,hidna.net
   - DOMAIN-SUFFIX,hidreamai.com
@@ -51726,6 +51728,7 @@ payload:
   - DOMAIN-SUFFIX,i5p.com
   - DOMAIN-SUFFIX,i5sto.com
   - DOMAIN-SUFFIX,i5tea.com
+  - DOMAIN-SUFFIX,i5zhen.com
   - DOMAIN-SUFFIX,i66wan.com
   - DOMAIN-SUFFIX,i6879.com
   - DOMAIN-SUFFIX,i72.com
@@ -56800,6 +56803,7 @@ payload:
   - DOMAIN-SUFFIX,jiupaicom.com
   - DOMAIN-SUFFIX,jiupainews.com
   - DOMAIN-SUFFIX,jiupaipay.com
+  - DOMAIN-SUFFIX,jiuphone.com
   - DOMAIN-SUFFIX,jiuq.com
   - DOMAIN-SUFFIX,jiuqianwan.group
   - DOMAIN-SUFFIX,jiuqianwanjituan.com
@@ -78686,6 +78690,7 @@ payload:
   - DOMAIN-SUFFIX,qrmanhua.com
   - DOMAIN-SUFFIX,qrobot.com
   - DOMAIN-SUFFIX,qrprt.com
+  - DOMAIN-SUFFIX,qrstuvwxyzab.com
   - DOMAIN-SUFFIX,qrtest.com
   - DOMAIN-SUFFIX,qrtz.co
   - DOMAIN-SUFFIX,qrx.cc
@@ -98939,6 +98944,7 @@ payload:
   - DOMAIN-SUFFIX,wetestlab.net
   - DOMAIN-SUFFIX,wetherm.com
   - DOMAIN-SUFFIX,weti.me
+  - DOMAIN-SUFFIX,wetimetech.com
   - DOMAIN-SUFFIX,weton.net
   - DOMAIN-SUFFIX,wetools.com
   - DOMAIN-SUFFIX,wetools.pro
@@ -99835,6 +99841,7 @@ payload:
   - DOMAIN-SUFFIX,witintech.com
   - DOMAIN-SUFFIX,witkeyschool.com
   - DOMAIN-SUFFIX,witmart.net
+  - DOMAIN-SUFFIX,witmem.com
   - DOMAIN-SUFFIX,witnew.net
   - DOMAIN-SUFFIX,witontek.com
   - DOMAIN-SUFFIX,witrn.com
@@ -103326,6 +103333,7 @@ payload:
   - DOMAIN-SUFFIX,xinda-bio.com
   - DOMAIN-SUFFIX,xindachem.com
   - DOMAIN-SUFFIX,xindalawyer.com
+  - DOMAIN-SUFFIX,xindao6.com
   - DOMAIN-SUFFIX,xindaohang123.com
   - DOMAIN-SUFFIX,xindasulian.com
   - DOMAIN-SUFFIX,xinde.org
@@ -105858,6 +105866,7 @@ payload:
   - DOMAIN-SUFFIX,xyyao.com
   - DOMAIN-SUFFIX,xyyb.net
   - DOMAIN-SUFFIX,xyybs.com
+  - DOMAIN-SUFFIX,xyydedge.com
   - DOMAIN-SUFFIX,xyydnode.com
   - DOMAIN-SUFFIX,xyyh.xyz
   - DOMAIN-SUFFIX,xyyjxxjsyxgs.com
@@ -106315,6 +106324,7 @@ payload:
   - DOMAIN-SUFFIX,yanjinews.com
   - DOMAIN-SUFFIX,yanjiubaogao.com
   - DOMAIN-SUFFIX,yanjiuchubanshe.com
+  - DOMAIN-SUFFIX,yanjiwangluo.com
   - DOMAIN-SUFFIX,yanjob.com
   - DOMAIN-SUFFIX,yanjun7858.com
   - DOMAIN-SUFFIX,yanjunbo.com
@@ -108512,6 +108522,7 @@ payload:
   - DOMAIN-SUFFIX,ymxinxi.com
   - DOMAIN-SUFFIX,ymxlass.com
   - DOMAIN-SUFFIX,ymyun.com
+  - DOMAIN-SUFFIX,ymyw.net
   - DOMAIN-SUFFIX,ymyxsw.com
   - DOMAIN-SUFFIX,ymzer.com
   - DOMAIN-SUFFIX,ymzsl.com
