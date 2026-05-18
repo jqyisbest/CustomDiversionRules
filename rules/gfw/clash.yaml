@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34859
+# Total count: 34861
 #
-# Update: 2026-05-18 03:42:20(GMT+8)
+# Update: 2026-05-19 04:08:16(GMT+8)
 #
 #==========================================================================
 payload:
@@ -27130,6 +27130,7 @@ payload:
   - DOMAIN-SUFFIX,side.ac.uk
   - DOMAIN-SUFFIX,sidelinesnews.com
   - DOMAIN-SUFFIX,sidelinessportseatery.com
+  - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,sie.ac.uk
   - DOMAIN-SUFFIX,siege-amazon.com
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org
@@ -34586,6 +34587,7 @@ payload:
   - DOMAIN-SUFFIX,zhangboli.net
   - DOMAIN-SUFFIX,zhangboz1.xyz
   - DOMAIN-SUFFIX,zhangtianliang.com
+  - DOMAIN-SUFFIX,zhangzhehan.net
   - DOMAIN-SUFFIX,zhanlve.org
   - DOMAIN-SUFFIX,zhao.1984.city
   - DOMAIN-SUFFIX,zhenghui.org
