@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34880
+# Total count: 34883
 #
-# Update: 2026-05-20 04:09:12(GMT+8)
+# Update: 2026-05-21 04:31:54(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1595,6 +1595,7 @@ payload:
   - DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk
   - DOMAIN-SUFFIX,alexanderstreet.com
   - DOMAIN-SUFFIX,alexlur.org
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
@@ -29024,6 +29025,8 @@ payload:
   - DOMAIN-SUFFIX,teamamericany.com
   - DOMAIN-SUFFIX,teamneedforspeed.com
   - DOMAIN-SUFFIX,teamskeet.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,teamviewer.us
   - DOMAIN-SUFFIX,teamwork.ac.uk
