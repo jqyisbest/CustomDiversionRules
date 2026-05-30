@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34930
+# Total count: 34933
 #
-# Update: 2026-05-30 04:40:02(GMT+8)
+# Update: 2026-05-31 03:46:03(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2783,6 +2783,7 @@ payload:
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,as-hp.ca
+  - DOMAIN-SUFFIX,as.mr
   - DOMAIN-SUFFIX,asacp.org
   - DOMAIN-SUFFIX,asagaku.com
   - DOMAIN-SUFFIX,asahi.com
@@ -12584,6 +12585,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,gen2.ac.uk
+  - DOMAIN-SUFFIX,gencraft.com
   - DOMAIN-SUFFIX,gendai.net
   - DOMAIN-SUFFIX,generated.photos
   - DOMAIN-SUFFIX,generationpup.ac.uk
@@ -31254,6 +31256,7 @@ payload:
   - DOMAIN-SUFFIX,vdoav.com
   - DOMAIN-SUFFIX,vecchiescopate.casa
   - DOMAIN-SUFFIX,vector.im
+  - DOMAIN-SUFFIX,veed.io
   - DOMAIN-SUFFIX,veet.at
   - DOMAIN-SUFFIX,veet.be
   - DOMAIN-SUFFIX,veet.ca
