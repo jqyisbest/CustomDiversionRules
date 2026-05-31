@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127938
+# Total count: 127950
 #
-# Update: 2026-05-31 03:46:03(GMT+8)
+# Update: 2026-06-01 03:46:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5604,6 +5604,7 @@ payload:
   - DOMAIN-SUFFIX,51cto.com
   - DOMAIN-SUFFIX,51cube.com
   - DOMAIN-SUFFIX,51cxsoft.com
+  - DOMAIN-SUFFIX,51cywx.com
   - DOMAIN-SUFFIX,51czapp.com
   - DOMAIN-SUFFIX,51dai.com
   - DOMAIN-SUFFIX,51daifu.com
@@ -14637,6 +14638,7 @@ payload:
   - DOMAIN-SUFFIX,baiccapital.com
   - DOMAIN-SUFFIX,baiccl.com
   - DOMAIN-SUFFIX,baicdnx.com
+  - DOMAIN-SUFFIX,baicebao.com
   - DOMAIN-SUFFIX,baicells.com
   - DOMAIN-SUFFIX,baicfc.com
   - DOMAIN-SUFFIX,baicheng.com
@@ -29117,6 +29119,7 @@ payload:
   - DOMAIN-SUFFIX,dd0415.net
   - DOMAIN-SUFFIX,dd0513702337fb4b.com
   - DOMAIN-SUFFIX,dd0d7e15310311.beer
+  - DOMAIN-SUFFIX,dd0ss-waf.com
   - DOMAIN-SUFFIX,dd128.com
   - DOMAIN-SUFFIX,dd2007.com
   - DOMAIN-SUFFIX,dd208.com
@@ -64535,6 +64538,7 @@ payload:
   - DOMAIN-SUFFIX,longfengmarathon.com
   - DOMAIN-SUFFIX,longfor.com
   - DOMAIN-SUFFIX,longfu360.com
+  - DOMAIN-SUFFIX,longget.com
   - DOMAIN-SUFFIX,longguanjia.so
   - DOMAIN-SUFFIX,longhoo.net
   - DOMAIN-SUFFIX,longhorn-auto.com
@@ -64732,6 +64736,7 @@ payload:
   - DOMAIN-SUFFIX,love5201314.net
   - DOMAIN-SUFFIX,love5209420.com
   - DOMAIN-SUFFIX,love85g.com
+  - DOMAIN-SUFFIX,love9w.com
   - DOMAIN-SUFFIX,loveabc.net
   - DOMAIN-SUFFIX,lovean.com
   - DOMAIN-SUFFIX,loveapp.com
@@ -68262,6 +68267,7 @@ payload:
   - DOMAIN-SUFFIX,miniluck.com
   - DOMAIN-SUFFIX,minimaituan.com
   - DOMAIN-SUFFIX,minimax.chat
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,minimaxi.com
   - DOMAIN-SUFFIX,mining120.com
   - DOMAIN-SUFFIX,mininglamp.com
@@ -72842,6 +72848,7 @@ payload:
   - DOMAIN-SUFFIX,nvcong.com
   - DOMAIN-SUFFIX,nvgate16.nvidia.com
   - DOMAIN-SUFFIX,nvidia-china.com
+  - DOMAIN-SUFFIX,nvidia.net
   - DOMAIN-SUFFIX,nvkan.com
   - DOMAIN-SUFFIX,nvpuse.com
   - DOMAIN-SUFFIX,nvpuwo.com
@@ -80262,6 +80269,7 @@ payload:
   - DOMAIN-SUFFIX,rjs.com
   - DOMAIN-SUFFIX,rjsjmbwx.com
   - DOMAIN-SUFFIX,rjsos.com
+  - DOMAIN-SUFFIX,rjsth.uno
   - DOMAIN-SUFFIX,rjtx.net
   - DOMAIN-SUFFIX,rjty.com
   - DOMAIN-SUFFIX,rjxzjx.com
@@ -83868,6 +83876,7 @@ payload:
   - DOMAIN-SUFFIX,shenduxiyin.com
   - DOMAIN-SUFFIX,shengangzc.com
   - DOMAIN-SUFFIX,shengaohua.com
+  - DOMAIN-SUFFIX,shengaowl.com
   - DOMAIN-SUFFIX,shengbaihui.com
   - DOMAIN-SUFFIX,shengbangshenghua.com
   - DOMAIN-SUFFIX,shengbaoluo.com
@@ -86509,6 +86518,7 @@ payload:
   - DOMAIN-SUFFIX,sms18.com
   - DOMAIN-SUFFIX,sms9.net
   - DOMAIN-SUFFIX,smsbao.com
+  - DOMAIN-SUFFIX,smshj.com
   - DOMAIN-SUFFIX,smshos.com
   - DOMAIN-SUFFIX,smshx.com
   - DOMAIN-SUFFIX,smskb.com
@@ -105950,6 +105960,8 @@ payload:
   - DOMAIN-SUFFIX,yao123.com
   - DOMAIN-SUFFIX,yao51.com
   - DOMAIN-SUFFIX,yaobo.net
+  - DOMAIN-SUFFIX,yaobw18.com
+  - DOMAIN-SUFFIX,yaobx18.com
   - DOMAIN-SUFFIX,yaocai.com
   - DOMAIN-SUFFIX,yaocaicang.com
   - DOMAIN-SUFFIX,yaocaizhongzi.com

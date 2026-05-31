@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34933
+# Total count: 34935
 #
-# Update: 2026-05-31 03:46:03(GMT+8)
+# Update: 2026-06-01 03:46:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -18397,6 +18397,7 @@ payload:
   - DOMAIN-SUFFIX,livingstream.com
   - DOMAIN-SUFFIX,livingwithmachines.ac.uk
   - DOMAIN-SUFFIX,livingyourambition.com
+  - DOMAIN-SUFFIX,livinno.org
   - DOMAIN-SUFFIX,livjm.ac.uk
   - DOMAIN-SUFFIX,livrariart.com.br
   - DOMAIN-SUFFIX,liwangyang.com
@@ -22864,6 +22865,7 @@ payload:
   - DOMAIN-SUFFIX,ooyala.com
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,op7979.com
+  - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,opdems.ac.uk
   - DOMAIN-SUFFIX,open.ac.uk
   - DOMAIN-SUFFIX,open.com.hk
