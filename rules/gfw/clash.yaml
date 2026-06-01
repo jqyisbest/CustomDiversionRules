@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34935
+# Total count: 34938
 #
-# Update: 2026-06-01 03:46:26(GMT+8)
+# Update: 2026-06-02 05:45:45(GMT+8)
 #
 #==========================================================================
 payload:
@@ -33331,8 +33331,11 @@ payload:
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
   - DOMAIN-SUFFIX,xhot.pro
+  - DOMAIN-SUFFIX,xhpingcdn.com
   - DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN-SUFFIX,xhub.tv
   - DOMAIN-SUFFIX,xianba.net
   - DOMAIN-SUFFIX,xianchawang.net
