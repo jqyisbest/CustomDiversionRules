@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 34938
+# Total count: 34940
 #
-# Update: 2026-06-02 05:45:45(GMT+8)
+# Update: 2026-06-03 05:26:44(GMT+8)
 #
 #==========================================================================
 payload:
@@ -12671,6 +12671,7 @@ payload:
   - DOMAIN-SUFFIX,getmdl.io
   - DOMAIN-SUFFIX,getnews.jp
   - DOMAIN-SUFFIX,getoutline.org
+  - DOMAIN-SUFFIX,getpaint.net
   - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,getporn.tv
   - DOMAIN-SUFFIX,getpricetag.com
@@ -23226,6 +23227,7 @@ payload:
   - DOMAIN-SUFFIX,paimon.moe
   - DOMAIN-SUFFIX,painfulpussytortures.com
   - DOMAIN-SUFFIX,painnovel.com
+  - DOMAIN-SUFFIX,paint.net
   - DOMAIN-SUFFIX,paipal.com
   - DOMAIN-SUFFIX,paipancon.com
   - DOMAIN-SUFFIX,paisapay.cc
