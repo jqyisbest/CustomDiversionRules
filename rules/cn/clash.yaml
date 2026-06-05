@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127780
+# Total count: 127781
 #
-# Update: 2026-06-05 04:28:53(GMT+8)
+# Update: 2026-06-06 04:20:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -61224,6 +61224,7 @@ payload:
   - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames-global.com
   - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kurokingdom.com
   - DOMAIN-SUFFIX,kuroko.info
   - DOMAIN-SUFFIX,kurz-sh.com

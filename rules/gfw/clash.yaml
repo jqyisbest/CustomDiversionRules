@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35118
+# Total count: 35114
 #
-# Update: 2026-06-05 04:28:53(GMT+8)
+# Update: 2026-06-06 04:20:10(GMT+8)
 #
 #==========================================================================
 payload:
@@ -8603,7 +8603,6 @@ payload:
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,developebp.ac.uk
   - DOMAIN-SUFFIX,developer-advisor.com
-  - DOMAIN-SUFFIX,developer.allizom.org
   - DOMAIN-SUFFIX,developers.box.net
   - DOMAIN-SUFFIX,developria.com
   - DOMAIN-SUFFIX,deviantart.com
@@ -19457,10 +19456,7 @@ payload:
   - DOMAIN-SUFFIX,mdbankpublic.com
   - DOMAIN-SUFFIX,mdhcdn.com
   - DOMAIN-SUFFIX,mdialog.com
-  - DOMAIN-SUFFIX,mdn.allizom.net
   - DOMAIN-SUFFIX,mdn.dev
-  - DOMAIN-SUFFIX,mdn.mozillademos.org
-  - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
   - DOMAIN-SUFFIX,mdnplay.dev
   - DOMAIN-SUFFIX,mdnyalp.dev
