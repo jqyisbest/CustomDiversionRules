@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35114
+# Total count: 35117
 #
-# Update: 2026-06-06 04:20:10(GMT+8)
+# Update: 2026-06-07 03:50:39(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7070,6 +7070,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clb.org.hk
@@ -28857,6 +28858,7 @@ payload:
   - DOMAIN-SUFFIX,suxib.com
   - DOMAIN-SUFFIX,suxiebu.com
   - DOMAIN-SUFFIX,suyangg.com
+  - DOMAIN-SUFFIX,suyingtv.com
   - DOMAIN-SUFFIX,suzuri.jp
   - DOMAIN-SUFFIX,svaboda.org
   - DOMAIN-SUFFIX,svc.ms
@@ -33222,6 +33224,7 @@ payload:
   - DOMAIN-SUFFIX,wp-themes.com
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,wpoforum.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wqe.ac.uk
