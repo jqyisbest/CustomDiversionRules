@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127659
+# Total count: 127661
 #
-# Update: 2026-06-07 03:50:39(GMT+8)
+# Update: 2026-06-08 03:52:13(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13222,7 +13222,6 @@ payload:
   - DOMAIN-SUFFIX,app86.com
   - DOMAIN-SUFFIX,app887.com
   - DOMAIN-SUFFIX,appadhoc.com
-  - DOMAIN-SUFFIX,appadhoc.net
   - DOMAIN-SUFFIX,apparest.com
   - DOMAIN-SUFFIX,appbi.com
   - DOMAIN-SUFFIX,appbk.com
@@ -67501,6 +67500,7 @@ payload:
   - DOMAIN-SUFFIX,mfsj1908.com
   - DOMAIN-SUFFIX,mftianshanam.com
   - DOMAIN-SUFFIX,mftvideo.com
+  - DOMAIN-SUFFIX,mfuns.net
   - DOMAIN-SUFFIX,mfunz.com
   - DOMAIN-SUFFIX,mfwxpay.com
   - DOMAIN-SUFFIX,mfxlawyer.com
@@ -71201,6 +71201,7 @@ payload:
   - DOMAIN-SUFFIX,nio.com
   - DOMAIN-SUFFIX,nio08310lt.com
   - DOMAIN-SUFFIX,nioapis.com
+  - DOMAIN-SUFFIX,niohome.com
   - DOMAIN-SUFFIX,niozhr.com
   - DOMAIN-SUFFIX,niparts.com
   - DOMAIN-SUFFIX,nipei.com
@@ -110901,6 +110902,7 @@ payload:
   - DOMAIN-SUFFIX,zedyer.com
   - DOMAIN-SUFFIX,zeedao.com
   - DOMAIN-SUFFIX,zeehoev.com
+  - DOMAIN-SUFFIX,zeekrgroup.com
   - DOMAIN-SUFFIX,zeekrlife.com
   - DOMAIN-SUFFIX,zeekrline.com
   - DOMAIN-SUFFIX,zeelis.com
