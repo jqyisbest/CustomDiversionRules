@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35161
+# Total count: 35166
 #
-# Update: 2026-06-10 04:22:16(GMT+8)
+# Update: 2026-06-11 05:04:03(GMT+8)
 #
 #==========================================================================
 payload:
@@ -15987,6 +15987,7 @@ payload:
   - DOMAIN-SUFFIX,infoglobo.com.br
   - DOMAIN-SUFFIX,infogov.ac.uk
   - DOMAIN-SUFFIX,infolinker.com.tw
+  - DOMAIN-SUFFIX,infoq.com
   - DOMAIN-SUFFIX,infoq.jp
   - DOMAIN-SUFFIX,inform25.ac.uk
   - DOMAIN-SUFFIX,information-systems.ac.uk
@@ -22599,6 +22600,7 @@ payload:
   - DOMAIN-SUFFIX,nxta.org
   - DOMAIN-SUFFIX,nxtdig.com.hk
   - DOMAIN-SUFFIX,nxtdig.com.tw
+  - DOMAIN-SUFFIX,nxtv.jp
   - DOMAIN-SUFFIX,nyaa.eu
   - DOMAIN-SUFFIX,nyaa.net
   - DOMAIN-SUFFIX,nyaa.si
@@ -31047,6 +31049,9 @@ payload:
   - DOMAIN-SUFFIX,understanding-inequalities.ac.uk
   - DOMAIN-SUFFIX,understandingsociety.ac.uk
   - DOMAIN-SUFFIX,underwoodammo.com
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,unfiltered.news
   - DOMAIN-SUFFIX,ungrounded.net
   - DOMAIN-SUFFIX,unholyknight.com
