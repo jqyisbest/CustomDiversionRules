@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127603
+# Total count: 127656
 #
-# Update: 2026-06-12 04:39:51(GMT+8)
+# Update: 2026-06-13 04:31:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7642,6 +7642,7 @@ payload:
   - DOMAIN-SUFFIX,698wan.com
   - DOMAIN-SUFFIX,69916666.com
   - DOMAIN-SUFFIX,699333.xyz
+  - DOMAIN-SUFFIX,6996696.xyz
   - DOMAIN-SUFFIX,69981.com
   - DOMAIN-SUFFIX,699h5.com
   - DOMAIN-SUFFIX,699pic.com
@@ -10814,6 +10815,7 @@ payload:
   - DOMAIN-SUFFIX,adxvip.com
   - DOMAIN-SUFFIX,adxwork.com
   - DOMAIN-SUFFIX,adxyun.com
+  - DOMAIN-SUFFIX,adxzoo.com
   - DOMAIN-SUFFIX,adyoc.com
   - DOMAIN-SUFFIX,adyounger.com
   - DOMAIN-SUFFIX,adyuedong.com
@@ -13861,6 +13863,7 @@ payload:
   - DOMAIN-SUFFIX,augurit.com
   - DOMAIN-SUFFIX,augustcn.com
   - DOMAIN-SUFFIX,auiou.com
+  - DOMAIN-SUFFIX,aukcl.win
   - DOMAIN-SUFFIX,aulacn.com
   - DOMAIN-SUFFIX,auldey.com
   - DOMAIN-SUFFIX,aumantruck.com
@@ -17293,6 +17296,7 @@ payload:
   - DOMAIN-SUFFIX,bjrc.com
   - DOMAIN-SUFFIX,bjrcb.com
   - DOMAIN-SUFFIX,bjrdhx.com
+  - DOMAIN-SUFFIX,bjrenze.com
   - DOMAIN-SUFFIX,bjreview.com
   - DOMAIN-SUFFIX,bjrjgj.com
   - DOMAIN-SUFFIX,bjrjtdkj.com
@@ -24015,6 +24019,7 @@ payload:
   - DOMAIN-SUFFIX,clloz.com
   - DOMAIN-SUFFIX,clmpg.com
   - DOMAIN-SUFFIX,clngaa.com
+  - DOMAIN-SUFFIX,clockin.biz
   - DOMAIN-SUFFIX,cloooud.com
   - DOMAIN-SUFFIX,cloopen.com
   - DOMAIN-SUFFIX,cloopen.net
@@ -28857,6 +28862,7 @@ payload:
   - DOMAIN-SUFFIX,dazhangfang.com
   - DOMAIN-SUFFIX,dazhangqiu.com
   - DOMAIN-SUFFIX,dazhantai.com
+  - DOMAIN-SUFFIX,dazhe.com
   - DOMAIN-SUFFIX,dazhe5.com
   - DOMAIN-SUFFIX,dazheda.com
   - DOMAIN-SUFFIX,dazhengtop.com
@@ -31337,6 +31343,7 @@ payload:
   - DOMAIN-SUFFIX,doyoo.net
   - DOMAIN-SUFFIX,doyoudo.com
   - DOMAIN-SUFFIX,doyouhike.net
+  - DOMAIN-SUFFIX,doyys.com
   - DOMAIN-SUFFIX,dozview.com
   - DOMAIN-SUFFIX,dp.deploy.akamai.com
   - DOMAIN-SUFFIX,dp.tech
@@ -34386,6 +34393,7 @@ payload:
   - DOMAIN-SUFFIX,ewtp.org
   - DOMAIN-SUFFIX,ewu.cc
   - DOMAIN-SUFFIX,ewuzhen.com
+  - DOMAIN-SUFFIX,ewytek.com
   - DOMAIN-SUFFIX,ewzqsyuc.link
   - DOMAIN-SUFFIX,ex-silver.com
   - DOMAIN-SUFFIX,ex-starch.com
@@ -43649,6 +43657,7 @@ payload:
   - DOMAIN-SUFFIX,gykgsx.com
   - DOMAIN-SUFFIX,gykqyy.com
   - DOMAIN-SUFFIX,gyljc.com
+  - DOMAIN-SUFFIX,gylmob.com
   - DOMAIN-SUFFIX,gylwgjsyxx.com
   - DOMAIN-SUFFIX,gylwyy.com
   - DOMAIN-SUFFIX,gylxq.com
@@ -51234,6 +51243,7 @@ payload:
   - DOMAIN-SUFFIX,hzyzxx.net
   - DOMAIN-SUFFIX,hzzbco.com
   - DOMAIN-SUFFIX,hzzckg.com
+  - DOMAIN-SUFFIX,hzzfcm.com
   - DOMAIN-SUFFIX,hzzfxx.com
   - DOMAIN-SUFFIX,hzzh.com
   - DOMAIN-SUFFIX,hzzhaobiao.com
@@ -60376,8 +60386,10 @@ payload:
   - DOMAIN-SUFFIX,ko0.com
   - DOMAIN-SUFFIX,koagzrxt.com
   - DOMAIN-SUFFIX,koal.com
+  - DOMAIN-SUFFIX,koala-transfer.com
   - DOMAIN-SUFFIX,koalacam.net
   - DOMAIN-SUFFIX,koalareading.com
+  - DOMAIN-SUFFIX,koalaremit.com
   - DOMAIN-SUFFIX,koalasolo.com
   - DOMAIN-SUFFIX,koba8.com
   - DOMAIN-SUFFIX,kobelco-zh.com
@@ -61096,6 +61108,7 @@ payload:
   - DOMAIN-SUFFIX,kunmingbc.com
   - DOMAIN-SUFFIX,kunmingguolv.net
   - DOMAIN-SUFFIX,kunmingkanghui.com
+  - DOMAIN-SUFFIX,kunpeng666888.com
   - DOMAIN-SUFFIX,kunpengkg.com
   - DOMAIN-SUFFIX,kunpengtn.com
   - DOMAIN-SUFFIX,kunpo.cc
@@ -61556,6 +61569,7 @@ payload:
   - DOMAIN-SUFFIX,landa-solenoid.com
   - DOMAIN-SUFFIX,landai.com
   - DOMAIN-SUFFIX,landaiwood.com
+  - DOMAIN-SUFFIX,landao.app
   - DOMAIN-SUFFIX,landbond.com
   - DOMAIN-SUFFIX,landbridge.com
   - DOMAIN-SUFFIX,landchina.com
@@ -61866,6 +61880,7 @@ payload:
   - DOMAIN-SUFFIX,laozu.com
   - DOMAIN-SUFFIX,laozuo.org
   - DOMAIN-SUFFIX,lapc.cc
+  - DOMAIN-SUFFIX,lapianpay.com
   - DOMAIN-SUFFIX,lapin365.com
   - DOMAIN-SUFFIX,laplace-semi.com
   - DOMAIN-SUFFIX,lapostea.cfd
@@ -64598,6 +64613,7 @@ payload:
   - DOMAIN-SUFFIX,loxpo.com
   - DOMAIN-SUFFIX,loyalvalleycapital.com
   - DOMAIN-SUFFIX,loyar.com
+  - DOMAIN-SUFFIX,loyea.com
   - DOMAIN-SUFFIX,loyi.net
   - DOMAIN-SUFFIX,loystnetwork.com
   - DOMAIN-SUFFIX,lp.fyi
@@ -71785,9 +71801,11 @@ payload:
   - DOMAIN-SUFFIX,nlzpy.com
   - DOMAIN-SUFFIX,nm178.net
   - DOMAIN-SUFFIX,nmb-bj.com
+  - DOMAIN-SUFFIX,nmb.best
   - DOMAIN-SUFFIX,nmbcp.com
   - DOMAIN-SUFFIX,nmbfxy.com
   - DOMAIN-SUFFIX,nmboat.com
+  - DOMAIN-SUFFIX,nmbxd.com
   - DOMAIN-SUFFIX,nmbxd1.com
   - DOMAIN-SUFFIX,nmbyh.com
   - DOMAIN-SUFFIX,nmcoo.com
@@ -72934,6 +72952,7 @@ payload:
   - DOMAIN-SUFFIX,odaily.news
   - DOMAIN-SUFFIX,odalong.com
   - DOMAIN-SUFFIX,odao.com
+  - DOMAIN-SUFFIX,odata.cc
   - DOMAIN-SUFFIX,odeasports.com
   - DOMAIN-SUFFIX,odict.net
   - DOMAIN-SUFFIX,odinichina.com
@@ -73432,6 +73451,7 @@ payload:
   - DOMAIN-SUFFIX,open189.net
   - DOMAIN-SUFFIX,openaboc.com
   - DOMAIN-SUFFIX,openadx.com
+  - DOMAIN-SUFFIX,openai-hub.com
   - DOMAIN-SUFFIX,openai.wf
   - DOMAIN-SUFFIX,openailab.com
   - DOMAIN-SUFFIX,openanolis.org
@@ -99808,6 +99828,7 @@ payload:
   - DOMAIN-SUFFIX,wozhishang.com
   - DOMAIN-SUFFIX,wozhongla.com
   - DOMAIN-SUFFIX,wozhuan.com
+  - DOMAIN-SUFFIX,wp-china-yes.net
   - DOMAIN-SUFFIX,wp-hz.com
   - DOMAIN-SUFFIX,wpan123.com
   - DOMAIN-SUFFIX,wpc.124ce.sigmacdn.net
@@ -101397,6 +101418,7 @@ payload:
   - DOMAIN-SUFFIX,xdyyws.com
   - DOMAIN-SUFFIX,xdzhsw.com
   - DOMAIN-SUFFIX,xdzu.net
+  - DOMAIN-SUFFIX,xe-live.com
   - DOMAIN-SUFFIX,xed.plus
   - DOMAIN-SUFFIX,xedaojia.com
   - DOMAIN-SUFFIX,xedaojia.net
@@ -103816,7 +103838,6 @@ payload:
   - DOMAIN-SUFFIX,xn--6frz82g
   - DOMAIN-SUFFIX,xn--6kr66fp2ep1ac5edz2hy7s2wq.com
   - DOMAIN-SUFFIX,xn--6krw3qs7jl59b.com
-  - DOMAIN-SUFFIX,xn--6m1ao1qznhjja.xn--fiqz9s
   - DOMAIN-SUFFIX,xn--6oq83hzb922dnorwsomx9dzkb.com
   - DOMAIN-SUFFIX,xn--6oru97cy2o.xn--czr694b
   - DOMAIN-SUFFIX,xn--6qq986b3xl
@@ -109988,6 +110009,7 @@ payload:
   - DOMAIN-SUFFIX,yxkjlcd.com
   - DOMAIN-SUFFIX,yxkxyghx.org
   - DOMAIN-SUFFIX,yxlaba.com
+  - DOMAIN-SUFFIX,yxlady.com
   - DOMAIN-SUFFIX,yxlady.net
   - DOMAIN-SUFFIX,yxle.net
   - DOMAIN-SUFFIX,yxlele.com
@@ -117585,6 +117607,7 @@ payload:
   - IP-CIDR,104.212.68.57/32
   - IP-CIDR,104.212.68.58/32
   - IP-CIDR,104.227.65.96/28
+  - IP-CIDR,104.234.102.0/24
   - IP-CIDR,104.237.80.0/21
   - IP-CIDR,104.27.168.0/24
   - IP-CIDR,104.28.101.0/27
@@ -118665,6 +118688,7 @@ payload:
   - IP-CIDR,135.84.255.0/24
   - IP-CIDR,136.0.131.0/24
   - IP-CIDR,136.0.133.0/24
+  - IP-CIDR,136.0.59.0/24
   - IP-CIDR,136.175.177.145/32
   - IP-CIDR,137.59.59.0/24
   - IP-CIDR,137.59.88.0/22
@@ -118770,7 +118794,7 @@ payload:
   - IP-CIDR,140.255.0.0/16
   - IP-CIDR,140.75.0.0/16
   - IP-CIDR,141.11.219.0/24
-  - IP-CIDR,141.11.50.0/23
+  - IP-CIDR,141.11.51.0/24
   - IP-CIDR,142.70.0.0/16
   - IP-CIDR,142.86.0.0/16
   - IP-CIDR,143.191.188.0/22
@@ -118916,6 +118940,7 @@ payload:
   - IP-CIDR,150.242.96.0/22
   - IP-CIDR,150.248.0.0/16
   - IP-CIDR,150.255.0.0/16
+  - IP-CIDR,151.246.165.0/24
   - IP-CIDR,151.247.148.0/23
   - IP-CIDR,151.249.90.0/23
   - IP-CIDR,152.104.128.0/17
@@ -119219,7 +119244,7 @@ payload:
   - IP-CIDR,163.61.63.0/24
   - IP-CIDR,164.52.0.0/17
   - IP-CIDR,165.101.208.0/23
-  - IP-CIDR,165.101.70.0/24
+  - IP-CIDR,165.101.70.0/23
   - IP-CIDR,165.154.100.0/22
   - IP-CIDR,165.154.104.0/21
   - IP-CIDR,165.154.112.0/20
@@ -119240,6 +119265,7 @@ payload:
   - IP-CIDR,168.159.158.0/24
   - IP-CIDR,168.160.0.0/16
   - IP-CIDR,168.230.0.0/24
+  - IP-CIDR,169.40.44.0/24
   - IP-CIDR,17.127.128.0/23
   - IP-CIDR,17.127.130.0/24
   - IP-CIDR,17.235.160.0/20
@@ -119603,6 +119629,8 @@ payload:
   - IP-CIDR,188.240.211.0/25
   - IP-CIDR,188.241.80.0/24
   - IP-CIDR,188.65.16.0/22
+  - IP-CIDR,191.217.175.0/24
+  - IP-CIDR,191.222.242.0/24
   - IP-CIDR,192.102.204.0/22
   - IP-CIDR,192.11.23.0/24
   - IP-CIDR,192.11.236.0/24
@@ -119657,6 +119685,7 @@ payload:
   - IP-CIDR,194.50.111.48/32
   - IP-CIDR,194.50.99.48/32
   - IP-CIDR,194.61.237.0/25
+  - IP-CIDR,195.162.246.0/24
   - IP-CIDR,195.178.110.176/28
   - IP-CIDR,195.49.78.0/23
   - IP-CIDR,196.19.225.0/24
@@ -119697,6 +119726,9 @@ payload:
   - IP-CIDR,20.253.4.0/24
   - IP-CIDR,20.253.89.0/24
   - IP-CIDR,20.255.255.0/24
+  - IP-CIDR,200.102.183.0/24
+  - IP-CIDR,200.181.87.0/24
+  - IP-CIDR,201.24.195.0/24
   - IP-CIDR,202.0.100.0/23
   - IP-CIDR,202.0.122.0/23
   - IP-CIDR,202.0.176.0/22
@@ -121267,11 +121299,15 @@ payload:
   - IP-CIDR,211.96.0.0/13
   - IP-CIDR,212.103.62.0/24
   - IP-CIDR,212.129.128.0/17
+  - IP-CIDR,212.134.136.0/24
+  - IP-CIDR,212.134.159.0/24
+  - IP-CIDR,212.189.96.0/24
   - IP-CIDR,212.64.0.0/17
   - IP-CIDR,213.151.233.20/32
   - IP-CIDR,213.159.70.0/24
   - IP-CIDR,213.182.216.0/21
   - IP-CIDR,213.199.169.0/24
+  - IP-CIDR,213.210.55.0/24
   - IP-CIDR,213.255.231.0/24
   - IP-CIDR,216.246.39.189/32
   - IP-CIDR,216.38.170.0/23
@@ -123069,6 +123105,7 @@ payload:
   - IP-CIDR,45.127.216.0/22
   - IP-CIDR,45.127.8.0/21
   - IP-CIDR,45.131.212.0/23
+  - IP-CIDR,45.132.80.0/24
   - IP-CIDR,45.137.238.16/28
   - IP-CIDR,45.137.40.0/24
   - IP-CIDR,45.137.43.0/24
@@ -123431,6 +123468,7 @@ payload:
   - IP-CIDR,74.80.115.0/24
   - IP-CIDR,75.75.236.0/29
   - IP-CIDR,77.73.8.0/24
+  - IP-CIDR,78.105.147.0/24
   - IP-CIDR,78.105.182.0/23
   - IP-CIDR,8.128.0.0/10
   - IP-CIDR,8.208.0.0/12
@@ -123449,9 +123487,14 @@ payload:
   - IP-CIDR,85.12.7.192/28
   - IP-CIDR,85.184.245.0/24
   - IP-CIDR,85.209.40.0/22
+  - IP-CIDR,86.38.235.0/24
   - IP-CIDR,87.254.207.0/24
   - IP-CIDR,87.76.221.0/24
   - IP-CIDR,87.76.222.0/24
+  - IP-CIDR,87.83.1.0/24
+  - IP-CIDR,87.86.189.0/24
+  - IP-CIDR,88.209.226.0/24
+  - IP-CIDR,89.213.2.0/24
   - IP-CIDR,89.30.124.160/30
   - IP-CIDR,91.233.17.0/24
   - IP-CIDR,91.234.36.0/24
@@ -123917,6 +123960,15 @@ payload:
   - IP-CIDR6,2400:de80::/32
   - IP-CIDR6,2400:dee0::/32
   - IP-CIDR6,2400:e0c0::/32
+  - IP-CIDR6,2400:e3e0:aa00::/40
+  - IP-CIDR6,2400:e3e0:ab00::/41
+  - IP-CIDR6,2400:e3e0:ab80::/42
+  - IP-CIDR6,2400:e3e0:abc0::/43
+  - IP-CIDR6,2400:e3e0:abe0::/44
+  - IP-CIDR6,2400:e3e0:abf1::/48
+  - IP-CIDR6,2400:e3e0:abf2::/47
+  - IP-CIDR6,2400:e3e0:abf4::/46
+  - IP-CIDR6,2400:e3e0:abf8::/45
   - IP-CIDR6,2400:e5c0::/32
   - IP-CIDR6,2400:e680::/32
   - IP-CIDR6,2400:e7e0::/32
@@ -125968,6 +126020,7 @@ payload:
   - IP-CIDR6,2600:1f01:4814::/47
   - IP-CIDR6,2602:2a9:d10::/44
   - IP-CIDR6,2602:814:f006::/48
+  - IP-CIDR6,2602:f92a:a460::/48
   - IP-CIDR6,2602:f92a:a468::/48
   - IP-CIDR6,2602:f92a:a46d::/48
   - IP-CIDR6,2602:f92a:a47d::/48
@@ -127398,8 +127451,6 @@ payload:
   - IP-CIDR6,2a0f:1cc5:2d01::/48
   - IP-CIDR6,2a0f:1cc5:2d03::/48
   - IP-CIDR6,2a0f:1cc5:3200::/46
-  - IP-CIDR6,2a0f:1cc5:3204::/47
-  - IP-CIDR6,2a0f:1cc5:3206::/48
   - IP-CIDR6,2a0f:1cc5:3222::/48
   - IP-CIDR6,2a0f:1cc5:40::/48
   - IP-CIDR6,2a0f:1cc5:600::/47
@@ -127459,6 +127510,7 @@ payload:
   - IP-CIDR6,2a12:49c4:f400::/39
   - IP-CIDR6,2a12:49c4:f600::/40
   - IP-CIDR6,2a12:6f40:800::/37
+  - IP-CIDR6,2a12:cb41:1200::/44
   - IP-CIDR6,2a12:cb41::/44
   - IP-CIDR6,2a12:cb46::/36
   - IP-CIDR6,2a12:cb47:ffff::/48
@@ -127498,7 +127550,7 @@ payload:
   - IP-CIDR6,2a13:df85:beff:ff42::/64
   - IP-CIDR6,2a13:df87:5030::/48
   - IP-CIDR6,2a14:67c1:70::/48
-  - IP-CIDR6,2a14:67c1:74::/48
+  - IP-CIDR6,2a14:67c1:74::/47
   - IP-CIDR6,2a14:67c1:a110::/44
   - IP-CIDR6,2a14:67c1:a123::/48
   - IP-CIDR6,2a14:67c1:a125::/48
@@ -127562,6 +127614,7 @@ payload:
   - IP-CIDR6,2a14:7586:6300::/44
   - IP-CIDR6,2a14:7dc0:506::/48
   - IP-CIDR6,2a14:ae00:50::/44
+  - IP-CIDR6,2a14:c380:21::/48
   - IP-CIDR6,2c0f:f7a8:8011::/48
   - IP-CIDR6,2c0f:f7a8:8050::/48
   - IP-CIDR6,2c0f:f7a8:805f::/48

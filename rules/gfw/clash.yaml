@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35202
+# Total count: 35219
 #
-# Update: 2026-06-12 04:39:51(GMT+8)
+# Update: 2026-06-13 04:31:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -9160,6 +9160,7 @@ payload:
   - DOMAIN-SUFFIX,dot-mac.de
   - DOMAIN-SUFFIX,dot.net
   - DOMAIN-SUFFIX,dot.sb
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,dotcernpilot.info
   - DOMAIN-SUFFIX,dotdeb.org
   - DOMAIN-SUFFIX,dotfacebook.com
@@ -18470,6 +18471,8 @@ payload:
   - DOMAIN-SUFFIX,livehdcams.com
   - DOMAIN-SUFFIX,livejasmin.com
   - DOMAIN-SUFFIX,livejasminbabes.net
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,liveleak.com
   - DOMAIN-SUFFIX,livemint.com
   - DOMAIN-SUFFIX,livemodels.co
@@ -22820,6 +22823,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,olabloga.pl
@@ -31371,6 +31375,7 @@ payload:
   - DOMAIN-SUFFIX,v-has.com
   - DOMAIN-SUFFIX,v-resort.ac.uk
   - DOMAIN-SUFFIX,v.gd
+  - DOMAIN-SUFFIX,v.ps
   - DOMAIN-SUFFIX,v.roucdn
   - DOMAIN-SUFFIX,v2.help
   - DOMAIN-SUFFIX,v2.hysteria.network
@@ -31405,6 +31410,7 @@ payload:
   - DOMAIN-SUFFIX,value-domain.com
   - DOMAIN-SUFFIX,value-server.com
   - DOMAIN-SUFFIX,valuegb.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,vam.ac.uk
   - DOMAIN-SUFFIX,vamo.com
@@ -32375,6 +32381,7 @@ payload:
   - DOMAIN-SUFFIX,vpornvideos.com
   - DOMAIN-SUFFIX,vpro.com
   - DOMAIN-SUFFIX,vpro.net
+  - DOMAIN-SUFFIX,vps.hosting
   - DOMAIN-SUFFIX,vpser.net
   - DOMAIN-SUFFIX,vpsxb.net
   - DOMAIN-SUFFIX,vraiesagesse.net
@@ -33873,6 +33880,16 @@ payload:
   - DOMAIN-SUFFIX,xtapes.to
   - DOMAIN-SUFFIX,xtegvk.xyz
   - DOMAIN-SUFFIX,xteko.com
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
   - DOMAIN-SUFFIX,xtracloud.net
   - DOMAIN-SUFFIX,xtube.com
   - DOMAIN-SUFFIX,xtubebdsm.com
