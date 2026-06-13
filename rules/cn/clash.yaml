@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127656
+# Total count: 127658
 #
-# Update: 2026-06-13 04:31:41(GMT+8)
+# Update: 2026-06-14 03:58:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -12395,6 +12395,7 @@ payload:
   - DOMAIN-SUFFIX,altamob.com
   - DOMAIN-SUFFIX,altratek.com
   - DOMAIN-SUFFIX,altstory.com
+  - DOMAIN-SUFFIX,altusad.com
   - DOMAIN-SUFFIX,altxw.com
   - DOMAIN-SUFFIX,alu-ledprofile.com
   - DOMAIN-SUFFIX,aluaa.com
@@ -33373,7 +33374,6 @@ payload:
   - DOMAIN-SUFFIX,ejtsyc.com
   - DOMAIN-SUFFIX,eju.com
   - DOMAIN-SUFFIX,ejuhome.com
-  - DOMAIN-SUFFIX,ejunshi.com
   - DOMAIN-SUFFIX,ejustcn.com
   - DOMAIN-SUFFIX,ejy365.com
   - DOMAIN-SUFFIX,ek-edu.com
@@ -41372,6 +41372,7 @@ payload:
   - DOMAIN-SUFFIX,guanxian.org
   - DOMAIN-SUFFIX,guanxingyule.com
   - DOMAIN-SUFFIX,guanxingyun.com
+  - DOMAIN-SUFFIX,guanxinlab.com
   - DOMAIN-SUFFIX,guanxintec.com
   - DOMAIN-SUFFIX,guanxxg.com
   - DOMAIN-SUFFIX,guanyezipper.com
@@ -43900,6 +43901,7 @@ payload:
   - DOMAIN-SUFFIX,gzhd56.com
   - DOMAIN-SUFFIX,gzhdcs.com
   - DOMAIN-SUFFIX,gzhe.net
+  - DOMAIN-SUFFIX,gzhemera.com
   - DOMAIN-SUFFIX,gzhengdian.com
   - DOMAIN-SUFFIX,gzhengdou.com
   - DOMAIN-SUFFIX,gzheyoukeji.com
@@ -53081,6 +53083,7 @@ payload:
   - DOMAIN-SUFFIX,innoplayfun.com
   - DOMAIN-SUFFIX,innopro.cc
   - DOMAIN-SUFFIX,innos.com
+  - DOMAIN-SUFFIX,innoscience.com
   - DOMAIN-SUFFIX,innotechx.com
   - DOMAIN-SUFFIX,innotek-co.com
   - DOMAIN-SUFFIX,innotimegood.com
@@ -64325,7 +64328,6 @@ payload:
   - DOMAIN-SUFFIX,lolmax.com
   - DOMAIN-SUFFIX,lolmf.com
   - DOMAIN-SUFFIX,lolmz.com
-  - DOMAIN-SUFFIX,lolopool.com
   - DOMAIN-SUFFIX,loltmall.com
   - DOMAIN-SUFFIX,lolxy.com
   - DOMAIN-SUFFIX,lolyculture.net
@@ -65703,6 +65705,7 @@ payload:
   - DOMAIN-SUFFIX,lzmckq.com
   - DOMAIN-SUFFIX,lzmei.com
   - DOMAIN-SUFFIX,lzmljdzx.com
+  - DOMAIN-SUFFIX,lzmmob.com
   - DOMAIN-SUFFIX,lzmoyin.com
   - DOMAIN-SUFFIX,lzmun.com
   - DOMAIN-SUFFIX,lzmy123.com
@@ -72805,6 +72808,7 @@ payload:
   - DOMAIN-SUFFIX,nzygyt.com
   - DOMAIN-SUFFIX,o--o.win
   - DOMAIN-SUFFIX,o-hr.com
+  - DOMAIN-SUFFIX,o-n-e-dns.com
   - DOMAIN-SUFFIX,o-netcom.com
   - DOMAIN-SUFFIX,o-star.cc
   - DOMAIN-SUFFIX,o.pki.goog
@@ -96445,7 +96449,6 @@ payload:
   - DOMAIN-SUFFIX,vpsvsvps.com
   - DOMAIN-SUFFIX,vpszh.com
   - DOMAIN-SUFFIX,vptek.com
-  - DOMAIN-SUFFIX,vq7736.com
   - DOMAIN-SUFFIX,vqaq.com
   - DOMAIN-SUFFIX,vqjuice.com
   - DOMAIN-SUFFIX,vqq.com
@@ -103820,7 +103823,6 @@ payload:
   - DOMAIN-SUFFIX,xn--4qwqc04pn0lg9h.com
   - DOMAIN-SUFFIX,xn--4rrx74a.xn--vuq861b
   - DOMAIN-SUFFIX,xn--4xup5j.com
-  - DOMAIN-SUFFIX,xn--54q23ckxiyx0e.com
   - DOMAIN-SUFFIX,xn--54q249denfzw9a.net
   - DOMAIN-SUFFIX,xn--54q40czz0g7xp.com
   - DOMAIN-SUFFIX,xn--54qu66awkkshgsf475q.com
