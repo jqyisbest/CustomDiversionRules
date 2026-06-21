@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 114825
+# Total count: 114833
 #
-# Update: 2026-06-21 04:00:47(GMT+8)
+# Update: 2026-06-22 04:08:41(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -10190,7 +10190,6 @@ DOMAIN-SUFFIX,aa5c82aeb10271.beer
 DOMAIN-SUFFIX,aa5d.com
 DOMAIN-SUFFIX,aa65535.com
 DOMAIN-SUFFIX,aa6666.com
-DOMAIN-SUFFIX,aa67678156.com
 DOMAIN-SUFFIX,aa6f0397a3cf50d7.com
 DOMAIN-SUFFIX,aa76858896.com
 DOMAIN-SUFFIX,aa77kk.com
@@ -10394,7 +10393,6 @@ DOMAIN-SUFFIX,account-api.dji.com
 DOMAIN-SUFFIX,account.djicdn.com
 DOMAIN-SUFFIX,account.htcvive.com
 DOMAIN-SUFFIX,account.uds-sit.lenovo.com
-DOMAIN-SUFFIX,accountboy.com
 DOMAIN-SUFFIX,accr.cc
 DOMAIN-SUFFIX,accsh.org
 DOMAIN-SUFFIX,acctdns.com
@@ -14278,6 +14276,7 @@ DOMAIN-SUFFIX,b-fairy.com
 DOMAIN-SUFFIX,b-k-automation.com
 DOMAIN-SUFFIX,b-raymedia.com
 DOMAIN-SUFFIX,b.biz
+DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,b01.net
 DOMAIN-SUFFIX,b02f0d7f3745ba7c.com
 DOMAIN-SUFFIX,b041e427810281.beer
@@ -31127,6 +31126,7 @@ DOMAIN-SUFFIX,douyongtuan.com
 DOMAIN-SUFFIX,douyou100.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyuedui.com
 DOMAIN-SUFFIX,douyuex.com
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
@@ -34474,6 +34474,7 @@ DOMAIN-SUFFIX,f-dou.com
 DOMAIN-SUFFIX,f-insight.com
 DOMAIN-SUFFIX,f-stack.org
 DOMAIN-SUFFIX,f.biz
+DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,f.cx
 DOMAIN-SUFFIX,f008.com
 DOMAIN-SUFFIX,f015dfc4510292.beer
@@ -44397,6 +44398,8 @@ DOMAIN-SUFFIX,haimawan.com
 DOMAIN-SUFFIX,haimeec.com
 DOMAIN-SUFFIX,haimi.com
 DOMAIN-SUFFIX,haimian.com
+DOMAIN-SUFFIX,haimianbandstatic.com
+DOMAIN-SUFFIX,haimianyinyue.com
 DOMAIN-SUFFIX,haimin.net
 DOMAIN-SUFFIX,haimini.com
 DOMAIN-SUFFIX,haimosic.com
@@ -69555,6 +69558,7 @@ DOMAIN-SUFFIX,mysmth.net
 DOMAIN-SUFFIX,mysongktv.com
 DOMAIN-SUFFIX,mysore-yoga.com
 DOMAIN-SUFFIX,myspain.org
+DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,mysql360.com
 DOMAIN-SUFFIX,mysqlab.net
 DOMAIN-SUFFIX,myssl.com
@@ -83280,6 +83284,7 @@ DOMAIN-SUFFIX,shejiyue.com
 DOMAIN-SUFFIX,sheketiandi.com
 DOMAIN-SUFFIX,shekou.com
 DOMAIN-SUFFIX,shelive.net
+DOMAIN-SUFFIX,shell.cdn.office.net
 DOMAIN-SUFFIX,shellpub.com
 DOMAIN-SUFFIX,shellsec.com
 DOMAIN-SUFFIX,shelter-china.com
@@ -87165,6 +87170,7 @@ DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statickksmg.com
 DOMAIN-SUFFIX,statics.cc
+DOMAIN-SUFFIX,statics.teams.cdn.office.net
 DOMAIN-SUFFIX,staticsdd.com
 DOMAIN-SUFFIX,staticsoe.com
 DOMAIN-SUFFIX,staticsoem.com
@@ -96014,7 +96020,6 @@ DOMAIN-SUFFIX,vpea.ca
 DOMAIN-SUFFIX,vpgame.com
 DOMAIN-SUFFIX,vpgamecdn.com
 DOMAIN-SUFFIX,vpiaotong.com
-DOMAIN-SUFFIX,vpie.net
 DOMAIN-SUFFIX,vpimg1.com
 DOMAIN-SUFFIX,vpimg2.com
 DOMAIN-SUFFIX,vpimg3.com
@@ -100883,6 +100888,7 @@ DOMAIN-SUFFIX,xcrmyy.com
 DOMAIN-SUFFIX,xcsc.com
 DOMAIN-SUFFIX,xcstuido.com
 DOMAIN-SUFFIX,xcsyy.com
+DOMAIN-SUFFIX,xcthings.com
 DOMAIN-SUFFIX,xctmr.com
 DOMAIN-SUFFIX,xcukezmr.com
 DOMAIN-SUFFIX,xcultur.com
@@ -102321,6 +102327,7 @@ DOMAIN-SUFFIX,xinghaoyun8.com
 DOMAIN-SUFFIX,xinghejoy.com
 DOMAIN-SUFFIX,xinghengedu.com
 DOMAIN-SUFFIX,xingheoa.com
+DOMAIN-SUFFIX,xinghewanglu.com
 DOMAIN-SUFFIX,xinghuaport.com
 DOMAIN-SUFFIX,xinghuazixun.com
 DOMAIN-SUFFIX,xinghuo100.com
@@ -106237,7 +106244,6 @@ DOMAIN-SUFFIX,yidaointernational.com
 DOMAIN-SUFFIX,yidaomall.com
 DOMAIN-SUFFIX,yidaomobi.com
 DOMAIN-SUFFIX,yidaplay.com
-DOMAIN-SUFFIX,yidaweb.com
 DOMAIN-SUFFIX,yide.com
 DOMAIN-SUFFIX,yideamobile.com
 DOMAIN-SUFFIX,yidejia.com
@@ -109988,6 +109994,8 @@ DOMAIN-SUFFIX,zabxib.com
 DOMAIN-SUFFIX,zac1993.com
 DOMAIN-SUFFIX,zachina.org
 DOMAIN-SUFFIX,zack.asia
+DOMAIN-SUFFIX,zaconad.com
+DOMAIN-SUFFIX,zaconbs.com
 DOMAIN-SUFFIX,zadervice.com
 DOMAIN-SUFFIX,zaduonews.com
 DOMAIN-SUFFIX,zaecu.com
