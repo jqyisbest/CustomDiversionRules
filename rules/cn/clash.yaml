@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127162
+# Total count: 127164
 #
-# Update: 2026-06-23 05:16:49(GMT+8)
+# Update: 2026-06-24 04:28:26(GMT+8)
 #
 #==========================================================================
 payload:
@@ -53062,6 +53062,7 @@ payload:
   - DOMAIN-SUFFIX,ip192.com
   - DOMAIN-SUFFIX,ip33.com
   - DOMAIN-SUFFIX,ip3366.net
+  - DOMAIN-SUFFIX,ip3a.com
   - DOMAIN-SUFFIX,ip518.com
   - DOMAIN-SUFFIX,ip66.com
   - DOMAIN-SUFFIX,ip66.net
@@ -74466,6 +74467,7 @@ payload:
   - DOMAIN-SUFFIX,pfzhiliao.com
   - DOMAIN-SUFFIX,pg-leak.com
   - DOMAIN-SUFFIX,pg114.net
+  - DOMAIN-SUFFIX,pg245348.cc
   - DOMAIN-SUFFIX,pgbee.com
   - DOMAIN-SUFFIX,pgc.tv
   - DOMAIN-SUFFIX,pgcaststone.com
