@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35362
+# Total count: 35363
 #
-# Update: 2026-06-26 04:27:01(GMT+8)
+# Update: 2026-06-27 04:14:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7736,6 +7736,7 @@ payload:
   - DOMAIN-SUFFIX,crbug.com
   - DOMAIN-SUFFIX,crchina.org
   - DOMAIN-SUFFIX,crd-net.org
+  - DOMAIN-SUFFIX,creader.com
   - DOMAIN-SUFFIX,creaders.net
   - DOMAIN-SUFFIX,creadersnet.com
   - DOMAIN-SUFFIX,cream.ac.uk
