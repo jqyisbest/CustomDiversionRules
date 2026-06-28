@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35363
+# Total count: 35382
 #
-# Update: 2026-06-28 03:49:30(GMT+8)
+# Update: 2026-06-29 03:50:25(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1449,6 +1449,7 @@ payload:
   - DOMAIN-SUFFIX,airtunes.com
   - DOMAIN-SUFFIX,airtunes.info
   - DOMAIN-SUFFIX,airtunes.net
+  - DOMAIN-SUFFIX,airuniversity.af.edu
   - DOMAIN-SUFFIX,airvpn.org
   - DOMAIN-SUFFIX,airwatchexpress.com
   - DOMAIN-SUFFIX,airwatchqa.com
@@ -2575,6 +2576,7 @@ payload:
   - DOMAIN-SUFFIX,applereach.com
   - DOMAIN-SUFFIX,applereach.net
   - DOMAIN-SUFFIX,apples-msk.ru
+  - DOMAIN-SUFFIX,appleschoolcontent.com
   - DOMAIN-SUFFIX,applescreensavers.com
   - DOMAIN-SUFFIX,applescript.info
   - DOMAIN-SUFFIX,appleshare.info
@@ -2674,6 +2676,7 @@ payload:
   - DOMAIN-SUFFIX,apu.ac.uk
   - DOMAIN-SUFFIX,apuc-scot.ac.uk
   - DOMAIN-SUFFIX,apyle.com
+  - DOMAIN-SUFFIX,apzones.com
   - DOMAIN-SUFFIX,aqdlt.net
   - DOMAIN-SUFFIX,aqi.aqicn.org
   - DOMAIN-SUFFIX,aqmen.ac.uk
@@ -8145,6 +8148,8 @@ payload:
   - DOMAIN-SUFFIX,danbooru.donmai.us
   - DOMAIN-SUFFIX,dance-archives.ac.uk
   - DOMAIN-SUFFIX,dandalinvoa.com
+  - DOMAIN-SUFFIX,dandanplay.com
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,dandanzan.cc
   - DOMAIN-SUFFIX,danemarket.com
   - DOMAIN-SUFFIX,danilo.to
@@ -12567,6 +12572,7 @@ payload:
   - DOMAIN-SUFFIX,gate-project.com
   - DOMAIN-SUFFIX,gate.ac.uk
   - DOMAIN-SUFFIX,gate.cc
+  - DOMAIN-SUFFIX,gate.com
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,gatecoin.com
   - DOMAIN-SUFFIX,gatedata.org
@@ -14712,6 +14718,7 @@ payload:
   - DOMAIN-SUFFIX,hklft.com
   - DOMAIN-SUFFIX,hklts.org.hk
   - DOMAIN-SUFFIX,hkmap.live
+  - DOMAIN-SUFFIX,hkong.hk
   - DOMAIN-SUFFIX,hkopentv.com
   - DOMAIN-SUFFIX,hkpeanut.com
   - DOMAIN-SUFFIX,hkporn.net
@@ -17702,6 +17709,7 @@ payload:
   - DOMAIN-SUFFIX,keytransparency.com
   - DOMAIN-SUFFIX,keytransparency.foo
   - DOMAIN-SUFFIX,keytransparency.org
+  - DOMAIN-SUFFIX,kfor.com
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kgslb.com
@@ -19823,6 +19831,7 @@ payload:
   - DOMAIN-SUFFIX,mhs-relay.ac.uk
   - DOMAIN-SUFFIX,mhs.ac.uk
   - DOMAIN-SUFFIX,mhshosting.com
+  - DOMAIN-SUFFIX,mhwindow.org
   - DOMAIN-SUFFIX,mi.kochudaho.me
   - DOMAIN-SUFFIX,mi.mashiro.site
   - DOMAIN-SUFFIX,mi.nakn.jp
@@ -23765,6 +23774,7 @@ payload:
   - DOMAIN-SUFFIX,pcdvd.com.tw
   - DOMAIN-SUFFIX,pcfe.ac.uk
   - DOMAIN-SUFFIX,pcfeonline.ac.uk
+  - DOMAIN-SUFFIX,pcgamesn.com
   - DOMAIN-SUFFIX,pcgamestorrents.com
   - DOMAIN-SUFFIX,pchome.com.tw
   - DOMAIN-SUFFIX,pchomeec.tw
@@ -25876,6 +25886,7 @@ payload:
   - DOMAIN-SUFFIX,resourceshare.ac.uk
   - DOMAIN-SUFFIX,respawnbyrazer.com
   - DOMAIN-SUFFIX,restnproducts.ru
+  - DOMAIN-SUFFIX,restofworld.org
   - DOMAIN-SUFFIX,restore.ac.uk
   - DOMAIN-SUFFIX,restream-media.net
   - DOMAIN-SUFFIX,restream.ru
@@ -28212,6 +28223,7 @@ payload:
   - DOMAIN-SUFFIX,sp.cool
   - DOMAIN-SUFFIX,spa.ac.uk
   - DOMAIN-SUFFIX,spaceexplored.com
+  - DOMAIN-SUFFIX,spaceforce.mil
   - DOMAIN-SUFFIX,spacely.com.au
   - DOMAIN-SUFFIX,spacemail.com
   - DOMAIN-SUFFIX,spaces.hightail.com
@@ -28978,6 +28990,7 @@ payload:
   - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
+  - DOMAIN-SUFFIX,supremecourt.gov
   - DOMAIN-SUFFIX,suprememastertv.com
   - DOMAIN-SUFFIX,sureporn.com
   - DOMAIN-SUFFIX,surf.ac.uk
@@ -29754,6 +29767,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,theinstagramhack.com
   - DOMAIN-SUFFIX,theintelstore.com
+  - DOMAIN-SUFFIX,theintercept.com
   - DOMAIN-SUFFIX,theinternetlawschool.ac.uk
   - DOMAIN-SUFFIX,theinventionworks.com
   - DOMAIN-SUFFIX,theinventionworks.net
@@ -30454,6 +30468,7 @@ payload:
   - DOMAIN-SUFFIX,trinitylaban.ac.uk
   - DOMAIN-SUFFIX,trinitysaintdavid.ac.uk
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,tristatebmw.com
   - DOMAIN-SUFFIX,trithucvn.net
   - DOMAIN-SUFFIX,trithucvn.org
@@ -30469,6 +30484,7 @@ payload:
   - DOMAIN-SUFFIX,trs.ac.uk
   - DOMAIN-SUFFIX,trt.net.tr
   - DOMAIN-SUFFIX,trtc.com.tw
+  - DOMAIN-SUFFIX,trtworld.com
   - DOMAIN-SUFFIX,trueamateurmodels.com
   - DOMAIN-SUFFIX,trueamateurs.com
   - DOMAIN-SUFFIX,trueanal.com
@@ -30862,6 +30878,7 @@ payload:
   - DOMAIN-SUFFIX,twporn.net
   - DOMAIN-SUFFIX,twreporter.org
   - DOMAIN-SUFFIX,twskype.com
+  - DOMAIN-SUFFIX,twstalker.com
   - DOMAIN-SUFFIX,twstar.net
   - DOMAIN-SUFFIX,twt.tl
   - DOMAIN-SUFFIX,twtkr.com
@@ -32700,6 +32717,7 @@ payload:
   - DOMAIN-SUFFIX,washeng.net
   - DOMAIN-SUFFIX,washingtondcbmw.com
   - DOMAIN-SUFFIX,washingtonpost.com
+  - DOMAIN-SUFFIX,washingtontimes.com
   - DOMAIN-SUFFIX,waskucity.com
   - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,watch-ebay.org
@@ -34035,6 +34053,7 @@ payload:
   - DOMAIN-SUFFIX,xtubebdsm.com
   - DOMAIN-SUFFIX,xtubezoo.com
   - DOMAIN-SUFFIX,xu97.vip
+  - DOMAIN-SUFFIX,xuan.com.my
   - DOMAIN-SUFFIX,xuchao.net
   - DOMAIN-SUFFIX,xuchao.org
   - DOMAIN-SUFFIX,xuehua.us
