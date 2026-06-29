@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35382
+# Total count: 35383
 #
-# Update: 2026-06-29 03:50:25(GMT+8)
+# Update: 2026-06-30 04:19:21(GMT+8)
 #
 #==========================================================================
 payload:
@@ -3366,6 +3366,7 @@ payload:
   - DOMAIN-SUFFIX,axbdoll.com.tw
   - DOMAIN-SUFFIX,axept.io
   - DOMAIN-SUFFIX,axios.com
+  - DOMAIN-SUFFIX,axm-usercontent-apple.com
   - DOMAIN-SUFFIX,axureformac.com
   - DOMAIN-SUFFIX,ayabank.com
   - DOMAIN-SUFFIX,aylesbury.ac.uk
