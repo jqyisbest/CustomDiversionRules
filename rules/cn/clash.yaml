@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 127086
+# Total count: 127084
 #
-# Update: 2026-06-30 04:19:21(GMT+8)
+# Update: 2026-07-01 04:25:02(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14798,7 +14798,6 @@ payload:
   - DOMAIN-SUFFIX,balijieji.com
   - DOMAIN-SUFFIX,balimtoy.com
   - DOMAIN-SUFFIX,balingtxt.com
-  - DOMAIN-SUFFIX,balldollars.com
   - DOMAIN-SUFFIX,ballgametime.com
   - DOMAIN-SUFFIX,ballpure.com
   - DOMAIN-SUFFIX,balltv.cc
@@ -60296,7 +60295,6 @@ payload:
   - DOMAIN-SUFFIX,kschuangku.com
   - DOMAIN-SUFFIX,kscloudapi.com
   - DOMAIN-SUFFIX,ksco.cc
-  - DOMAIN-SUFFIX,kscord.com
   - DOMAIN-SUFFIX,ksdedu.com
   - DOMAIN-SUFFIX,ksdhgy.com
   - DOMAIN-SUFFIX,ksecit.com
@@ -76219,7 +76217,6 @@ payload:
   - DOMAIN-SUFFIX,qdmcxh.com
   - DOMAIN-SUFFIX,qdmm.com
   - DOMAIN-SUFFIX,qdmswx.com
-  - DOMAIN-SUFFIX,qdn4ydsg3s.com
   - DOMAIN-SUFFIX,qdnsyh.com
   - DOMAIN-SUFFIX,qdnxsyy.com
   - DOMAIN-SUFFIX,qdnzrmyy.com
@@ -118884,7 +118881,7 @@ payload:
   - IP-CIDR,175.42.0.0/15
   - IP-CIDR,175.44.0.0/16
   - IP-CIDR,175.45.176.0/24
-  - IP-CIDR,175.45.178.0/23
+  - IP-CIDR,175.45.179.0/24
   - IP-CIDR,175.46.0.0/15
   - IP-CIDR,175.48.0.0/12
   - IP-CIDR,175.64.0.0/11
@@ -119037,7 +119034,7 @@ payload:
   - IP-CIDR,185.80.200.0/22
   - IP-CIDR,185.95.100.0/22
   - IP-CIDR,186.155.200.118/32
-  - IP-CIDR,187.54.48.0/23
+  - IP-CIDR,187.54.48.0/24
   - IP-CIDR,188.131.128.0/17
   - IP-CIDR,188.190.1.0/24
   - IP-CIDR,188.190.2.0/24
@@ -126756,6 +126753,7 @@ payload:
   - IP-CIDR6,2a0a:d681:fc00::/38
   - IP-CIDR6,2a0a:d685:1ff::/48
   - IP-CIDR6,2a0a:d685:200::/47
+  - IP-CIDR6,2a0a:d685:300::/48
   - IP-CIDR6,2a0a:d687:f001::/48
   - IP-CIDR6,2a0a:d687:f004::/47
   - IP-CIDR6,2a0a:d687:f007::/48
@@ -126793,7 +126791,7 @@ payload:
   - IP-CIDR6,2a0d:2587:3502::/48
   - IP-CIDR6,2a0d:6c2:1000::/40
   - IP-CIDR6,2a0d:6c2:1600::/40
-  - IP-CIDR6,2a0e:4005:ff13::/48
+  - IP-CIDR6,2a0e:4005:ff12::/47
   - IP-CIDR6,2a0e:4005:ff20::/48
   - IP-CIDR6,2a0e:46c4:294a::/48
   - IP-CIDR6,2a0e:48c2:8c00::/38
@@ -126889,7 +126887,7 @@ payload:
   - IP-CIDR6,2a0f:1cc5:2680::/42
   - IP-CIDR6,2a0f:1cc5:2d01::/48
   - IP-CIDR6,2a0f:1cc5:2d03::/48
-  - IP-CIDR6,2a0f:1cc5:3200::/46
+  - IP-CIDR6,2a0f:1cc5:3203::/48
   - IP-CIDR6,2a0f:1cc5:3204::/47
   - IP-CIDR6,2a0f:1cc5:3206::/48
   - IP-CIDR6,2a0f:1cc5:3222::/48
