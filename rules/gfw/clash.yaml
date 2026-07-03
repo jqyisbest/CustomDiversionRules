@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35393
+# Total count: 35395
 #
-# Update: 2026-07-03 03:57:48(GMT+8)
+# Update: 2026-07-04 03:55:12(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7598,6 +7598,7 @@ payload:
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
   - DOMAIN-SUFFIX,copac.ac.uk
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,copim.ac.uk
   - DOMAIN-SUFFIX,copior.ac.uk
@@ -32880,6 +32881,7 @@ payload:
   - DOMAIN-SUFFIX,webrush.net
   - DOMAIN-SUFFIX,webs-tv.net
   - DOMAIN-SUFFIX,websdr.org
+  - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-SUFFIX,website.new
   - DOMAIN-SUFFIX,websitepulse.com
   - DOMAIN-SUFFIX,websnapr.com
