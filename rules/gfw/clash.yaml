@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35395
+# Total count: 35398
 #
-# Update: 2026-07-05 03:41:43(GMT+8)
+# Update: 2026-07-06 03:47:46(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2352,6 +2352,7 @@ payload:
   - DOMAIN-SUFFIX,apple-pay.wang
   - DOMAIN-SUFFIX,apple-store.net
   - DOMAIN-SUFFIX,apple-store.wang
+  - DOMAIN-SUFFIX,apple-studies.com
   - DOMAIN-SUFFIX,apple-usa.net
   - DOMAIN-SUFFIX,apple-watch.com.ru
   - DOMAIN-SUFFIX,apple.ae
@@ -2971,6 +2972,7 @@ payload:
   - DOMAIN-SUFFIX,atlassian-dev.net
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atlassian.net
+  - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,atnext.com
   - DOMAIN-SUFFIX,atokara.jp
   - DOMAIN-SUFFIX,atom.io
@@ -3392,6 +3394,7 @@ payload:
   - DOMAIN-SUFFIX,azirevpn.com
   - DOMAIN-SUFFIX,aznude.com
   - DOMAIN-SUFFIX,azubu.tv
+  - DOMAIN-SUFFIX,azure-api.net
   - DOMAIN-SUFFIX,azure-devices-int.net
   - DOMAIN-SUFFIX,azure-devices.net
   - DOMAIN-SUFFIX,azure-dns.com
@@ -3429,6 +3432,7 @@ payload:
   - DOMAIN-SUFFIX,azureserviceprofiler.com
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,azurestaticapps.net
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,b-eroland.net
@@ -16115,7 +16119,6 @@ payload:
   - DOMAIN-SUFFIX,infraworks.com
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,ingads.com
-  - DOMAIN-SUFFIX,ingest.apple-studies.com
   - DOMAIN-SUFFIX,ingka.com
   - DOMAIN-SUFFIX,ingka.dev
   - DOMAIN-SUFFIX,ingkacentres.com
