@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35423
+# Total count: 35425
 #
-# Update: 2026-07-14 03:55:04(GMT+8)
+# Update: 2026-07-15 03:49:21(GMT+8)
 #
 #==========================================================================
 payload:
@@ -6655,6 +6655,7 @@ payload:
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chatgptvideo.xyz
   - DOMAIN-SUFFIX,chatgptvideob.buzz
   - DOMAIN-SUFFIX,chatnook.com
@@ -17746,6 +17747,7 @@ payload:
   - DOMAIN-SUFFIX,kiad.ac.uk
   - DOMAIN-SUFFIX,kichiku-doujinko.com
   - DOMAIN-SUFFIX,kichikuou.com
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kickporn.com
   - DOMAIN-SUFFIX,kickshatchannel.com
   - DOMAIN-SUFFIX,kicksnike1.com
