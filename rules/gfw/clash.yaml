@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35444
+# Total count: 35445
 #
-# Update: 2026-07-17 03:37:01(GMT+8)
+# Update: 2026-07-18 03:37:12(GMT+8)
 #
 #==========================================================================
 payload:
@@ -21730,6 +21730,7 @@ payload:
   - DOMAIN-SUFFIX,network54.com
   - DOMAIN-SUFFIX,networkedblogs.com
   - DOMAIN-SUFFIX,networktunnel.net
+  - DOMAIN-SUFFIX,netxh.blog
   - DOMAIN-SUFFIX,netzerobuildings.com
   - DOMAIN-SUFFIX,netzerobuildingstudio.com
   - DOMAIN-SUFFIX,netzwerkdeutsch.ac.uk
