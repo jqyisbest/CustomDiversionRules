@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35455
+# Total count: 35456
 #
-# Update: 2026-07-22 03:57:33(GMT+8)
+# Update: 2026-07-23 03:50:12(GMT+8)
 #
 #==========================================================================
 payload:
@@ -35150,6 +35150,7 @@ payload:
   - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,zenmate.com
   - DOMAIN-SUFFIX,zenmate.com.ru
+  - DOMAIN-SUFFIX,zenmux.ai
   - DOMAIN-SUFFIX,zenodo.org
   - DOMAIN-SUFFIX,zeplerinstitute.ac.uk
   - DOMAIN-SUFFIX,zeplin.dev
