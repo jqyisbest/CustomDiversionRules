@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35456
+# Total count: 35457
 #
-# Update: 2026-07-23 03:50:12(GMT+8)
+# Update: 2026-07-24 03:52:35(GMT+8)
 #
 #==========================================================================
 payload:
@@ -30286,6 +30286,7 @@ payload:
   - DOMAIN-SUFFIX,tok.media
   - DOMAIN-SUFFIX,token.im
   - DOMAIN-SUFFIX,tokenlon.im
+  - DOMAIN-SUFFIX,tokenplus.app
   - DOMAIN-SUFFIX,tokyo-247.com
   - DOMAIN-SUFFIX,tokyo-hot.com
   - DOMAIN-SUFFIX,tokyo-porn-tube.com
