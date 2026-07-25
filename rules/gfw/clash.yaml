@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35457
+# Total count: 35462
 #
-# Update: 2026-07-25 03:51:57(GMT+8)
+# Update: 2026-07-26 03:39:24(GMT+8)
 #
 #==========================================================================
 payload:
@@ -6986,6 +6986,7 @@ payload:
   - DOMAIN-SUFFIX,cios.org
   - DOMAIN-SUFFIX,ciota.ac.uk
   - DOMAIN-SUFFIX,cipfg.org
+  - DOMAIN-SUFFIX,circle19.org
   - DOMAIN-SUFFIX,circlethebayfortibet.org
   - DOMAIN-SUFFIX,cirencester.ac.uk
   - DOMAIN-SUFFIX,cirius.ac.uk
@@ -9139,6 +9140,7 @@ payload:
   - DOMAIN-SUFFIX,docs.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,docs.rw
   - DOMAIN-SUFFIX,doctor-videos.com
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentforce.com
@@ -17617,6 +17619,7 @@ payload:
   - DOMAIN-SUFFIX,karabako-gmo.com
   - DOMAIN-SUFFIX,karafarinbank.ir
   - DOMAIN-SUFFIX,karayou.com
+  - DOMAIN-SUFFIX,kards.com
   - DOMAIN-SUFFIX,karechat.ai
   - DOMAIN-SUFFIX,karger.com
   - DOMAIN-SUFFIX,karinahart.com
@@ -18696,6 +18699,7 @@ payload:
   - DOMAIN-SUFFIX,locate.ac.uk
   - DOMAIN-SUFFIX,lockestek.com
   - DOMAIN-SUFFIX,lockssalliance.ac.uk
+  - DOMAIN-SUFFIX,log.rw
   - DOMAIN-SUFFIX,logbot.net
   - DOMAIN-SUFFIX,logi.com
   - DOMAIN-SUFFIX,logic.ac.uk
@@ -30601,6 +30605,7 @@ payload:
   - DOMAIN-SUFFIX,truyenkk1.com
   - DOMAIN-SUFFIX,truyentranh86.com
   - DOMAIN-SUFFIX,truyenwk.com
+  - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,tryalias.com
   - DOMAIN-SUFFIX,tryboobs.com
   - DOMAIN-SUFFIX,trycloudflare.com
