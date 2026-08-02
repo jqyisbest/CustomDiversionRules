@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35491
+# Total count: 35502
 #
-# Update: 2026-08-02 03:39:49(GMT+8)
+# Update: 2026-08-03 03:40:14(GMT+8)
 #
 #==========================================================================
 payload:
@@ -920,6 +920,7 @@ payload:
   - DOMAIN-SUFFIX,actalis.com
   - DOMAIN-SUFFIX,actalis.it
   - DOMAIN-SUFFIX,actfortibet.org
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,actimes.com.au
   - DOMAIN-SUFFIX,activatelearning.ac.uk
   - DOMAIN-SUFFIX,activelearnprimary.co.uk
@@ -17210,7 +17211,10 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.dev
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.ru
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jetfuelapp.com
@@ -17971,6 +17975,8 @@ payload:
   - DOMAIN-SUFFIX,koshelek.app
   - DOMAIN-SUFFIX,koskade.com
   - DOMAIN-SUFFIX,kostenlosepornoclips.com
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org
   - DOMAIN-SUFFIX,koubaibu.jp
   - DOMAIN-SUFFIX,koukoku.jp
@@ -18005,6 +18011,7 @@ payload:
   - DOMAIN-SUFFIX,kssdeanery.ac.uk
   - DOMAIN-SUFFIX,ksyp10.com
   - DOMAIN-SUFFIX,ktech.team
+  - DOMAIN-SUFFIX,ktor.io
   - DOMAIN-SUFFIX,ktvu.com
   - DOMAIN-SUFFIX,ktzhk.com
   - DOMAIN-SUFFIX,ku77.xyz
@@ -21226,6 +21233,7 @@ payload:
   - DOMAIN-SUFFIX,myiphide.com
   - DOMAIN-SUFFIX,myiphider.com
   - DOMAIN-SUFFIX,myipod.net
+  - DOMAIN-SUFFIX,myjetbrains.com
   - DOMAIN-SUFFIX,myjkwd.com
   - DOMAIN-SUFFIX,myjs.tw
   - DOMAIN-SUFFIX,mykomica.org
@@ -22546,6 +22554,7 @@ payload:
   - DOMAIN-SUFFIX,ntdvn.com
   - DOMAIN-SUFFIX,ntec.ac.uk
   - DOMAIN-SUFFIX,ntfs.ac.uk
+  - DOMAIN-SUFFIX,nthlink.com
   - DOMAIN-SUFFIX,ntidagenham.ac.uk
   - DOMAIN-SUFFIX,ntl.fyi
   - DOMAIN-SUFFIX,ntnews.com.au
@@ -23254,6 +23263,7 @@ payload:
   - DOMAIN-SUFFIX,openweave.io
   - DOMAIN-SUFFIX,openwebster.com
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,opera-archive.ac.uk
   - DOMAIN-SUFFIX,opera-mini.net
   - DOMAIN-SUFFIX,opera.com
@@ -29394,6 +29404,7 @@ payload:
   - DOMAIN-SUFFIX,talkboxapp.com
   - DOMAIN-SUFFIX,talkcc.com
   - DOMAIN-SUFFIX,talkinghealthmatters.ac.uk
+  - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,talkonly.net
   - DOMAIN-SUFFIX,talksport.com
   - DOMAIN-SUFFIX,tamescol.ac.uk
