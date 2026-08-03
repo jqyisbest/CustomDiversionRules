@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35502
+# Total count: 35500
 #
-# Update: 2026-08-03 03:40:14(GMT+8)
+# Update: 2026-08-04 04:06:21(GMT+8)
 #
 #==========================================================================
 payload:
@@ -25520,7 +25520,6 @@ payload:
   - DOMAIN-SUFFIX,radiofarda.com
   - DOMAIN-SUFFIX,radioglobo.com.br
   - DOMAIN-SUFFIX,radiohilight.net
-  - DOMAIN-SUFFIX,radiojar.com
   - DOMAIN-SUFFIX,radioline.co
   - DOMAIN-SUFFIX,radiomango.fm
   - DOMAIN-SUFFIX,radiomarsho.com
@@ -33648,7 +33647,6 @@ payload:
   - DOMAIN-SUFFIX,www.antd.org
   - DOMAIN-SUFFIX,www.aolnews.com
   - DOMAIN-SUFFIX,www.bing.com
-  - DOMAIN-SUFFIX,www.clashverge.dev
   - DOMAIN-SUFFIX,www.cmoinc.org
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.dmm.com
