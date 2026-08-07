@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 126119
+# Total count: 126130
 #
-# Update: 2026-08-06 04:01:11(GMT+8)
+# Update: 2026-08-07 08:20:20(GMT+8)
 #
 #==========================================================================
 payload:
@@ -64958,6 +64958,7 @@ payload:
   - DOMAIN-SUFFIX,madajiefood.com
   - DOMAIN-SUFFIX,madaomall.com
   - DOMAIN-SUFFIX,madboxi.com
+  - DOMAIN-SUFFIX,made-in-china.com
   - DOMAIN-SUFFIX,madefuns.com
   - DOMAIN-SUFFIX,madeinchinastone.com
   - DOMAIN-SUFFIX,madewei.com
@@ -66726,6 +66727,7 @@ payload:
   - DOMAIN-SUFFIX,microxiang.com
   - DOMAIN-SUFFIX,microyan.com
   - DOMAIN-SUFFIX,microzuji.com
+  - DOMAIN-SUFFIX,micstatic.com
   - DOMAIN-SUFFIX,mictormedical.com
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,micun.com
@@ -74558,6 +74560,7 @@ payload:
   - DOMAIN-SUFFIX,powercx.com
   - DOMAIN-SUFFIX,powerde.com
   - DOMAIN-SUFFIX,powereasy.net
+  - DOMAIN-SUFFIX,poweremarket.com
   - DOMAIN-SUFFIX,powerex1.com
   - DOMAIN-SUFFIX,powerflow-tech.com
   - DOMAIN-SUFFIX,powerfulchina.com
@@ -117495,6 +117498,7 @@ payload:
   - IP-CIDR,157.20.194.0/23
   - IP-CIDR,157.20.246.0/23
   - IP-CIDR,157.20.33.0/24
+  - IP-CIDR,157.254.130.0/24
   - IP-CIDR,157.255.0.0/16
   - IP-CIDR,157.61.0.0/16
   - IP-CIDR,157.66.164.0/23
@@ -117888,6 +117892,7 @@ payload:
   - IP-CIDR,178.236.232.0/24
   - IP-CIDR,178.248.72.0/24
   - IP-CIDR,178.253.252.0/24
+  - IP-CIDR,178.83.133.0/24
   - IP-CIDR,178.95.192.0/24
   - IP-CIDR,18.166.207.110/32
   - IP-CIDR,18.166.37.238/32
@@ -118127,6 +118132,7 @@ payload:
   - IP-CIDR,199.3.210.0/25
   - IP-CIDR,199.65.192.0/21
   - IP-CIDR,199.7.72.0/24
+  - IP-CIDR,2.27.155.0/24
   - IP-CIDR,2.27.235.0/24
   - IP-CIDR,2.56.255.0/24
   - IP-CIDR,2.58.242.0/24
@@ -119709,6 +119715,7 @@ payload:
   - IP-CIDR,211.96.0.0/13
   - IP-CIDR,212.103.62.0/24
   - IP-CIDR,212.129.128.0/17
+  - IP-CIDR,212.189.57.0/24
   - IP-CIDR,212.64.0.0/17
   - IP-CIDR,213.151.233.20/32
   - IP-CIDR,213.159.70.0/24
@@ -119716,6 +119723,7 @@ payload:
   - IP-CIDR,213.189.17.0/24
   - IP-CIDR,213.199.169.0/24
   - IP-CIDR,213.214.110.0/24
+  - IP-CIDR,213.218.216.0/24
   - IP-CIDR,213.255.231.0/24
   - IP-CIDR,216.246.39.189/32
   - IP-CIDR,217.146.9.192/28
@@ -121885,9 +121893,11 @@ payload:
   - IP-CIDR,81.173.28.0/24
   - IP-CIDR,81.23.208.0/20
   - IP-CIDR,81.68.0.0/14
+  - IP-CIDR,82.109.172.0/24
   - IP-CIDR,82.139.229.0/24
   - IP-CIDR,82.156.0.0/15
   - IP-CIDR,82.163.16.0/24
+  - IP-CIDR,82.29.98.0/24
   - IP-CIDR,82.38.46.0/23
   - IP-CIDR,85.12.7.192/28
   - IP-CIDR,85.184.245.0/24
@@ -121895,6 +121905,7 @@ payload:
   - IP-CIDR,85.239.154.0/24
   - IP-CIDR,87.232.115.0/24
   - IP-CIDR,87.254.207.0/24
+  - IP-CIDR,87.76.149.0/24
   - IP-CIDR,87.76.221.0/24
   - IP-CIDR,87.76.222.0/24
   - IP-CIDR,89.30.124.160/30
@@ -125886,7 +125897,7 @@ payload:
   - IP-CIDR6,2a0f:1cc5:603::/48
   - IP-CIDR6,2a0f:1cc5:642::/48
   - IP-CIDR6,2a0f:1cc5:662::/48
-  - IP-CIDR6,2a0f:1cc5:6a0::/48
+  - IP-CIDR6,2a0f:1cc5:6a0::/47
   - IP-CIDR6,2a0f:1cc5:c01::/48
   - IP-CIDR6,2a0f:1cc5:f00::/46
   - IP-CIDR6,2a0f:1cc5:f05::/48
