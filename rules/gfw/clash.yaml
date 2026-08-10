@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35553
+# Total count: 35557
 #
-# Update: 2026-08-10 03:08:44(GMT+8)
+# Update: 2026-08-11 03:26:43(GMT+8)
 #
 #==========================================================================
 payload:
@@ -1336,6 +1336,7 @@ payload:
   - DOMAIN-SUFFIX,aib.ac.uk
   - DOMAIN-SUFFIX,aibaobei.me
   - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,aihub.top
   - DOMAIN-SUFFIX,aim25.ac.uk
   - DOMAIN-SUFFIX,aimei133.com
   - DOMAIN-SUFFIX,aimhighergreatermerseyside.ac.uk
@@ -3637,6 +3638,7 @@ payload:
   - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,baselinestudy.com
   - DOMAIN-SUFFIX,baselinestudy.org
+  - DOMAIN-SUFFIX,basemaps.arcgis.com
   - DOMAIN-SUFFIX,basford-hall.ac.uk
   - DOMAIN-SUFFIX,basildon.ac.uk
   - DOMAIN-SUFFIX,basilisk-browser.org
@@ -10631,6 +10633,7 @@ payload:
   - DOMAIN-SUFFIX,esher.ac.uk
   - DOMAIN-SUFFIX,esi.ac.uk
   - DOMAIN-SUFFIX,esim.ac.uk
+  - DOMAIN-SUFFIX,esim.redteago.com
   - DOMAIN-SUFFIX,esiss.ac.uk
   - DOMAIN-SUFFIX,eskimotube.com
   - DOMAIN-SUFFIX,eslite.com
@@ -10814,6 +10817,7 @@ payload:
   - DOMAIN-SUFFIX,expecthim.com
   - DOMAIN-SUFFIX,expekt.com
   - DOMAIN-SUFFIX,experience-vmware.com
+  - DOMAIN-SUFFIX,experience.arcgis.com
   - DOMAIN-SUFFIX,experiencebillmelater.com
   - DOMAIN-SUFFIX,experienceworks.ac.uk
   - DOMAIN-SUFFIX,expertmaker.com
