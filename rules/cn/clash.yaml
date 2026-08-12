@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 126124
+# Total count: 126127
 #
-# Update: 2026-08-12 03:31:00(GMT+8)
+# Update: 2026-08-13 03:32:31(GMT+8)
 #
 #==========================================================================
 payload:
@@ -52464,6 +52464,8 @@ payload:
   - DOMAIN-SUFFIX,iot688.com
   - DOMAIN-SUFFIX,iot889.com
   - DOMAIN-SUFFIX,iotachem.com
+  - DOMAIN-SUFFIX,iotaskyt.com
+  - DOMAIN-SUFFIX,iotaskyty.com
   - DOMAIN-SUFFIX,iotbay.com
   - DOMAIN-SUFFIX,iotfair.net
   - DOMAIN-SUFFIX,iotku.com
@@ -89110,6 +89112,7 @@ payload:
   - DOMAIN-SUFFIX,tbbbk.com
   - DOMAIN-SUFFIX,tbcache.com
   - DOMAIN-SUFFIX,tbcdn.com
+  - DOMAIN-SUFFIX,tbdesk.com
   - DOMAIN-SUFFIX,tbh5.com
   - DOMAIN-SUFFIX,tbhcc.com
   - DOMAIN-SUFFIX,tbhelper.com

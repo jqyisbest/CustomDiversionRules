@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35558
+# Total count: 35587
 #
-# Update: 2026-08-12 03:31:00(GMT+8)
+# Update: 2026-08-13 03:32:31(GMT+8)
 #
 #==========================================================================
 payload:
@@ -933,6 +933,9 @@ payload:
   - DOMAIN-SUFFIX,activelearnprimary.com.au
   - DOMAIN-SUFFIX,activematter.game
   - DOMAIN-SUFFIX,activeteachonline.com
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
   - DOMAIN-SUFFIX,activpn.com
   - DOMAIN-SUFFIX,actofunion.ac.uk
   - DOMAIN-SUFFIX,actris.ac.uk
@@ -4128,6 +4131,7 @@ payload:
   - DOMAIN-SUFFIX,bemywife.cc
   - DOMAIN-SUFFIX,benaughty.fun
   - DOMAIN-SUFFIX,benc.ac.uk
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
   - DOMAIN-SUFFIX,bengalisexvideos.com
   - DOMAIN-SUFFIX,benliton.com
   - DOMAIN-SUFFIX,bentobox.tv
@@ -6008,6 +6012,11 @@ payload:
   - DOMAIN-SUFFIX,callbackkiller.com
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,callhulu.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
   - DOMAIN-SUFFIX,calls.ac.uk
   - DOMAIN-SUFFIX,callywith.ac.uk
   - DOMAIN-SUFFIX,caltech.edu
@@ -6093,6 +6102,7 @@ payload:
   - DOMAIN-SUFFIX,candi.ac.uk
   - DOMAIN-SUFFIX,candidforum-videos.com
   - DOMAIN-SUFFIX,cando.ac.uk
+  - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,candycumcity.com
   - DOMAIN-SUFFIX,candypleasure.com
   - DOMAIN-SUFFIX,cannington.ac.uk
@@ -7763,6 +7773,7 @@ payload:
   - DOMAIN-SUFFIX,cranfield.ac.uk
   - DOMAIN-SUFFIX,crankplayer.com
   - DOMAIN-SUFFIX,crash.ac.uk
+  - DOMAIN-SUFFIX,crashbandicoot.com
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,craven-college.ac.uk
@@ -8585,6 +8596,7 @@ payload:
   - DOMAIN-SUFFIX,democracy.earth
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demonoid.is
+  - DOMAIN-SUFFIX,demonware.net
   - DOMAIN-SUFFIX,demoprint.com
   - DOMAIN-SUFFIX,demos.ac.uk
   - DOMAIN-SUFFIX,demosisto.hk
@@ -8736,7 +8748,9 @@ payload:
   - DOMAIN-SUFFIX,dhi.ac.uk
   - DOMAIN-SUFFIX,dhlestudio.com.co
   - DOMAIN-SUFFIX,diabetes-healthnet.ac.uk
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering
@@ -10743,6 +10757,7 @@ payload:
   - DOMAIN-SUFFIX,europeansustainabledesign.net
   - DOMAIN-SUFFIX,europeansustainabledesigncouncil.com
   - DOMAIN-SUFFIX,europeansustainabledesigncouncil.net
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
   - DOMAIN-SUFFIX,europepmc.org
   - DOMAIN-SUFFIX,europeunit.ac.uk
   - DOMAIN-SUFFIX,europornstar.com
@@ -14674,6 +14689,7 @@ payload:
   - DOMAIN-SUFFIX,highfieldscentre.ac.uk
   - DOMAIN-SUFFIX,highlands-jersey.ac.uk
   - DOMAIN-SUFFIX,highlands.ac.uk
+  - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,highpeak.ac.uk
   - DOMAIN-SUFFIX,highpeakspureearth.com
   - DOMAIN-SUFFIX,highporn.net
@@ -16171,6 +16187,7 @@ payload:
   - DOMAIN-SUFFIX,inf.news
   - DOMAIN-SUFFIX,infinitetoons.com
   - DOMAIN-SUFFIX,infinitetube.com
+  - DOMAIN-SUFFIX,infinityward.com
   - DOMAIN-SUFFIX,influencersgonewild.com
   - DOMAIN-SUFFIX,info-graf.fr
   - DOMAIN-SUFFIX,infocert.digital
@@ -17873,6 +17890,7 @@ payload:
   - DOMAIN-SUFFIX,kindteenporn.com
   - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,king.ac.uk
+  - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,kingalfreds.ac.uk
   - DOMAIN-SUFFIX,kingalfredsbasingstoke.ac.uk
   - DOMAIN-SUFFIX,kingcomix.com
@@ -25659,6 +25677,7 @@ payload:
   - DOMAIN-SUFFIX,ravemedia.ac.uk
   - DOMAIN-SUFFIX,ravensbourne.ac.uk
   - DOMAIN-SUFFIX,ravensbourneuniversitylondon.ac.uk
+  - DOMAIN-SUFFIX,ravensoftware.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,raw.githack.com
   - DOMAIN-SUFFIX,rawgit.com
@@ -27091,6 +27110,7 @@ payload:
   - DOMAIN-SUFFIX,sejie.com
   - DOMAIN-SUFFIX,sejie80.com
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,sekirothegame.com
   - DOMAIN-SUFFIX,seksmet.nl
   - DOMAIN-SUFFIX,sekswebsite.nl
   - DOMAIN-SUFFIX,sekur1213.guru
@@ -27690,6 +27710,7 @@ payload:
   - DOMAIN-SUFFIX,sie.ac.uk
   - DOMAIN-SUFFIX,siege-amazon.com
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org
+  - DOMAIN-SUFFIX,sierragames.com
   - DOMAIN-SUFFIX,sifa.ac.uk
   - DOMAIN-SUFFIX,sifangclub.com
   - DOMAIN-SUFFIX,sigcomm.org
@@ -27872,6 +27893,7 @@ payload:
   - DOMAIN-SUFFIX,skydrive
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN-SUFFIX,skykiwi.com
+  - DOMAIN-SUFFIX,skylanders.com
   - DOMAIN-SUFFIX,skymansion.net
   - DOMAIN-SUFFIX,skymatter.com
   - DOMAIN-SUFFIX,skynet.be
@@ -27924,6 +27946,7 @@ payload:
   - DOMAIN-SUFFIX,sleazydream.com
   - DOMAIN-SUFFIX,sleazyfork.org
   - DOMAIN-SUFFIX,sleazyneasy.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
   - DOMAIN-SUFFIX,sleepandwakefulnessresearch.ac.uk
   - DOMAIN-SUFFIX,slg.ac.uk
   - DOMAIN-SUFFIX,slheng.com
@@ -28150,6 +28173,7 @@ payload:
   - DOMAIN-SUFFIX,solidaritetibet.org
   - DOMAIN-SUFFIX,solidfiles.com
   - DOMAIN-SUFFIX,solidifi.app
+  - DOMAIN-SUFFIX,solidstate.com
   - DOMAIN-SUFFIX,solihull.ac.uk
   - DOMAIN-SUFFIX,solihullsfc.ac.uk
   - DOMAIN-SUFFIX,solostudioksale.com
@@ -28520,6 +28544,7 @@ payload:
   - DOMAIN-SUFFIX,sputnikmediabank.com
   - DOMAIN-SUFFIX,sputniknews.com
   - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
   - DOMAIN-SUFFIX,sqhwesternconsortium.ac.uk
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sqlserveronlinux.com
@@ -30404,6 +30429,8 @@ payload:
   - DOMAIN-SUFFIX,tongil.or.kr
   - DOMAIN-SUFFIX,tonicmovies.com
   - DOMAIN-SUFFIX,tono-oka.jp
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
   - DOMAIN-SUFFIX,tonyyan.net
   - DOMAIN-SUFFIX,toodoc.com
   - DOMAIN-SUFFIX,toolforge.org
@@ -30611,6 +30638,7 @@ payload:
   - DOMAIN-SUFFIX,trendsmap.com
   - DOMAIN-SUFFIX,trendyporn.com
   - DOMAIN-SUFFIX,tresham.ac.uk
+  - DOMAIN-SUFFIX,treyarch.com
   - DOMAIN-SUFFIX,trezor.io
   - DOMAIN-SUFFIX,tri-london.ac.uk
   - DOMAIN-SUFFIX,trialofccp.org
@@ -33590,6 +33618,7 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,worldsecureemail.com
   - DOMAIN-SUFFIX,worldsecuresystems.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
   - DOMAIN-SUFFIX,worldsex.com
   - DOMAIN-SUFFIX,worldsfastestgamer.net
   - DOMAIN-SUFFIX,worldvpn.net
