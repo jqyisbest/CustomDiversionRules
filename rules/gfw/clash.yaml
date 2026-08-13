@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35587
+# Total count: 35598
 #
-# Update: 2026-08-13 03:32:31(GMT+8)
+# Update: 2026-08-14 03:30:54(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5743,6 +5743,7 @@ payload:
   - DOMAIN-SUFFIX,building3dcontent.com
   - DOMAIN-SUFFIX,builtenvsigns.ac.uk
   - DOMAIN-SUFFIX,builtfromebay.com
+  - DOMAIN-SUFFIX,builtwithnix.org
   - DOMAIN-SUFFIX,bukkake-jav.com
   - DOMAIN-SUFFIX,bukkake.link
   - DOMAIN-SUFFIX,bullguard.com
@@ -21317,6 +21318,7 @@ payload:
   - DOMAIN-SUFFIX,mynetav.org
   - DOMAIN-SUFFIX,mynetname.net
   - DOMAIN-SUFFIX,mynike.com
+  - DOMAIN-SUFFIX,mynixos.com
   - DOMAIN-SUFFIX,mynumber.org
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,myparagliding.com
@@ -22343,7 +22345,15 @@ payload:
   - DOMAIN-SUFFIX,nivod.tv
   - DOMAIN-SUFFIX,nivodi.tv
   - DOMAIN-SUFFIX,nivodz.com
+  - DOMAIN-SUFFIX,nix-community.org
+  - DOMAIN-SUFFIX,nix.dev
+  - DOMAIN-SUFFIX,nix.store
+  - DOMAIN-SUFFIX,nixcon.org
+  - DOMAIN-SUFFIX,nixcon2017.org
+  - DOMAIN-SUFFIX,nixlang.com
   - DOMAIN-SUFFIX,nixos.org
+  - DOMAIN-SUFFIX,nixos.wiki
+  - DOMAIN-SUFFIX,nixpkgs.org
   - DOMAIN-SUFFIX,niziero.info
   - DOMAIN-SUFFIX,njactb.org
   - DOMAIN-SUFFIX,njav.tv
@@ -34662,6 +34672,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.fi
   - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.it
   - DOMAIN-SUFFIX,yandex.jobs
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz
