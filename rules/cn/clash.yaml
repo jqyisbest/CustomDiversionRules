@@ -8,7 +8,7 @@
 #
 # Total count: 126135
 #
-# Update: 2026-08-14 03:30:54(GMT+8)
+# Update: 2026-08-15 03:24:27(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14601,7 +14601,6 @@ payload:
   - DOMAIN-SUFFIX,bamboofactorychina.com
   - DOMAIN-SUFFIX,bambooolab.com
   - DOMAIN-SUFFIX,bambu-lab.com
-  - DOMAIN-SUFFIX,bambulab.com
   - DOMAIN-SUFFIX,bamengame.com
   - DOMAIN-SUFFIX,bamensq.com
   - DOMAIN-SUFFIX,bamenzhushou.com
@@ -116321,6 +116320,7 @@ payload:
   - IP-CIDR,106.74.0.0/15
   - IP-CIDR,106.8.0.0/15
   - IP-CIDR,106.80.0.0/12
+  - IP-CIDR,107.148.6.0/24
   - IP-CIDR,107.149.9.0/24
   - IP-CIDR,107.150.125.199/32
   - IP-CIDR,107.151.212.0/24
@@ -117158,9 +117158,9 @@ payload:
   - IP-CIDR,14.196.0.0/15
   - IP-CIDR,14.204.0.0/15
   - IP-CIDR,14.208.0.0/12
+  - IP-CIDR,14.238.116.0/24
   - IP-CIDR,14.255.16.0/24
   - IP-CIDR,14.255.238.0/24
-  - IP-CIDR,14.255.249.0/24
   - IP-CIDR,14.255.254.0/24
   - IP-CIDR,140.101.208.0/24
   - IP-CIDR,140.143.0.0/16
@@ -117671,7 +117671,6 @@ payload:
   - IP-CIDR,166.0.97.0/24
   - IP-CIDR,166.1.139.0/24
   - IP-CIDR,166.1.218.0/24
-  - IP-CIDR,166.1.232.0/24
   - IP-CIDR,166.111.0.0/16
   - IP-CIDR,166.118.227.88/32
   - IP-CIDR,167.139.0.0/16
@@ -121648,6 +121647,7 @@ payload:
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.87.54.0/24
   - IP-CIDR,45.9.11.0/24
+  - IP-CIDR,45.91.225.0/24
   - IP-CIDR,46.102.251.0/25
   - IP-CIDR,46.151.180.0/23
   - IP-CIDR,46.151.182.0/24
