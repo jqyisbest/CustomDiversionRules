@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35602
+# Total count: 35603
 #
-# Update: 2026-08-18 03:04:24(GMT+8)
+# Update: 2026-08-19 03:03:54(GMT+8)
 #
 #==========================================================================
 payload:
@@ -18704,6 +18704,7 @@ payload:
   - DOMAIN-SUFFIX,livewell.ac.uk
   - DOMAIN-SUFFIX,livexxx.me
   - DOMAIN-SUFFIX,livhope.ac.uk
+  - DOMAIN-SUFFIX,livingatlas.arcgis.com
   - DOMAIN-SUFFIX,livingdigital.ac.uk
   - DOMAIN-SUFFIX,livinglab.ac.uk
   - DOMAIN-SUFFIX,livinglaboratory.ac.uk
