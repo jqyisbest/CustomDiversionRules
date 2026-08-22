@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35617
+# Total count: 35618
 #
-# Update: 2026-08-22 03:03:43(GMT+8)
+# Update: 2026-08-23 02:53:59(GMT+8)
 #
 #==========================================================================
 payload:
@@ -5494,6 +5494,7 @@ payload:
   - DOMAIN-SUFFIX,brewmp.com
   - DOMAIN-SUFFIX,briantreepayments.net
   - DOMAIN-SUFFIX,briantreepayments.tv
+  - DOMAIN-SUFFIX,briarproject.org
   - DOMAIN-SUFFIX,bricoltech.ac.uk
   - DOMAIN-SUFFIX,bridgce.ac.uk
   - DOMAIN-SUFFIX,bridge-studio.co.uk
