@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35629
+# Total count: 35630
 #
-# Update: 2026-08-31 05:16:22(GMT+8)
+# Update: 2026-09-01 06:56:25(GMT+8)
 #
 #==========================================================================
 payload:
@@ -12918,6 +12918,7 @@ payload:
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,getmalus.com
   - DOMAIN-SUFFIX,getmdl.io
+  - DOMAIN-SUFFIX,getmonero.org
   - DOMAIN-SUFFIX,getnews.jp
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,getpaint.net
