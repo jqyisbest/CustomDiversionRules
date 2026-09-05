@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 125770
+# Total count: 125775
 #
-# Update: 2026-09-05 04:52:57(GMT+8)
+# Update: 2026-09-06 04:30:35(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2752,6 +2752,7 @@ payload:
   - DOMAIN-SUFFIX,1zhe.com
   - DOMAIN-SUFFIX,1zhengji.com
   - DOMAIN-SUFFIX,1zhixue.com
+  - DOMAIN-SUFFIX,1zidc.com
   - DOMAIN-SUFFIX,1zj.com
   - DOMAIN-SUFFIX,1zjob.com
   - DOMAIN-SUFFIX,1zu.com
@@ -17087,6 +17088,7 @@ payload:
   - DOMAIN-SUFFIX,bktsj.com
   - DOMAIN-SUFFIX,bkvps.com
   - DOMAIN-SUFFIX,bkweek.com
+  - DOMAIN-SUFFIX,bkwsq.com
   - DOMAIN-SUFFIX,bkzhibo.com
   - DOMAIN-SUFFIX,bkzzy.com
   - DOMAIN-SUFFIX,bl.com
@@ -19019,6 +19021,7 @@ payload:
   - DOMAIN-SUFFIX,cangzhouhd.com
   - DOMAIN-SUFFIX,canhighcenter.com
   - DOMAIN-SUFFIX,canhot.net
+  - DOMAIN-SUFFIX,canhui.xyz
   - DOMAIN-SUFFIX,caniculab.com
   - DOMAIN-SUFFIX,canidc.com
   - DOMAIN-SUFFIX,canjio.com
@@ -78043,6 +78046,7 @@ payload:
   - DOMAIN-SUFFIX,redisfans.com
   - DOMAIN-SUFFIX,redmagic.com
   - DOMAIN-SUFFIX,redmart.com
+  - DOMAIN-SUFFIX,redmid.com
   - DOMAIN-SUFFIX,redmou.com
   - DOMAIN-SUFFIX,rednetdns.com
   - DOMAIN-SUFFIX,rednote.com
@@ -94908,6 +94912,7 @@ payload:
   - DOMAIN-SUFFIX,vxiaocheng.com
   - DOMAIN-SUFFIX,vxinyou.com
   - DOMAIN-SUFFIX,vxixi.com
+  - DOMAIN-SUFFIX,vxni.ink
   - DOMAIN-SUFFIX,vxo7tu.com
   - DOMAIN-SUFFIX,vxocok3197.vip
   - DOMAIN-SUFFIX,vxsnk.com
