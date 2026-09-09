@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 125784
+# Total count: 125785
 #
-# Update: 2026-09-09 05:16:25(GMT+8)
+# Update: 2026-09-10 05:01:46(GMT+8)
 #
 #==========================================================================
 payload:
@@ -107114,6 +107114,7 @@ payload:
   - DOMAIN-SUFFIX,yuanpanguoji.com
   - DOMAIN-SUFFIX,yuanqiao.net
   - DOMAIN-SUFFIX,yuanqiao.pw
+  - DOMAIN-SUFFIX,yuanqidesk.com
   - DOMAIN-SUFFIX,yuanqilt.com
   - DOMAIN-SUFFIX,yuanqingsh.com
   - DOMAIN-SUFFIX,yuanqisenlin.com
