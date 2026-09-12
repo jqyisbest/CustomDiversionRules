@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35645
+# Total count: 35629
 #
-# Update: 2026-09-12 05:04:43(GMT+8)
+# Update: 2026-09-13 04:42:29(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2263,13 +2263,10 @@ payload:
   - DOMAIN-SUFFIX,apexprint.com.hk
   - DOMAIN-SUFFIX,aphe.ac.uk
   - DOMAIN-SUFFIX,api-extractor.com
-  - DOMAIN-SUFFIX,api-gl.lbkrs.com
   - DOMAIN-SUFFIX,api-p.videomarket.jp
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
-  - DOMAIN-SUFFIX,api.futunn.com
-  - DOMAIN-SUFFIX,api.lbkrs.com
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.moomoobull.com
   - DOMAIN-SUFFIX,api.nebula-emby.com
@@ -2280,7 +2277,6 @@ payload:
   - DOMAIN-SUFFIX,api.shuaiapi.com
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,api.waqi.info
-  - DOMAIN-SUFFIX,api5.futunn.com
   - DOMAIN-SUFFIX,apiary.io
   - DOMAIN-SUFFIX,apiauto.ru
   - DOMAIN-SUFFIX,apibay.org
@@ -6490,7 +6486,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.ac.uk
   - DOMAIN-SUFFIX,cdn.angruo.com
   - DOMAIN-SUFFIX,cdn.arstechnica.net
-  - DOMAIN-SUFFIX,cdn.futustatic.com
   - DOMAIN-SUFFIX,cdn.js7k.com
   - DOMAIN-SUFFIX,cdn.jwplayer.com
   - DOMAIN-SUFFIX,cdn.printfriendly.com
@@ -7340,7 +7335,6 @@ payload:
   - DOMAIN-SUFFIX,cn.sandscotaicentral.com
   - DOMAIN-SUFFIX,cn.shafaqna.com
   - DOMAIN-SUFFIX,cn.theaustralian.com.au
-  - DOMAIN-SUFFIX,cn.uptodown.com
   - DOMAIN-SUFFIX,cn6.eu
   - DOMAIN-SUFFIX,cna.com.tw
   - DOMAIN-SUFFIX,cnabc.com
@@ -9324,7 +9318,6 @@ payload:
   - DOMAIN-SUFFIX,dowjoneson.com
   - DOMAIN-SUFFIX,download.com
   - DOMAIN-SUFFIX,download.dappcdn.com
-  - DOMAIN-SUFFIX,download.futunn.com
   - DOMAIN-SUFFIX,download.qatp1.net
   - DOMAIN-SUFFIX,download.qcpp1.net
   - DOMAIN-SUFFIX,download.qpdp1.net
@@ -19112,7 +19105,6 @@ payload:
   - DOMAIN-SUFFIX,m-power.com
   - DOMAIN-SUFFIX,m-rhex.ac.uk
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m.hkgalden.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,m.moegirl.org
   - DOMAIN-SUFFIX,m12.vc
@@ -23291,10 +23283,6 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openamt.com
-  - DOMAIN-SUFFIX,openapi-quote.longbridge.com
-  - DOMAIN-SUFFIX,openapi-trade.longbridge.com
-  - DOMAIN-SUFFIX,openapi.futunn.com
-  - DOMAIN-SUFFIX,openapi.longbridge.com
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com
   - DOMAIN-SUFFIX,openart.ai
@@ -25471,13 +25459,12 @@ payload:
   - DOMAIN-SUFFIX,qstatus.com
   - DOMAIN-SUFFIX,qt-project.org
   - DOMAIN-SUFFIX,qt.io
-  - DOMAIN-SUFFIX,qtcard.futunn.com
-  - DOMAIN-SUFFIX,qtcardfthk.futufin.com
   - DOMAIN-SUFFIX,qtrac.eu
   - DOMAIN-SUFFIX,qtweeter.com
   - DOMAIN-SUFFIX,quadram.ac.uk
   - DOMAIN-SUFFIX,quadraminstitute.ac.uk
   - DOMAIN-SUFFIX,quadrat.ac.uk
+  - DOMAIN-SUFFIX,quakemachinex.com
   - DOMAIN-SUFFIX,qualcomm-email.com
   - DOMAIN-SUFFIX,qualcomm-inc.com
   - DOMAIN-SUFFIX,qualcomm.co.id
@@ -29213,7 +29200,6 @@ payload:
   - DOMAIN-SUFFIX,supply-chain.ac.uk
   - DOMAIN-SUFFIX,supplybestjerseys.com
   - DOMAIN-SUFFIX,support-uber.com
-  - DOMAIN-SUFFIX,support.futunn.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
@@ -30616,8 +30602,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-SUFFIX,tracking-location.com
-  - DOMAIN-SUFFIX,trade.futunn.com
-  - DOMAIN-SUFFIX,trade.longportapp.com
   - DOMAIN-SUFFIX,tradeup.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,tradingview.com
