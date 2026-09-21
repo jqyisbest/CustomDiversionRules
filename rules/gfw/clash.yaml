@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35632
+# Total count: 35637
 #
-# Update: 2026-09-21 04:56:50(GMT+8)
+# Update: 2026-09-22 06:04:21(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7405,6 +7405,7 @@ payload:
   - DOMAIN-SUFFIX,code1984.com
   - DOMAIN-SUFFIX,codeberg.org
   - DOMAIN-SUFFIX,codeberg.page
+  - DOMAIN-SUFFIX,codebuff.com
   - DOMAIN-SUFFIX,codecademy.com
   - DOMAIN-SUFFIX,codeforaliving.io
   - DOMAIN-SUFFIX,codeforces.com
@@ -11696,12 +11697,14 @@ payload:
   - DOMAIN-SUFFIX,firearmsworld.net
   - DOMAIN-SUFFIX,firebase-settings.crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.dev
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,firech.at
   - DOMAIN-SUFFIX,fireemblemawakening.com
   - DOMAIN-SUFFIX,fireflyresearch.ac.uk
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -12186,6 +12189,7 @@ payload:
   - DOMAIN-SUFFIX,freebrowser.org
   - DOMAIN-SUFFIX,freebs.com
   - DOMAIN-SUFFIX,freebsd.org
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,freecamsfan.com
   - DOMAIN-SUFFIX,freecamstars.com
   - DOMAIN-SUFFIX,freecartoons.biz
@@ -29848,6 +29852,7 @@ payload:
   - DOMAIN-SUFFIX,textnow.me
   - DOMAIN-SUFFIX,texttobuy.org
   - DOMAIN-SUFFIX,texture.com
+  - DOMAIN-SUFFIX,tfbnw.net
   - DOMAIN-SUFFIX,tfc-taiwan.org.tw
   - DOMAIN-SUFFIX,tferwq.com
   - DOMAIN-SUFFIX,tfhub.dev
