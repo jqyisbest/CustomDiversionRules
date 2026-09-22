@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35637
+# Total count: 35639
 #
-# Update: 2026-09-22 06:04:21(GMT+8)
+# Update: 2026-09-23 05:30:48(GMT+8)
 #
 #==========================================================================
 payload:
@@ -6913,6 +6913,7 @@ payload:
   - DOMAIN-SUFFIX,chinesen.de
   - DOMAIN-SUFFIX,chinesenews.net.au
   - DOMAIN-SUFFIX,chinesepen.org
+  - DOMAIN-SUFFIX,chineseposters.net
   - DOMAIN-SUFFIX,chineseradioseattle.com
   - DOMAIN-SUFFIX,chinesespanking.com
   - DOMAIN-SUFFIX,chinesetalks.net
@@ -22498,6 +22499,7 @@ payload:
   - DOMAIN-SUFFIX,norton.com
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
   - DOMAIN-SUFFIX,nos.nl
+  - DOMAIN-SUFFIX,note.com
   - DOMAIN-SUFFIX,notegpt.io
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,noticias-rt.com
