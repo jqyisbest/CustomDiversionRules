@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 113876
+# Total count: 113882
 #
-# Update: 2026-10-11 05:53:29(GMT+8)
+# Update: 2026-10-12 06:09:41(GMT+8)
 #
 #==========================================================================
 DOMAIN-SUFFIX,.tmall.com
@@ -4610,7 +4610,6 @@ DOMAIN-SUFFIX,3zonegame.com
 DOMAIN-SUFFIX,4-xiang.com
 DOMAIN-SUFFIX,4.biz
 DOMAIN-SUFFIX,4.plus
-DOMAIN-SUFFIX,4.xn--czrs0t
 DOMAIN-SUFFIX,4.xn--vhquv
 DOMAIN-SUFFIX,400-lighting.com
 DOMAIN-SUFFIX,400.com
@@ -10904,6 +10903,7 @@ DOMAIN-SUFFIX,aibase.com
 DOMAIN-SUFFIX,aibeike.com
 DOMAIN-SUFFIX,aibiaomei.com
 DOMAIN-SUFFIX,aibiaow.com
+DOMAIN-SUFFIX,aibilun.com
 DOMAIN-SUFFIX,aibing.cc
 DOMAIN-SUFFIX,aibll.com
 DOMAIN-SUFFIX,aibo123.com
@@ -11938,6 +11938,7 @@ DOMAIN-SUFFIX,aliyunwaf3.com
 DOMAIN-SUFFIX,aliyunwaf4.com
 DOMAIN-SUFFIX,aliyunwaf5.com
 DOMAIN-SUFFIX,aliyunx.com
+DOMAIN-SUFFIX,alizch.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,alizhizhu.com
 DOMAIN-SUFFIX,alizila.com
@@ -12759,7 +12760,6 @@ DOMAIN-SUFFIX,api-forwards.com
 DOMAIN-SUFFIX,api-m.com
 DOMAIN-SUFFIX,api-vod-qcloud.com
 DOMAIN-SUFFIX,api.anythinktech.com
-DOMAIN-SUFFIX,api.blipsandchitz.me
 DOMAIN-SUFFIX,api.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,api.crisp.chat
 DOMAIN-SUFFIX,api.day.app
@@ -20547,6 +20547,7 @@ DOMAIN-SUFFIX,cfcpn.com
 DOMAIN-SUFFIX,cfd-china.com
 DOMAIN-SUFFIX,cfd163.com
 DOMAIN-SUFFIX,cfdns43.com
+DOMAIN-SUFFIX,cfdns46.com
 DOMAIN-SUFFIX,cfdns5.com
 DOMAIN-SUFFIX,cfdns81.com
 DOMAIN-SUFFIX,cfdp.org
@@ -25008,6 +25009,7 @@ DOMAIN-SUFFIX,codeages.work
 DOMAIN-SUFFIX,codeaha.com
 DOMAIN-SUFFIX,codebaoku.com
 DOMAIN-SUFFIX,codebe.org
+DOMAIN-SUFFIX,codebuddy.ai
 DOMAIN-SUFFIX,codebuddy.info
 DOMAIN-SUFFIX,codebuddy.net
 DOMAIN-SUFFIX,codebuddy.pro
@@ -30182,6 +30184,7 @@ DOMAIN-SUFFIX,dnsjia.com
 DOMAIN-SUFFIX,dnsjiasu001.com
 DOMAIN-SUFFIX,dnsjp.cc
 DOMAIN-SUFFIX,dnsjxla.com
+DOMAIN-SUFFIX,dnski.com
 DOMAIN-SUFFIX,dnslin.com
 DOMAIN-SUFFIX,dnsmeasurement.com
 DOMAIN-SUFFIX,dnsmsn.com
@@ -61746,6 +61749,7 @@ DOMAIN-SUFFIX,lewenqu.com
 DOMAIN-SUFFIX,lewenss.com
 DOMAIN-SUFFIX,lewenxsw.com
 DOMAIN-SUFFIX,lewifi.com
+DOMAIN-SUFFIX,lewl88.com
 DOMAIN-SUFFIX,lex.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexar.com
 DOMAIN-SUFFIX,lexed.org
@@ -73422,6 +73426,7 @@ DOMAIN-SUFFIX,pcdog.com
 DOMAIN-SUFFIX,pcdrv.com
 DOMAIN-SUFFIX,pcdtg.com
 DOMAIN-SUFFIX,pceggs.com
+DOMAIN-SUFFIX,pcelves.com
 DOMAIN-SUFFIX,pceva.net
 DOMAIN-SUFFIX,pcfphs.com
 DOMAIN-SUFFIX,pcfreetime.com
@@ -76684,6 +76689,7 @@ DOMAIN-SUFFIX,qlchat.com
 DOMAIN-SUFFIX,qldgd.com
 DOMAIN-SUFFIX,qldzj.com
 DOMAIN-SUFFIX,qledu.net
+DOMAIN-SUFFIX,qlgfdns.com
 DOMAIN-SUFFIX,qlhimalayantm.com
 DOMAIN-SUFFIX,qlife-lab.com
 DOMAIN-SUFFIX,qliksense.lenovo.com
@@ -98431,6 +98437,7 @@ DOMAIN-SUFFIX,wordscheck.com
 DOMAIN-SUFFIX,wordstorming.com
 DOMAIN-SUFFIX,wordsunny.com
 DOMAIN-SUFFIX,workbenchapi.com
+DOMAIN-SUFFIX,workbuddy.ai
 DOMAIN-SUFFIX,workbuddy.host
 DOMAIN-SUFFIX,workbuddy.link
 DOMAIN-SUFFIX,workchat.com
@@ -102588,7 +102595,6 @@ DOMAIN-SUFFIX,xn--e1t46na.xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--eh1a34ykpl.com
 DOMAIN-SUFFIX,xn--ekr69hlr1c.xn--3ds443g
 DOMAIN-SUFFIX,xn--eqrt2g.xn--vuq861b
-DOMAIN-SUFFIX,xn--f5q14tug.xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--f8qs4ctu19zr2eq64ehfmdri.xn--3ds443g
 DOMAIN-SUFFIX,xn--fhq79jyym9nh74hfm8a.com
 DOMAIN-SUFFIX,xn--fhqpn19bl91acha222foe2d.xn--3ds443g
