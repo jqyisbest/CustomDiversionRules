@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35793
+# Total count: 35795
 #
-# Update: 2026-10-21 05:45:20(GMT+8)
+# Update: 2026-10-22 05:51:19(GMT+8)
 #
 #==========================================================================
 payload:
@@ -3291,8 +3291,10 @@ payload:
   - DOMAIN-SUFFIX,avinin.com
   - DOMAIN-SUFFIX,avira.com
   - DOMAIN-SUFFIX,avistaz.to
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avizoon.site
   - DOMAIN-SUFFIX,avizoone.com
   - DOMAIN-SUFFIX,avjb.com
