@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35841
+# Total count: 35843
 #
-# Update: 2026-10-24 05:32:10(GMT+8)
+# Update: 2026-10-25 05:00:05(GMT+8)
 #
 #==========================================================================
 payload:
@@ -7663,6 +7663,7 @@ payload:
   - DOMAIN-SUFFIX,consentpro.com
   - DOMAIN-SUFFIX,conservatoiresuk.ac.uk
   - DOMAIN-SUFFIX,consilience.ac.uk
+  - DOMAIN-SUFFIX,console.typesafe.ai
   - DOMAIN-SUFFIX,constitutionalism.solutions
   - DOMAIN-SUFFIX,constructware.com
   - DOMAIN-SUFFIX,consul.io
@@ -12657,6 +12658,7 @@ payload:
   - DOMAIN-SUFFIX,g1.com.br
   - DOMAIN-SUFFIX,g1d1goob.xyz
   - DOMAIN-SUFFIX,g6hentai.com
+  - DOMAIN-SUFFIX,ga.jspm.io
   - DOMAIN-SUFFIX,gab.com
   - DOMAIN-SUFFIX,gabia.net
   - DOMAIN-SUFFIX,gabocorp.com
