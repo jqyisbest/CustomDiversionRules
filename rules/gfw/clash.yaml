@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35853
+# Total count: 35864
 #
-# Update: 2026-10-27 06:47:12(GMT+8)
+# Update: 2026-10-28 06:26:38(GMT+8)
 #
 #==========================================================================
 payload:
@@ -974,6 +974,7 @@ payload:
   - DOMAIN-SUFFIX,addthiscdn.com
   - DOMAIN-SUFFIX,addthisedge.com
   - DOMAIN-SUFFIX,addtoany.com
+  - DOMAIN-SUFFIX,addtodropbox.com
   - DOMAIN-SUFFIX,addyoutube.com
   - DOMAIN-SUFFIX,adelaidebbs.com
   - DOMAIN-SUFFIX,adelaidenow.com.au
@@ -8324,6 +8325,7 @@ payload:
   - DOMAIN-SUFFIX,dasaob.online
   - DOMAIN-SUFFIX,dasg.ac.uk
   - DOMAIN-SUFFIX,dash-1.ac.uk
+  - DOMAIN-SUFFIX,dash.ai
   - DOMAIN-SUFFIX,dashlane.com
   - DOMAIN-SUFFIX,dashly.app
   - DOMAIN-SUFFIX,dashly.help
@@ -8393,6 +8395,7 @@ payload:
   - DOMAIN-SUFFIX,dbgjd.com
   - DOMAIN-SUFFIX,dbmoscow.ru
   - DOMAIN-SUFFIX,dbo-dengi.online
+  - DOMAIN-SUFFIX,dc.services.visualstudio.com
   - DOMAIN-SUFFIX,dca.ac.uk
   - DOMAIN-SUFFIX,dcapital.ru
   - DOMAIN-SUFFIX,dcard.cc
@@ -9270,6 +9273,7 @@ payload:
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,docs.rs
   - DOMAIN-SUFFIX,docs.rw
+  - DOMAIN-SUFFIX,docsend.com
   - DOMAIN-SUFFIX,doctor-videos.com
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentforce.com
@@ -9507,12 +9511,15 @@ payload:
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,dropboxbusiness.com
   - DOMAIN-SUFFIX,dropboxcaptcha.com
+  - DOMAIN-SUFFIX,dropboxexperiment.com
   - DOMAIN-SUFFIX,dropboxforum.com
   - DOMAIN-SUFFIX,dropboxforums.com
   - DOMAIN-SUFFIX,dropboxinsiders.com
+  - DOMAIN-SUFFIX,dropboxlegal.com
   - DOMAIN-SUFFIX,dropboxmail.com
   - DOMAIN-SUFFIX,dropboxpartners.com
   - DOMAIN-SUFFIX,dropboxstatic.com
+  - DOMAIN-SUFFIX,dropboxteam.com
   - DOMAIN-SUFFIX,dropboxusercontent.com
   - DOMAIN-SUFFIX,droplr.com
   - DOMAIN-SUFFIX,drpc.org
@@ -14490,10 +14497,12 @@ payload:
   - DOMAIN-SUFFIX,helixstudios.net
   - DOMAIN-SUFFIX,helloandroid.com
   - DOMAIN-SUFFIX,helloavgirls.com
+  - DOMAIN-SUFFIX,hellofax.com
   - DOMAIN-SUFFIX,hellofuture.ac.uk
   - DOMAIN-SUFFIX,hellokittybeats.com
   - DOMAIN-SUFFIX,hellomoto.com
   - DOMAIN-SUFFIX,helloqueer.com
+  - DOMAIN-SUFFIX,hellosign.com
   - DOMAIN-SUFFIX,hellosmartbook.com
   - DOMAIN-SUFFIX,helloss.pw
   - DOMAIN-SUFFIX,hellotxt.com
@@ -18614,6 +18623,7 @@ payload:
   - DOMAIN-SUFFIX,librarylovefest.com
   - DOMAIN-SUFFIX,libraryofthumbs.com
   - DOMAIN-SUFFIX,libredd.it
+  - DOMAIN-SUFFIX,librewolf.dev
   - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,libsolutions.app
   - DOMAIN-SUFFIX,libsolutions.domains
@@ -26605,6 +26615,7 @@ payload:
   - DOMAIN-SUFFIX,rt.com
   - DOMAIN-SUFFIX,rt.rs
   - DOMAIN-SUFFIX,rt.ru
+  - DOMAIN-SUFFIX,rt.services.visualstudio.com
   - DOMAIN-SUFFIX,rtalabel.org
   - DOMAIN-SUFFIX,rtarabic.com
   - DOMAIN-SUFFIX,rtarabic.net
