@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35864
+# Total count: 35871
 #
-# Update: 2026-10-28 06:26:38(GMT+8)
+# Update: 2026-10-29 06:43:28(GMT+8)
 #
 #==========================================================================
 payload:
@@ -2813,6 +2813,7 @@ payload:
   - DOMAIN-SUFFIX,arteldoc.com
   - DOMAIN-SUFFIX,arteldoc.tv
   - DOMAIN-SUFFIX,artifact.ac.uk
+  - DOMAIN-SUFFIX,artificialanalysis.ai
   - DOMAIN-SUFFIX,artixlinux.org
   - DOMAIN-SUFFIX,artnudegalleries.com
   - DOMAIN-SUFFIX,artoferotica.info
@@ -7255,6 +7256,7 @@ payload:
   - DOMAIN-SUFFIX,climate-server.com
   - DOMAIN-SUFFIX,climatechangewales.ac.uk
   - DOMAIN-SUFFIX,climb.ac.uk
+  - DOMAIN-SUFFIX,cline.bot
   - DOMAIN-SUFFIX,clinica-tibet.ru
   - DOMAIN-SUFFIX,clinical-videos.com
   - DOMAIN-SUFFIX,clinicalkey.com
@@ -7603,6 +7605,7 @@ payload:
   - DOMAIN-SUFFIX,comm-verse.com
   - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,commandarms.com
+  - DOMAIN-SUFFIX,commandcode.ai
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,commentshk.com
   - DOMAIN-SUFFIX,commerceos.com
@@ -7686,6 +7689,7 @@ payload:
   - DOMAIN-SUFFIX,contentful.com
   - DOMAIN-SUFFIX,contest.com
   - DOMAIN-SUFFIX,contests.twilio.com
+  - DOMAIN-SUFFIX,context7.com
   - DOMAIN-SUFFIX,convio.net
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,coobay.com
@@ -20036,6 +20040,7 @@ payload:
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaiusercontent.com
   - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabolomics.ac.uk
   - DOMAIN-SUFFIX,metabora.io
@@ -22675,6 +22680,7 @@ payload:
   - DOMAIN-SUFFIX,nottinghamtrentadfs.ac.uk
   - DOMAIN-SUFFIX,nottm-coll.ac.uk
   - DOMAIN-SUFFIX,nottsmaternity.ac.uk
+  - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,novafile.com
   - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,novelasia.com
@@ -30302,6 +30308,7 @@ payload:
   - DOMAIN-SUFFIX,thinking3d.ac.uk
   - DOMAIN-SUFFIX,thinkingtaiwan.com
   - DOMAIN-SUFFIX,thinkofliving.com
+  - DOMAIN-SUFFIX,thinkorswim.com
   - DOMAIN-SUFFIX,thinkquarterly.co.uk
   - DOMAIN-SUFFIX,thinkquarterly.com
   - DOMAIN-SUFFIX,thinkwales.ac.uk
