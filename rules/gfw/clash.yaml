@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35871
+# Total count: 35872
 #
-# Update: 2026-10-29 06:43:28(GMT+8)
+# Update: 2026-10-30 06:52:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -17095,6 +17095,7 @@ payload:
   - DOMAIN-SUFFIX,ivacy.com
   - DOMAIN-SUFFIX,iverycd.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivi.tv
   - DOMAIN-SUFFIX,ivicdn.tv
   - DOMAIN-SUFFIX,ivintageporn.com
   - DOMAIN-SUFFIX,ivonblog.com
