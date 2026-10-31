@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35872
+# Total count: 35881
 #
-# Update: 2026-10-31 06:30:51(GMT+8)
+# Update: 2026-11-01 05:45:32(GMT+8)
 #
 #==========================================================================
 payload:
@@ -146,6 +146,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18commic.com
@@ -2194,6 +2195,7 @@ payload:
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,anthonycalzadilla.com
+  - DOMAIN-SUFFIX,anthropic.auth0.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,anthropology.ac.uk
@@ -4505,6 +4507,7 @@ payload:
   - DOMAIN-SUFFIX,bingoporno.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bingx.com
@@ -5704,6 +5707,7 @@ payload:
   - DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
   - DOMAIN-SUFFIX,bsixcollege.ac.uk
   - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,bsky.chat
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bsls.ac.uk
@@ -13207,6 +13211,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubhelp.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
@@ -21162,6 +21167,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,msguancha.com
@@ -30514,9 +30520,12 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tilda.cc
