@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35899
+# Total count: 35900
 #
-# Update: 2026-11-08 06:05:39(GMT+8)
+# Update: 2026-11-09 06:17:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -14006,6 +14006,7 @@ payload:
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
   - DOMAIN-SUFFIX,grindr.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokbot.com
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
