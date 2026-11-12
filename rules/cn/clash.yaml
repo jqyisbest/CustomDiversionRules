@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 126011
+# Total count: 126012
 #
-# Update: 2026-11-11 07:35:42(GMT+8)
+# Update: 2026-11-12 08:52:38(GMT+8)
 #
 #==========================================================================
 payload:
@@ -69642,6 +69642,7 @@ payload:
   - DOMAIN-SUFFIX,nhzs.com
   - DOMAIN-SUFFIX,ni8.com
   - DOMAIN-SUFFIX,ni93.com
+  - DOMAIN-SUFFIX,nia-teams.com
   - DOMAIN-SUFFIX,nianchu.net
   - DOMAIN-SUFFIX,nianhuawan.com
   - DOMAIN-SUFFIX,niankawang.com

@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35900
+# Total count: 35904
 #
-# Update: 2026-11-11 07:35:42(GMT+8)
+# Update: 2026-11-12 08:52:38(GMT+8)
 #
 #==========================================================================
 payload:
@@ -13908,6 +13908,8 @@ payload:
   - DOMAIN-SUFFIX,graduateoutcomes.ac.uk
   - DOMAIN-SUFFIX,graduateswales.ac.uk
   - DOMAIN-SUFFIX,graduatewales.ac.uk
+  - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,grafana.net
   - DOMAIN-SUFFIX,grafolio.com
   - DOMAIN-SUFFIX,graias.com
   - DOMAIN-SUFFIX,graiasmovies.com
@@ -25705,6 +25707,7 @@ payload:
   - DOMAIN-SUFFIX,queens.ac.uk
   - DOMAIN-SUFFIX,queensu.ac.uk
   - DOMAIN-SUFFIX,quercus.ac.uk
+  - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,questvisual.com
   - DOMAIN-SUFFIX,quicinc.com
   - DOMAIN-SUFFIX,quickbook.com.br
@@ -28636,6 +28639,7 @@ payload:
   - DOMAIN-SUFFIX,soylentnews.org
   - DOMAIN-SUFFIX,sp.cool
   - DOMAIN-SUFFIX,spa.ac.uk
+  - DOMAIN-SUFFIX,spacebattles.com
   - DOMAIN-SUFFIX,spaceexplored.com
   - DOMAIN-SUFFIX,spaceforce.mil
   - DOMAIN-SUFFIX,spacely.com.au
