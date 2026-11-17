@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 125404
+# Total count: 125405
 #
-# Update: 2026-11-16 07:00:39(GMT+8)
+# Update: 2026-11-17 09:54:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -18750,6 +18750,7 @@ payload:
   - DOMAIN-SUFFIX,capsuleshanghai.com
   - DOMAIN-SUFFIX,captain-cro.com
   - DOMAIN-SUFFIX,captainbi.com
+  - DOMAIN-SUFFIX,captive.apple.com
   - DOMAIN-SUFFIX,capturetheflag.fun
   - DOMAIN-SUFFIX,capvision.com
   - DOMAIN-SUFFIX,capwhale.com

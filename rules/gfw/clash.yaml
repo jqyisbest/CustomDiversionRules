@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35905
+# Total count: 35909
 #
-# Update: 2026-11-16 07:00:39(GMT+8)
+# Update: 2026-11-17 09:54:41(GMT+8)
 #
 #==========================================================================
 payload:
@@ -8186,6 +8186,7 @@ payload:
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,cyclops-network.ac.uk
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,cygwin.com
   - DOMAIN-SUFFIX,cylink.pro
@@ -8461,6 +8462,7 @@ payload:
   - DOMAIN-SUFFIX,deasians.com
   - DOMAIN-SUFFIX,debank.com
   - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,debot.ai
   - DOMAIN-SUFFIX,debs.ac.uk
   - DOMAIN-SUFFIX,debug.com
   - DOMAIN-SUFFIX,debugproject.com
@@ -26217,6 +26219,7 @@ payload:
   - DOMAIN-SUFFIX,relu.ac.uk
   - DOMAIN-SUFFIX,rememberingslavery.ac.uk
   - DOMAIN-SUFFIX,remirepo.net
+  - DOMAIN-SUFFIX,remna.dev
   - DOMAIN-SUFFIX,remna.st
   - DOMAIN-SUFFIX,rems-cdt.ac.uk
   - DOMAIN-SUFFIX,renaissanceskin.ac.uk
@@ -35036,6 +35039,7 @@ payload:
   - DOMAIN-SUFFIX,yayabay.com
   - DOMAIN-SUFFIX,yayadizhi.xyz
   - DOMAIN-SUFFIX,yazhouse8.com
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,ycc.ac.uk
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,yclients.com
