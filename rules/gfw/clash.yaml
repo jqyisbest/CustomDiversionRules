@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 35909
+# Total count: 35910
 #
-# Update: 2026-11-18 09:03:16(GMT+8)
+# Update: 2026-11-19 08:34:37(GMT+8)
 #
 #==========================================================================
 payload:
@@ -10310,6 +10310,7 @@ payload:
   - DOMAIN-SUFFIX,elephanttubenew.com
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,elgaronline.com
   - DOMAIN-SUFFIX,elgoog.im
   - DOMAIN-SUFFIX,elib.ac.uk

@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 125405
+# Total count: 125408
 #
-# Update: 2026-11-18 09:03:16(GMT+8)
+# Update: 2026-11-19 08:34:37(GMT+8)
 #
 #==========================================================================
 payload:
@@ -60892,6 +60892,7 @@ payload:
   - DOMAIN-SUFFIX,lenovoconnect.com
   - DOMAIN-SUFFIX,lenovoeservice.com
   - DOMAIN-SUFFIX,lenovofile.com
+  - DOMAIN-SUFFIX,lenovofuturecenter.com
   - DOMAIN-SUFFIX,lenovogame.com
   - DOMAIN-SUFFIX,lenovohci.com
   - DOMAIN-SUFFIX,lenovohuishang.com
@@ -75981,6 +75982,7 @@ payload:
   - DOMAIN-SUFFIX,qpkaifa.com
   - DOMAIN-SUFFIX,qplus.com
   - DOMAIN-SUFFIX,qplusstatic.com
+  - DOMAIN-SUFFIX,qpmcn.com
   - DOMAIN-SUFFIX,qpmwg68cre9pci.com
   - DOMAIN-SUFFIX,qpoc.com
   - DOMAIN-SUFFIX,qpstar.com
@@ -109189,6 +109191,7 @@ payload:
   - DOMAIN-SUFFIX,zhaokuaizhao.com
   - DOMAIN-SUFFIX,zhaolaobanla.com
   - DOMAIN-SUFFIX,zhaoliangji.com
+  - DOMAIN-SUFFIX,zhaoliangjipc.com
   - DOMAIN-SUFFIX,zhaoliming.net
   - DOMAIN-SUFFIX,zhaoming.biz
   - DOMAIN-SUFFIX,zhaomishijie.com
