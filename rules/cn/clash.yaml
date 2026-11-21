@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/jqyisbest/CustomDiversionRules
 #
-# Total count: 125408
+# Total count: 125411
 #
-# Update: 2026-11-20 08:43:38(GMT+8)
+# Update: 2026-11-21 08:03:09(GMT+8)
 #
 #==========================================================================
 payload:
@@ -31706,6 +31706,7 @@ payload:
   - DOMAIN-SUFFIX,echo-isoftstone.com
   - DOMAIN-SUFFIX,echo188.com
   - DOMAIN-SUFFIX,echoing.tech
+  - DOMAIN-SUFFIX,echooai.com
   - DOMAIN-SUFFIX,echoteen.com
   - DOMAIN-SUFFIX,echovelle.com
   - DOMAIN-SUFFIX,echu-cable.com
@@ -34032,6 +34033,7 @@ payload:
   - DOMAIN-SUFFIX,fayufaguo.com
   - DOMAIN-SUFFIX,fazhi12368.com
   - DOMAIN-SUFFIX,fazhijx.com
+  - DOMAIN-SUFFIX,fazhipro.com
   - DOMAIN-SUFFIX,fazz.fun
   - DOMAIN-SUFFIX,fb32dc52302e6b9b.com
   - DOMAIN-SUFFIX,fb46cd5483f029aa.com
@@ -78956,6 +78958,7 @@ payload:
   - DOMAIN-SUFFIX,saaas.com
   - DOMAIN-SUFFIX,saagasports.com
   - DOMAIN-SUFFIX,saasddos.com
+  - DOMAIN-SUFFIX,saasfz.com
   - DOMAIN-SUFFIX,saaslb.com
   - DOMAIN-SUFFIX,saasops.tech
   - DOMAIN-SUFFIX,saasruanjian.com
